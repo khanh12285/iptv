@@ -3,30 +3,18 @@
 #Update 12/07/2021
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+1-hd.png",K+1 HD
-http://51.210.99.3:21585/kplus2/index.m3u8
+https://bom.to/m0oeRD99eK5Y8w
+
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+ns-hd.png",K+NS HD
-http://51.210.99.3:21585/kns2/index.m3u8
+https://bom.to/m0oeRD99eK5Y8w
+
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+pc-hd.png",K+PC HD
 http://51.210.99.3:21585/kpc2/index.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/26.png", VTVcab 16 - Bóng đá TV HD
-https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/CsMFgZ_8hWBcT-97BlkSKfLGVw_4DNFAJa-55BmMkswLeyVgDYmsfx4Q6D_ymKCexeKxmEX0ON0PpL0ItgHB47kztYoY-LW4qolPTGNvpxI1EnDfOonz8PlXaZGScB6OBzGG1MvUFPczYeNAVIhyrzVSmzdKDGqafv1ZV-RSCmSNoXBshqo5IKlJwitxaPyq9ME__lUkI1ofiNT7RDvZY3AvNF3fKex_ccAs2ViXlaI3tZc5xI8yty73Qeiefa34y6CtIggAWeB52pd3SrRFMXn4Z3MsHGJvyUfTyDFoMr8NiGo5vKmhnxsJsGSXTBuBFeaDAD5uoaIoXvZ7nLf8jJVUs3FChM9xlR-o1J5rNdomYnWjRGJrVYebZa1uiZMNfRoI5dJGxj75XtSbSqFHEdKyW2QU2UQF6UqTbK0mvr8qZ8q1ULT_LWlRR8N5jES1FwCV7CtaTeyVrn35AnFzYu-Notr4ZJou8Z2YJ9aqP-ZTUaP17uvCc_JfyybAECLtKzaDs451nXQ4e4H18jwqs-YUFHe28vqIj1gmxdJUIwCb9jsDOr_HcXy5E0tNM8NTsZnmqY52XAEODJ0WSw9j_gNKkWoZPct26pj1bre3Yd6cJhFKE1qkoHIUFjBtaxB56QDGU0KG0BWQijh9x3pU2JbD3dUkWCf3WckoS1_xd9GZUBWnZSvYrHYBjLLkz0G8MSmo6-HjyF0C8MfqEXsQRdyo-fyM4xC7WqEv7-FY7D1eqPU38jOao6u0phPnJnZxwQnRtyZckuGdi9sHm0m4v6rKC0nzWqPUSNDE4MkhOOuDZq-pIaxKxXYbXt5_Btu5_PjAzzFvIltwIXuSeAR2t4LP1FREx0QULzeopquIj_J7GJn5S3yWsD7y2xpdUiqVAQ1OhefARDzJe9Sy51g4-0pvsbDGz_htAcct_v3pF7cZfVlRkeISECNj2FViscRWDLbWFjm8Ar8aDI_-5gUHtuDgWAXRrA.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/47.png", VTC14 Fptplay
 https://livecdn.fptplay.net/hda1/vtc14_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="http://vthanh.live/ic/96.png", K+NS HD
-
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanh.live/ic/98.png", K+PM HD
-
-https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/CsMFDUJTjWxr7Sw_tg0_U745xlN1vhr_KjDZS1adimjUyJUcWy7mkrfVgBBfzqevqigB69OeZweSooBgbBP5MLWJKrD3Ac-GpTnaZQh_FxP4RY0LKrcq4zDIXtWopcYZIcH_xniVgKZAIg080k7KUnVarRfJL9oYEUYM8whH_XgiJ_scCUlaRNydrj1HcmzixufrHjoA6_vS5bGllGjn5S1SALdFJ4IHAOvXkeYGCny-bmC5Okl1tqWMVeUXEoYkKdY8_AzOLs4GyT41Cd5VtXobCcH5gOoRpuWHFRJQWiRYk1rM9Jpp72SDOUZsOmk9MNTNBggXtxnE5ai2hDY5HHDV9F6LBumVG9feEguiHezInu83hb5Fdtv6HVBhBkBPZHRqNPVwzqdGDR4yDtf91dOxhfdKQGV6L5nNMsV85NFgTbXlmpus4Igj2JZmEcpeKDKbxRhaqMjSBrJfd3CVYY5JezbWzyVwhUrkU8fAKMPprUZ05SflhoEdtE0YjbNlBXCVndrcN12yZRNY-xfWtuNvcjee2ovNnG6QhWtt3LIQWcUeE5OS3PR6hHGh35dhD1Ktb-vzdM9OAthxiph-A_gRTDqf_jGjEct6xDgq9nR7kBz2vzBsYl8RN4Q3wPgzRaw6hR0AcFAoi14AJ82dlRY-fm86LkCJ3th-7jOMgbqwMosZK3K0V8G6GMlH5GrGqJoVk1FjSByLW7g3MbPEFjZljxl_CjkKxYADn1_Mq4LIogrDbnyuCrbCVXdMqlbOIet4hNBncwiMQitJtM7J7bg-9rEeFvrNeIfQaOGZ3F_DKdLUC9S8_SonTGVMjR0GMhbipvTqpgl9WryTQElATJInr-STNuw9d8qXQe0H-MeRSqZ964veZhHbtnHaBOhf1uhjWR4nNNNoovf4KEctSyb0jLvBHC3jf-HyDUkPWaq2sHMir1cSEHa8baxae05B2irqCoBR-0kaDB7jobVOJZNt6eg3Dg.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
-https://thvli-live2.admon.com.vn/thvli/thvl1-abr/thvl111220/thvl1-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
