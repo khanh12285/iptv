@@ -5,18 +5,7 @@
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- 5K#
 
-#EXTINF:0 group-title="🇨🌐🇨🅰️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Coocaa_logo.png",http://gg.gg/coocaa
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocaFim
-http://gg.gg/cocaFim
-#EXTINF:0 group-title="🇨🌐🇨🅰️" tvg-logo="https://angiahungland.com.vn/wp-content/uploads/2021/06/06.jpg",Thực hiện 5K
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/coca5k
-http://gg.gg/coca5k
-#EXTINF:-1 group-title="🇨🌐🇨🅰️" tvg-logo="https://hamslivenews.com/wp-content/uploads/2021/06/vaccine-India.png",Ủng hộ Quỹ vaccine
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocak1
-http://gg.gg/cocak1
+
 
 #EXTINF:0 tvg-id="hbohd" group-title="🇨🌐🇨🅰️" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
 #EXTVLCOPT:http-user-agent="CoocaaTV"
