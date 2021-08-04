@@ -1,37 +1,48 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được build bởi TMKhanh
-#Update 12/07/2021
+#Update 03/08/2021
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+1-hd.png",K+1 HD
-https://bom.to/m0oeRD99eK5Y8w
+https://bom.to/8FrOkwLEQ6QcPy
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-https://bom.to/m0oeRD99eK5Y8w
+https://bom.to/8FrOkwLEQ6QcPy
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+ns-hd.png",K+NS HD
-https://bom.to/m0oeRD99eK5Y8w
+https://bom.to/aAHwj1yzGYTOdI
 
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+pc-hd.png",K+PC HD
 http://51.210.99.3:21585/kpc2/index.m3u8
 
+#EXTINF:-1 tvg-id="hbo" group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
 
-#EXTINF:-1 tvg-id="vtc14hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/47.png", VTC14 Fptplay
-https://livecdn.fptplay.net/hda1/vtc14_hls.smil/chunklist_b2500000.m3u8
+https://bom.to/lBBCJCNHBD9oRP
 
+#EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+https://bom.to/SnFZlAqA3KeSgx
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/02ff9b2fa203f2d52862a35b7c853d43/1628169217613/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8
+#https://106a8e566.vws.vegacdn.vn/592de6ad268fd099b48f9760b72d6fc13573f2ec/1628169559/cliptv_live/amlst:vinhlong1hd/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 HD
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 SD
-https://thvli-live2.admon.com.vn/thvli/thvl2-abr/thvl111220/thvl2-720p/chunks.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/c60cf300c2d6cb57875a77b0befac3d9/1628169512698/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/107.png", Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD |||| Xemtv
+#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || Xemtv
 https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv7.cat.720p.tms/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htv7" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || Fpt
@@ -235,8 +246,8 @@ http://nex.xemtiviviet.com/next.php?id=50
 #EXTINF:-1 tvg-id="" group-title="Địa phương"tvg-logo="http://vthanh.live/ic/103.png", Hanoicab4 - MOV
 http://nex.xemtiviviet.com/next.php?id=30
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD || Cliptv
-https://106135605.vws.vegacdn.vn/70661386a9ad2617c53c4876d1b80433c1ebf8d9/1627267208/cliptv_live/amlst:vtv1hd1/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD || vcdn
+http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD || Fpt
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -585,4 +596,3 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/227.png", Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
