@@ -43,7 +43,7 @@ https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || Xemtv
-https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv7.cat.720p.tms/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="htv7" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || Fpt
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
@@ -52,7 +52,7 @@ https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/54.png", HTV9 HD || Xemtv
-https://htvc271120.cdn.vnns.io/55dece2517ac870ac3df8ca60c3e1b671610697889/htv9.cat.720p.tms/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/47.png", VTC14 HD
 https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
