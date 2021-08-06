@@ -370,7 +370,8 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/50.png", HTV2 - Vie Channel
 https://livecdn.fptplay.net/hda1/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/50.png", HTV2 HD - Vie Channel
-http://rglink.ml/vieon.m3u8?kenh=vie-channel-htv2-hd
+
+
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="http://vthanh.live/ic/51.png", HTV3 - DreamsTV
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="http://vthanh.live/ic/52.png", HTV Key
@@ -379,7 +380,7 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/55.png", HTV CO.OP
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
  #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+ 
  #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="http://vthanh.live/ic/56.png", HTV Thể Thao
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
@@ -419,12 +420,15 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="babyfirst" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/203.png", BabyFirst
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/200.png", Cartoon Network HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8?
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/200.png", Cartoon Network HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/200.png", Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/237.png", Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/233.png", Fashion TV
