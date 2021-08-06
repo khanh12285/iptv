@@ -33,12 +33,9 @@ https://bom.to/lBBCJCNHBD9oRP
 #EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://bom.to/SnFZlAqA3KeSgx
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
-#https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1200000.m3u8
-https://vtvgo-livedp.vtvdigital.vn/634557eedae09140ae490f0f4dfa8b4c/1628235231164/vinhlong1tv/vinhlong1tv@high.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
-https://live2.thvli.vn/g966U3Zgse1hRSRsix_Hlw/1628241902/thvli/thvl1-abr/thvl111220/thvl1-720p/chunks.m3u8
+https://live2.thvli.vn/zgVYueSihvEdH4bR7nV_vw/1628263674/thvli/thvl1-abr/thvl111220/thvl1-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
@@ -47,7 +44,7 @@ https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 SD
-https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/c60cf300c2d6cb57875a77b0befac3d9/1628169512698/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
+https://live2.thvli.vn/_Y0kZcO8gz4FVfxk_1AfdQ/1628263787/thvli/thvl2-abr/thvl111220/thvl2-480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
@@ -408,49 +405,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/12.png", VTVcab 1 - Vie Giải trí HD
-http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
 
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/29.png", VTVcab 19 - Vie Dramas || VieON
-http://rglink.ml/vieon.m3u8?kenh=vie-dramas-hd
-
-
-#EXTINF:-1 tvg-id="foxhd" group-title="FOX" tvg-logo="http://vthanh.live/ic/185.png", FOX HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="FOX" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxsportshd" group-title="FOX" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports3hd" group-title="FOX" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="FOX" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_b4692000.m3u8
-
-#EXTINF:-1 tvg-id="drfithd" group-title="FOX" tvg-logo="http://vthanh.live/ic/196.png", Dr Fit HD
-
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="FOX" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_b4692000.m3u8
-
-#EXTINF:-1 tvg-id="happykids" group-title="FOX" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
-
-
-#EXTINF:-1 tvg-id="" group-title="FOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
-
-
-#EXTINF:-1 tvg-id="planetearthhd" group-title="FOX" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth HD
-http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_b4692000.m3u8
-
-#EXTINF:-1 tvg-id="woman" group-title="FOX" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
 
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/228.png", AXN HD
@@ -476,6 +431,43 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/232.png", CinemaWorld
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-id="foxhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/185.png", FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxlifehd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxsportshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="foxsports3hd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="FOX" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
+
+
+#EXTINF:-1 tvg-id="drfithd" group-title="FOX" tvg-logo="http://vthanh.live/ic/196.png", Dr Fit HD
+
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="FOX" tvg-logo="http://vthanh.live/ic/193.png", Hollywood Classic HD
+
+
+#EXTINF:-1 tvg-id="happykids" group-title="FOX" tvg-logo="http://vthanh.live/ic/194.png", Happy Kids HD
+
+
+#EXTINF:-1 tvg-id="" group-title="FOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
+
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="FOX" tvg-logo="http://vthanh.live/ic/195.png", Planet Earth HD
+
+#EXTINF:-1 tvg-id="woman" group-title="FOX" tvg-logo="http://vthanh.live/ic/197.png", Woman HD
 
 #EXTINF:-1 tvg-id="blueantent" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/229.png", Blue Ant Entertainment
 
