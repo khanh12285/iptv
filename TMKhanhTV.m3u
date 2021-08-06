@@ -57,7 +57,6 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || Xemtv
 https://vtsstr3.tv24.vn/elive/HTV7_HD.smil/chunklist_b2692000.m3u8
 
-
 #EXTINF:-1 tvg-id="htv7" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || Fpt
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 
@@ -361,12 +360,13 @@ https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/53.png", HTV7 FHD
 https://bom.to/MG90bXfxUXAw3N
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/54.png", HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="http://vthanh.live/ic/54.png", HTV9 FHD
+
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="http://vthanh.live/ic/49.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
@@ -584,4 +584,3 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
 #EXTINF:0 group-title="Quốc tế", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrduHB7-0tFba9ZNCVKCytHJyq-necKbNoLpn-FOJ4DRQJC98jcNsqBT5z9Z_zjQXjNl4&usqp=CAU",
-
