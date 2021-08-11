@@ -6,7 +6,7 @@
 http://27.67.80.83:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=f9dcfabf-e907-410f-8842-a8beea1a8a19&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-http://27.67.64.82:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=cb5fb372-90ea-46dd-86df-101b0ad107b7&MinBw=0&MaxBw=20000000
+http://27.67.50.87:18080//154_1.m3u8?AdaptiveType=HLS&SessionID=b57619b1-4ec9-4714-8d08-e9bb9a9a4e3b&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 http://27.67.80.82:18080//197_1.m3u8
