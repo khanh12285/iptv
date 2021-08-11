@@ -3,10 +3,10 @@
 #Update 10/08/2021
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
-http://27.67.80.82:18080/156_2.m3u8?Range=271446343-271446344&SessionID=7e1dd177-498a-400d-96cf-225b9dcc4309
+http://27.67.80.82:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=8e4f27fe-bd56-49ff-9fa8-8f76e4f33bce&MinBw=0&MaxBw=2000000
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-http://27.67.80.82:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=de04a4ab-51d3-4422-a558-e52d757c1221&MinBw=0&MaxBw=20000000
+http://27.67.80.82:18080//197_1.m3u8
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 http://27.67.80.82:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=7e1dd177-498a-400d-96cf-225b9dcc4309&MinBw=0&MaxBw=2000000
