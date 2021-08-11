@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được sưu tầm chỉnh sửa bởi TMKhanh
-#Update 11/08/2021 v2
+#Update 11/08/2021 v1
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
 https://sgn-vnpt-002-livecdn-vthn-vnd.vieon.vn/6f41027f25157d223af0c98c6d067b2e/9999999999999/vtc/live/hd_vtv6_test/TV_HD/hd_vtv6_test_720p/chunks.m3u8
