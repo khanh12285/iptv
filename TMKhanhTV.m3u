@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được sưu tầm chỉnh sửa bởi TMKhanh
-#Update 10/08/2021
+#Update 11/08/2021
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
 http://27.67.80.83:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=f9dcfabf-e907-410f-8842-a8beea1a8a19&MinBw=0&MaxBw=20000000
@@ -9,7 +9,7 @@ http://27.67.80.83:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=f9dcfabf-e907-41
 http://27.67.50.87:18080//154_1.m3u8?AdaptiveType=HLS&SessionID=b57619b1-4ec9-4714-8d08-e9bb9a9a4e3b&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
-http://27.67.80.82:18080//197_1.m3u8
+http://27.67.80.197:18080//155_2.m3u8?AdaptiveType=HLS&SessionID=85cc16a2-656f-4916-976b-b92f17b55919&MinBw=0&MaxBw=20000000
 
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
 http://51.210.99.3:21585/kpc2/index.m3u8
