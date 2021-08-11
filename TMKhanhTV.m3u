@@ -9,7 +9,7 @@ http://27.67.80.82:18080//197_1.m3u8?AdaptiveType=HLS&SessionID=8e4f27fe-bd56-49
 http://27.67.80.82:18080//197_1.m3u8
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
-http://27.67.80.82:18080//156_2.m3u8?AdaptiveType=HLS&SessionID=7e1dd177-498a-400d-96cf-225b9dcc4309&MinBw=0&MaxBw=2000000
+http://27.67.80.82:18080//197_1.m3u8
 
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
 http://51.210.99.3:21585/kpc2/index.m3u8
