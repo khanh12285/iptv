@@ -170,7 +170,7 @@ http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/159.png", Nam Định
-
+https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/160.png", Nghệ An HD
 http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
