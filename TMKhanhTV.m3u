@@ -24,7 +24,7 @@ https://bom.to/SnFZlAqA3KeSgx
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/THVL1-HD-ABR/HTV-ABR/THVL1-HD-720p/chunks.m3u8
+https://htv-livecdn.fptplay.net/htvonline/binhthuan6.480p.fpt.tms/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
