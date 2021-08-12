@@ -120,6 +120,8 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 http://rglink.ml/vieon.m3u8?kenh=dong-nai-3
 #EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/136.png", Đồng Tháp 1 HD
 http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongthap1" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/136.png", Đồng Tháp 1 HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/137.png", Đồng Tháp 2
 http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/138.png", Gia Lai
