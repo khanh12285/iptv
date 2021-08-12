@@ -21,8 +21,8 @@ https://bom.to/lBBCJCNHBD9oRP
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://bom.to/SnFZlAqA3KeSgx
-
-
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
+https://106a8e566.vws.vegacdn.vn/cd2dc8509d9fb66d9c59efa046dbb523e8404d1d/1628820006/cliptv_live/amlst:vinhlong1hd/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
 https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/8988ffc1706056bb8c101e4c71fed9eb/1628820347017/htv_drm/live/thvl1/TV_HD/thvl1_720p/chunks.m3u8
 
