@@ -98,6 +98,8 @@ https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/126.png", Cần Thơ HD
 https://mekongpassion.com/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-id="cantho" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/126.png", Cần Thơ HD || Hlus
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CANTHO-SD-ABR/HTV-ABR/CANTHO-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/127.png", Cao Bằng HD
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/128.png", Đà Nẵng 1 HD
@@ -144,6 +146,8 @@ https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD || Hlus
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/148.png", Hòa Bình
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/149.png", Hưng Yên HD
