@@ -32,7 +32,7 @@ https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 SD
-
+https://live2.thvli.vn/Ub3eZTCDiofqrJJUtXcgLQ/1628847706/thvli/thvl2-abr/thvl111220/thvl2-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
