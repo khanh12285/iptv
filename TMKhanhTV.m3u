@@ -3,10 +3,9 @@
 #Update 11/08/2021 v2
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
-https://106a8e566.vws.vegacdn.vn/fae48e34da8a9455042f0b89945ab9df79176304/1628845251/cliptv_live/amlst:htv7hd/chunklist_b2128000.m3u8
-
+https://livestream.endurio.foundation/live/61179fd3a71d59001c879398/61179fd3a71d59001c879398.m3u8
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-https://live2.thvli.vn/GvrU16tUs_0N2QnHDUZY0g/1628847561/thvli/thvl1-abr/thvl111220/thvl1-720p/chunks.m3u8
+https://bom.to/B9SEhAwcUKlFdV
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 
