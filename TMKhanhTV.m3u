@@ -427,8 +427,11 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" group-title="Quốc tế",VIVA TV 
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+
+#EXTINF:-1 tvg-id="mtvhd" group-title="Quốc tế" tvg-logo="http://vthanhchannel.github.io/ic/246.png", MTV
+https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
+
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/198.png", Animax HD
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/199.png", Boomerang HD
