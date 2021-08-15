@@ -720,3 +720,31 @@ http://www.vthanh.wtf/vieon.m3u8?kenh=vie-dramas-hd
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="http://vthanh.live/ic/30.png", VTVcab 20 - VFamily
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sctvonline.vn/
 
+#EXTM3U 
+#EXTINF:0, K+PM 
+http://103.207.38.11/kpm/mpegts
+#EXTINF:0, Bundesliga 1 
+http://cb8b97a63d7e.ap.ngrok.io/bundesliga1/mpegts
+#EXTINF:0, Bundesliga 2 
+http://cb8b97a63d7e.ap.ngrok.io/bundesliga2/mpegts
+#EXTINF:0, EPL 1 
+http://35.220.129.25/epl1/mpegts 
+#EXTINF:0, EPL 2 
+http://35.220.129.25/epl2/mpegts
+#EXTINF:0, EPL 3 
+http://35.220.129.25/epl3/mpegts
+#EXTINF:0, EPL 4 
+http://35.220.129.25/epl4/mpegts
+#EXTINF:0, Ligue 1
+http://cb8b97a63d7e.ap.ngrok.io/ligue1/mpegts
+#EXTINF:0, Ligue 2
+http://cb8b97a63d7e.ap.ngrok.io/ligue2/mpegts
+#EXTINF:0, Ligue 3 
+http://cb8b97a63d7e.ap.ngrok.io/ligue3/mpegts
+#EXTINF:0, Ligue 4 
+http://cb8b97a63d7e.ap.ngrok.io/ligue4/mpegts
+#EXTINF:0, SCTV17 
+http://35.220.129.25/sctv17/mpegts
+#EXTINF:0, SCTV15 
+http://35.220.129.25/sctv15/mpegts
+
