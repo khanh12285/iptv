@@ -3,7 +3,7 @@
 #Update 11/08/2021 v2
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1
-https://htv-livecdn.fptplay.net/htvonline/htv7hd.1080p.nimble.tms/chunklist.m3u8?st=bVQF5NNfdyKvpk6W3k6w3w&e=1629135326|Referer=http://www.htv.com.vn
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM
 https://bom.to/ycurGIFtyWPQfI
