@@ -740,5 +740,6 @@ http://cb8b97a63d7e.ap.ngrok.io/ligue3/mpegts
 #EXTINF:0, SCTV17 
 http://35.220.129.25/sctv17/mpegts
 #EXTINF:0, SCTV15 
-http://35.220.129.25/sctv15/mpegts
+http://iptv247T:xemtreniptv247t@iptv247t.duckdns.org:9981/stream/channelid/1656876774
+#http://35.220.129.25/sctv15/mpegts
 
