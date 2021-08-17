@@ -410,11 +410,11 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
  #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/65.png", HTVC Homeshopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hbo" group-title="" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
 
 https://bom.to/lBBCJCNHBD9oRP
 
-#EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://bom.to/SnFZlAqA3KeSgx
 
 
