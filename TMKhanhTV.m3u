@@ -16,37 +16,28 @@ https://bom.to/I9QODVysS09hAy
 https://bom.to/63QyhgKAzldcjF
 
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD ||thvl
-
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 SD
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 SD
+https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 HD
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 SD
-
-
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3 SD
+https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/107.png", Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD || htv
-
+#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 SD
+https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="htv7" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv9hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/54.png", HTV9 HD
-https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htv9hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/54.png", HTV9 HD || htv
-
-
-#EXTINF:-1 tvg-id="vtc14hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/47.png", VTC14 HD
-https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/108.png", An Giang HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
