@@ -740,3 +740,211 @@ http://35.220.129.25/sctv17/mpegts
 http://iptv247T:xemtreniptv247t@iptv247t.duckdns.org:9981/stream/channelid/1656876774
 #http://35.220.129.25/sctv15/mpegts
 
+
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://goldencup.vn/wp-content/uploads/2017/09/fotolia_84282280-maquette-maintenance-2.jpg",changer link!
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",🔗Link1|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",🔗Link2|ℎ𝑡𝑡𝑝://gg.gg/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",App IPTV Pro Chọn HW trình mặc định để play
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",App Tivimate play tốt
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",làm mới list trước khi xem
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="🔗|ℎ𝑡𝑡𝑝://𝑏𝑖𝑡.𝑙𝑦/247𝑠𝑝𝑜𝑟𝑡-ℎ𝑡" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/sportall.png",Nhóm Cakhiatv đúng giờ mới có link
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://unicornriot.ninja/wp-content/uploads/2018/09/LiveChannel334x212v2.png",♻|Trực tiếp bóng đá⬇|♻ 
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Santa Clara vs Partizan Beograd
+https://7038446ef.vws.vegacdn.vn/livehls/m202nd/playlist.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/nextlive.png",♻|Trận sắp diễn ra⬇|♻ -đúng giờ làm mới list
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h30-21/08: RB Leipzig - VfB Stuttgart
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0d9549a9d0d876feb06-xZIKtm&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-21/08: Brest - PSG
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be11b549a9d0d876feb1b-ip1z7i&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-21/08: Real Betis - Cadiz
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be095549a9d0d876feaf9-H63Tzc&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h00-21/08: Bengaluru FC - Bashundhara Kings
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be167549a9d0d876feb24-Vs8jVj&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h30-21/08: Liverpool - Burnley
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be020549a9d0d876feae1-gu2kxz&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-21/08: Bochum - Mainz
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0da549a9d0d876feb07-a64Xyl&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-21/08: Frankfurt - Augsburg
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0dc549a9d0d876feb08-YUScUJ&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-21/08: Freiburg - Dortmund
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0dd549a9d0d876feb0b-2RSVFt&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-21/08: Greuther Fürth - Arminia Bielefeld
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0df549a9d0d876feb0e-SpnqaS&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-21/08: Hertha BSC - Wolfsburg
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0e0549a9d0d876feb11-wnGTvC&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-21/08: Leeds - Everton
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be02a549a9d0d876feae4-boPCUZ&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-21/08: Crystal Palace - Brentford
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be031549a9d0d876feae7-SwHprZ&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-21/08: Aston Villa - Newcastle
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be04d549a9d0d876feaed-FmwyIb&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-21/08: Man City - Norwich
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be053549a9d0d876feaf0-SsBrpj&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-21/08: Deportivo Alaves - Mallorca
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be096549a9d0d876feafa-oLxs7D&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-21/08: Monaco - Lens
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be11d549a9d0d876feb1c-vp9HXt&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-21/08: Maziya - ATK Mohun Bagan FC
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be169549a9d0d876feb25-GrNHRt&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-21/08: Brighton - Watford
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be05a549a9d0d876feaf3-ERs2uA&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-21/08: Hellas Verona - Sassuolo
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0ac549a9d0d876feb00-AQufWE&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-21/08: Inter - Genoa
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0ae549a9d0d876feb01-ca5yPy&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-21/08: Leverkusen - M'gladbach
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611be0ec549a9d0d876feb18-BXpr8d&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-22/08: Espanyol - Villarreal
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23a7549a9d0d876feb76-ZihaMH&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-22/08: Granada - Valencia
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23a9549a9d0d876feb77-03lNG0&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h45-22/08: Empoli - Lazio
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23e0549a9d0d876feb82-ySGccG&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h45-22/08: Torino - Atalanta
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23e2549a9d0d876feb83-lDmSkp&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-22/08: Saint-Etienne - Lille
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c2429549a9d0d876feb94-yveI0m&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h00-22/08: Athletic Club - Barcelona
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23ad549a9d0d876feb7c-6upX9s&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h00-22/08: Lyon - Clermont Foot
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c242b549a9d0d876feb95-uCxbgN&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-22/08: Southampton - Man United
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c2377549a9d0d876feb6d-Od0a2K&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-22/08: Wolves - Tottenham
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c2379549a9d0d876feb6e-PFUcVd&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-22/08: Bordeaux - Angers
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c242c549a9d0d876feb96-DY82jv&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-22/08: Metz - Reims
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c242d549a9d0d876feb99-lQTRQ4&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-22/08: Montpellier - Lorient
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c242f549a9d0d876feb9c-Q2PNiH&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-22/08: Strasbourg - Troyes
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c2430549a9d0d876feb9f-Bhwp6b&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-22/08: Hoffenheim - Union Berlin
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23fc549a9d0d876feb8e-QFyekr&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-22/08: Real Sociedad - Rayo Vallecano
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23b0549a9d0d876feb7d-yCH8Vj&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-22/08: Rennes - Nantes
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c2432549a9d0d876feba2-pB7cH8&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h30-22/08: Arsenal - Chelsea
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c237c549a9d0d876feb71-myZooT&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h30-22/08: Bayern München - Köln
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23fd549a9d0d876feb8f-uM8xnF&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-22/08: Bologna - Salernitana
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23e4549a9d0d876feb84-atgR2G&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-22/08: Udinese - Juventus
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611c23e6549a9d0d876feb89-JFejDg&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-23/08: Atletico Madrid - Elche
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611d7778549a9d0d876fec39-IKknPh&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h45-23/08: Nice - Marseille
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611d773c549a9d0d876fec2d-zbFf6G&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h45-23/08: Napoli - Venezia
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611d774e549a9d0d876fec30-sVmdmp&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h45-23/08: Roma - Fiorentina
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611d7750549a9d0d876fec31-GL4bhD&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h00-23/08: Levante - Real Madrid
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611d777d549a9d0d876fec3c-R4PwxU&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-23/08: Cagliari - Spezia
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611d7751549a9d0d876fec32-fRnZQS&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h00-24/08: Getafe - Sevilla
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611ebb8a549a9d0d876fed38-Lqh7oO&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h45-24/08: Sampdoria - Milan
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611ebb9d549a9d0d876fed40-63W9Md&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-24/08: West Ham - Leicester
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611ebb88549a9d0d876fed37-kYNjZv&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h00-24/08: Osasuna - Celta Vigo
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611ebb8c549a9d0d876fed39-fQklLU&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h00-24/08: ATK Mohun Bagan FC - Bashundhara Kings
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611ebbb2549a9d0d876fed43-5okQUN&.m3u8|Referer=https://cakhia2.live/truc-tiep
+#EXTINF:-1 group-title="⚽|CaKhiaTV|Làm Mới List_ Mới Có Link Play Khi đúng giờ" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-24/08: Maziya - Bengaluru FC
+https://iptvhthanh.000webhostapp.com/public/cakhiatv_play.php?id=611ebbb5549a9d0d876fed44-Yi0Ln5&.m3u8|Referer=https://cakhia2.live/truc-tiep
+
+#EXTM3U
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",23h30-20/08: Düsseldorf - Holstein Kiel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb1da6651b57885bfa9a&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",23h30-20/08: Hannover 96 - FC Heidenheim
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb1ea6651b57885bfa9b&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",18h30-21/08: Liverpool - Burnley
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb17a6651b57885bfa72&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",21h00-21/08: Aston Villa - Newcastle
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb17a6651b57885bfa73&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",21h00-21/08: Crystal Palace - Brentford
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb18a6651b57885bfa74&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",21h00-21/08: Leeds - Everton
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb18a6651b57885bfa75&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",21h00-21/08: Man City - Norwich
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611beb18a6651b57885bfa76&.m3u8|Referer=https://mitom.1g30p.link/
+#EXTINF:-1 group-title="⚽|90phutTV" tvg-logo="https://i.imgur.com/zn1ChEM.jpg",23h30-21/08: Brighton - Watford
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (247ht90) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://iptvhthanh.000webhostapp.com/public/90pbestlink/get_90m21.php?id=611d3c98a6651b0b1e23ba12&.m3u8|Referer=https://mitom.1g30p.link/
+
+#EXTM3U
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",05:00-20/08:  Brusque - Goiás
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/brusque-vs-goias-luc-0500-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",05:00-20/08:  Tapatío - Morelia
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/tapatio-vs-morelia-luc-0500-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",05:15-20/08:  Real Potosí - Bolívar
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/real-potosi-vs-bolivar-luc-0515-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",05:15-20/08:  Athletico PR - LDU Quito
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/athletico-pr-vs-ldu-quito-luc-0515-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",06:00-20/08:  Fernandez Vial - Copiapó
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/fernandez-vial-vs-copiapo-luc-0600-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",07:00-20/08:  Atlante - Cancún
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/atlante-vs-cancun-luc-0700-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",07:15-20/08:  Wilstermann - Santa Cruz
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/wilstermann-vs-santa-cruz-luc-0715-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",07:30-20/08:  Brasil de Pelotas - CSA
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/brasil-de-pelotas-vs-csa-luc-0730-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",07:30-20/08:  Libertad - Santos
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/libertad-vs-santos-luc-0730-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",07:30-20/08:  Barcelona SC - Fluminense
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/barcelona-sc-vs-fluminense-luc-0730-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",08:00-20/08:  Leones FC - R. San Andres
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/leones-fc-vs-r-san-andres-luc-0800-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",09:00-20/08:  Once Municipal - Comunicaciones
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/once-municipal-vs-comunicaciones-luc-0900-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",14:00-20/08:  Krylya Sovetov U19 - Ufa U19
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/krylya-sovetov-u19-vs-ufa-u19-luc-1400-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",14:00-20/08:  Xinjiang Tianshan - Zibo Sunday
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/xinjiang-tianshan-vs-zibo-sunday-luc-1400-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",15:00-20/08:  Rubin Kazan U19 - Strogino U20
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/rubin-kazan-u19-vs-strogino-u20-luc-1500-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",15:15-20/08:  Oakleigh C U21 - St.A Saints U21
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/oakleigh-c-u21-vs-st-a-saints-u21-luc-1515-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",15:30-20/08:  Dandenong U21 - Eastern Lions U21
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/dandenong-u21-vs-eastern-lions-u21-luc-1530-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",16:30-20/08:  S. Melbourne - Avondale FC
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/s-melbourne-vs-avondale-fc-luc-1630-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",16:30-20/08:  Shaanxi - Guizhou FC
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/shaanxi-vs-guizhou-fc-luc-1630-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="⚽|Thức Khuya TV" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/thuckhuyatv.png",16:30-20/08:  Mel. Knights - Bentleigh Greens
+https://iptvhthanh.000webhostapp.com/public/ThucKhuyaTV2/thuckhuyatv.php?url=https://thuckhuyalive.com/lives/mel-knights-vs-bentleigh-greens-luc-1630-ngay-20-08/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+
+
