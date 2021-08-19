@@ -413,8 +413,8 @@ https://bom.to/SnFZlAqA3KeSgx
 https://bom.to/lBBCJCNHBD9oRP
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-https://bom.to/SnFZlAqA3KeSgx" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", HBO
-#EXTVLCOPT:http-user-agent="BearTV"
+
+
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
 #EXTVLCOPT:http-user-agent="BearTV"
