@@ -16,20 +16,20 @@ https://bom.to/xPM0fTnYFbPnJh
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 SD
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2 SD
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/105.png", Vĩnh Long 2
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3 SD
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/106.png", Vĩnh Long 3
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b1200000.m3u8
 
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/107.png", Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/107.png", Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7 SD
+#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/53.png", HTV7
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b1800000.m3u8
 
 
