@@ -8,6 +8,11 @@ https://bom.to/Q3c2FPOqxJsWZO
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
 https://bom.to/igUOmsePmhVKEd
 
+#EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM Trực tiếp
+#http://103.207.38.11/kpm/mpegts
+#EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM Trực tiếp
+#http://103.109.36.5/kpm/mpegts
+
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 http://103.109.36.5/kpm/mpegts
 
@@ -598,23 +603,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanh.live/ic/192.png", KPM
 http://103.207.38.11/kpm/mpegts
 
-#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/242.png", EPL2
-http://35.220.129.25/epl2/mpegts
-
-#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/241.png", EPL3
-http://35.220.129.25/epl3/mpegts
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanh.live/ic/193.png", Ligue1
-http://cb8b97a63d7e.ap.ngrok.io/ligue1/mpegts
-
-#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanh.live/ic/196.png", Ligue2
-http://cb8b97a63d7e.ap.ngrok.io/ligue2/mpegts
-
-#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanh.live/ic/194.png", Ligue3
-http://cb8b97a63d7e.ap.ngrok.io/ligue3/mpegts
-
-#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/240.png", SCTV17
-http://35.220.129.25/sctv17/mpegts
-
-#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanh.live/ic/243.png", SCTV15
-http://35.220.129.25/sctv15/mpegts
