@@ -15,6 +15,15 @@ https://bom.to/xPM0fTnYFbPnJh
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="K+" tvg-logo="https://vthanhtivi.cf/ic/25.png", Bóng Đá TV
+http://35.220.129.25/vtvcab16/mpegts
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - Thể thao TV
+http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + HD
+http://www.vthanh.wtf/vtvgo.m3u8?id=196
+
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 SD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
@@ -380,6 +389,11 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
  http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
  #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/65.png", HTVC Homeshopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="http://vthanhtivi.cf/ic/244.png", HBO HD
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="http://vthanhtivi.cf/ic/245.png", Cinemax HD
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
 https://bom.to/lBBCJCNHBD9oRP
