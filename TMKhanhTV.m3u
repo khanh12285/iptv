@@ -446,27 +446,26 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/233.png", Fashion TV
-https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/232.png", CinemaWorld
-https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/185.png", FOX HD
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-720p/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="foxlifehd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/188.png", FOX Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxsportshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/189.png", FOX Sports HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports2hd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/190.png", FOX Sports 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxsports3hd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/191.png", FOX Sports 3 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxsportshd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/Pwnshkc/fox.png",FOX SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -515,7 +514,7 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/204.png", Da Vinci HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/205.png", BBC Earth
@@ -578,7 +577,7 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/226.png", Nat Geo Wild HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/227.png", Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
