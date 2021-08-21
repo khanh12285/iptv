@@ -9,9 +9,9 @@ https://bom.to/9ijSZbOpLih4l8
 https://bom.to/igUOmsePmhVKEd
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM Trực tiếp
-#http://103.207.38.11/kpm/mpegts
+http://103.207.38.11/kpm/mpegts
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM Trực tiếp
-#http://103.109.36.5/kpm/mpegts
+http://103.109.36.5/kpm/mpegts
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 http://103.109.36.5/kpm/mpegts
