@@ -394,11 +394,14 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
 
 #EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #https://bom.to/lBBCJCNHBD9oRP
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vthanhtivi.cf/ic/245.png", Cinemax HD
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 
