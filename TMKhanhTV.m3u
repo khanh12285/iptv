@@ -527,8 +527,8 @@ https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/211.png", Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/212.png", CNN
-https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="http://vthanhtivi.cf/ic/212.png", CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/213.png", CNA
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
