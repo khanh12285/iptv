@@ -15,6 +15,13 @@ https://bom.to/xPM0fTnYFbPnJh
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
+#EXTINF:-1 tvg-id="hbo" group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
+
+https://bom.to/lBBCJCNHBD9oRP
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+https://bom.to/SnFZlAqA3KeSgx
+
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="K+" tvg-logo="https://vthanhtivi.cf/ic/25.png", Bóng Đá TV
 http://35.220.129.25/vtvcab16/mpegts
 
