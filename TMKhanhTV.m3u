@@ -16,12 +16,12 @@ https://bom.to/xPM0fTnYFbPnJh
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-id="hbo" group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #https://bom.to/lBBCJCNHBD9oRP
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1800000.m3u8
 #https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 #https://bom.to/SnFZlAqA3KeSgx
 
