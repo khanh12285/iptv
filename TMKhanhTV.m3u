@@ -506,20 +506,18 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/221.png", Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/204.png", Da Vinci HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-720p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b2500000.m3u8
 
-
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/205.png", BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/206.png", BBC Lifestyle
+EXTINF:-1 tvg-id="bbcearth" group-title="BBC" tvg-logo="http://vthanhtivi.cf/ic/205.png", BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="BBC" tvg-logo="http://vthanhtivi.cf/ic/206.png", BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/207.png", BBC Cbeebies
-https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/208.png", BBC World News
+#EXTINF:-1 tvg-id="cbeebies" group-title="BBC" tvg-logo="http://vthanhtivi.cf/ic/207.png", BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="BBC" tvg-logo="http://vthanhtivi.cf/ic/208.png", BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/209.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
