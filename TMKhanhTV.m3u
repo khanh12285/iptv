@@ -10,11 +10,8 @@ https://www.rlink.vn/kpm
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",Trực tiếp
 
-
-
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 https://www.rlink.vn/kns
-
 
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
 #https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
@@ -24,7 +21,6 @@ https://www.rlink.vn/kpc
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #https://bom.to/lBBCJCNHBD9oRP
-
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 SD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
@@ -76,7 +72,6 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/119.png", Bình Dương 4 HD
-
 
 
 #EXTINF:-1 tvg-id="binhduong6" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/120.png", Bình Dương 6
