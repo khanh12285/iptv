@@ -13,11 +13,12 @@ https://www.rlink.vn/kpm
 
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
-http://103.109.36.5/kpm/mpegts
+https://www.rlink.vn/kns
 
 
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+https://www.rlink.vn/kpc
 
 #EXTINF:-1 tvg-id="hbo" group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
