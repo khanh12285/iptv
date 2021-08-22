@@ -50,7 +50,7 @@ https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/108.png", An Giang HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/109.png", Bà Rịa Vũng Tàu HD
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/110.png", Bắc Giang HD
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/111.png", Bắc Ninh HD
