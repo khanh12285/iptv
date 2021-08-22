@@ -24,20 +24,6 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
 #https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #https://bom.to/lBBCJCNHBD9oRP
 
-#EXTINF:0 tvg-id="cinemaxhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1800000.m3u8
-#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
-#https://bom.to/SnFZlAqA3KeSgx
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="K+" tvg-logo="https://vthanhtivi.cf/ic/25.png", Bóng Đá TV
-http://35.220.129.25/vtvcab16/mpegts
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/14.png", VTVcab 3 - Thể thao TV
-http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
-
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/18.png", VTVcab 6 - On Sports + HD
-http://www.vthanh.wtf/vtvgo.m3u8?id=196
-
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/104.png", Vĩnh Long 1 SD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
