@@ -341,7 +341,7 @@ https://rlink.vn/beartv-vtvcab1
 #EXTINF:0 tvg-id="vtvcab19hd"group-title="VTV" tvg-logo="  https://i.ibb.co/T84Wq4j/VTVCAB10-BEARTV.png",VTVCab19 - Vie Dramas
 https://rlink.vn/beartv-vtvcab19
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/34.png", VTC1 HD
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png", VTC1 HD
 https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/34.png", VTC1 HD || Fpt
