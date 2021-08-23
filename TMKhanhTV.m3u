@@ -69,18 +69,18 @@ http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/116.png", Bình Dương 1 HD
-https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/117.png", Bình Dương 2 HD
-https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/119.png", Bình Dương 4 HD
 
 #EXTINF:-1 tvg-id="binhduong6" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/120.png", Bình Dương 6
-https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="binhduong11" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/121.png", Bình Dương 11
-https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/122.png", Bình Phước 1 HD
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
