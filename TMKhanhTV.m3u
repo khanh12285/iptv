@@ -347,6 +347,10 @@ https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/34.png", VTC1 HD || Fpt
 https://livecdn.fptplay.net/hda1/vtc1_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1200px-VTC2_logo_2018.svg.png",VTC2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="http://vthanh.live/ic/36.png", VTC3 HD
 https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
 
