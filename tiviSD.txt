@@ -38,11 +38,11 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/109.png", Bà Rịa Vũng Tàu HD
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/110.png", Bắc Giang HD
-http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/bacgiang_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/111.png", Bắc Ninh HD
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="baccan" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/112.png", Bắc Kạn
-http://113.160.162.131:8080/tv/bk.m3u8
+https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/113.png", Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/114.png", Bến Tre
