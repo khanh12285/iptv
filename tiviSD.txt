@@ -339,9 +339,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png" group-title="HTV",HTVC Plus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
- #EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://i.ibb.co/xzCm232/FBNC-BEARTV.png", FBNC HD
- http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", HBO
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
@@ -353,9 +350,6 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="channelvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/wdwbLJM/Channel-V-BEARTV.png", Channel V HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
@@ -487,14 +481,14 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1800000.m3u8
 #https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/t2MkYyX/CNA-BEARTV.png", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 #EXTINF:-1 tvg-id="france24eng" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/BztxwvZ/FRANCE-24-BEARTV.png", France 24
-http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
+
 
 #EXTINF:-1 tvg-id="dw" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/kGkh233/DWTV-BEARTV.png", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/CJVkC79/CNN-BEARTV.png",CNN
-http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b1200000.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
