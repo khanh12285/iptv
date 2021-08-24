@@ -287,7 +287,8 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="VTC - BEARTV" tvg-logo="https://i.ibb.co/fSHncwL/VTC14-BEARTV.png",VTC14 HD
 #EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtc14_1500.stream/chunklist.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="VTC16-ClipTV" tvg-name="VTC16-ClipTV" group-title="VTC - BEARTV" tvg-logo="https://i.ibb.co/WfHrTR3/VTC16-BEARTV.jpg",VTC16 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
