@@ -53,7 +53,7 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png",BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/sdc/btv9_1500.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/bbrJcmD/BTV10-BEARTV.png",BTV10 - NCM
 #EXTVLCOPT:http-user-agent="BearTV"
