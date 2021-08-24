@@ -176,26 +176,27 @@ https://haugiang011220.cdn.vnns.io/d8fa838a580bd9e3893bcc3aa6bbd3b41621686125/ha
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa – Vũng Tàu
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/99.png", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://vthanh.live/ic/99.png", BTV9 - An Viên TV
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/100.png", BTV10 - NCM
+#EXTINF:-1 tvg-id="" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://vthanh.live/ic/100.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="antvhd"group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
+#EXTINF:0 tvg-id="antvhd"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="quochoi" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/Dt2mVGQ/QUOCHOI-BEARTV.png", QUỐC HỘI
+#EXTINF:0 tvg-id="quochoi" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Dt2mVGQ/QUOCHOI-BEARTV.png", QUỐC HỘI
 http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.m3u8
-#EXTINF:0 tvg-id="qpvnhd" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png", QUỐC PHÒNG VIỆT NAM
+#EXTINF:0 tvg-id="qpvnhd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png", QUỐC PHÒNG VIỆT NAM
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vovtv"group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
+#EXTINF:0 tvg-id="vovtv"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv"group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
+#EXTINF:-1 tvg-id="nhan_dan_tv"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - BEAR TV" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b1800000.m3u8
 
