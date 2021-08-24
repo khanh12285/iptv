@@ -362,8 +362,8 @@ https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 
 #EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD
 #EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="foxfamilymovieshd"group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png",FOX FAMILY HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
