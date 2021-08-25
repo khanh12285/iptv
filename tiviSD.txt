@@ -15,29 +15,29 @@ https://bom.to/xPM0fTnYFbPnJh
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
 
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png", Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png", Vĩnh Long 1
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png", Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png", Vĩnh Long 2
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", Vĩnh Long 3
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png", HTV7
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fSHncwL/VTC14-BEARTV.png",VTC14 HD
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="Địa phương" tvg-logo="https://i.ibb.co/fSHncwL/VTC14-BEARTV.png",VTC14 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b1800000.m3u8
 
 
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png", An Giang HD
-#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
-https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
+#https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa Vũng Tàu HD
 #https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b1200000.m3u8
@@ -204,7 +204,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://i.ibb.co/fF2QLy5/LONGAN-BEARTV.png", Long An HD
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://bom.to/MQovanD9cUQXzj", Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
