@@ -34,7 +34,6 @@ https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b1800000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b1800000.m3u8
 
-ĐỊA PHƯƠNG SD
 
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png", An Giang HD
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
