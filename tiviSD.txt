@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
-#Update 11/08/2021 v1
+#Update 11/08/2021 v2
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
 
