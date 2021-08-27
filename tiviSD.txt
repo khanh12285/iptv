@@ -38,7 +38,8 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png", An Giang HD
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
-https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
+https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/62e660443c943a2c4b6d7588a0e17278/1630123528498/htv_drm/live/an_giang/TV_HD/an_giang_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa Vũng Tàu HD
 #https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b1200000.m3u8
@@ -447,6 +448,14 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b1800000.m3u8
 
+#EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
+#EXTVLCOPT:http-user-agent="BearTV"
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b1800000.m3u8
+
+#EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
+#EXTVLCOPT:http-user-agent="BearTV"
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b1800000.m3u8
+
 #EXTINF:-1 tvg-id="channelvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/wdwbLJM/Channel-V-BEARTV.png", Channel V HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b1200000.m3u8
@@ -460,7 +469,7 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:0 tvg-id="foxfamilymovieshd"group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png",FOX FAMILY HD
 #EXTVLCOPT:http-user-agent="BearTV"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/NsJB6Gv/foxmovies-BEARTV.png",FOX Movies HD
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -479,14 +488,6 @@ https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="foxsports3hd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png", FOX SPORT 3 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b1200000.m3u8
-
-#EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
-#EXTVLCOPT:http-user-agent="BearTV"
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b1800000.m3u8
-
-#EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
-#EXTVLCOPT:http-user-agent="BearTV"
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png", KIX HD
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -590,5 +591,5 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b1800000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/CJVkC79/CNN-BEARTV.png",CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
 
