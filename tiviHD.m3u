@@ -14,9 +14,6 @@
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
 
 
-#EXTINF:-1 tvg-id="hbo" group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://static-stage.tv24.vn/channel/62/logo26072108_THVL1.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
@@ -439,17 +436,14 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
  #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/65.png", HTVC Homeshopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO" tvg-logo="http://vthanhtivi.cf/ic/244.png", HBO HD
-
-#EXTINF:-1 tvg-id="hbo" group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
-
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
-#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
+#https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #https://bom.to/lBBCJCNHBD9oRP
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="http://vthanhtivi.cf/ic/245.png", Cinemax HD
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-#https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax HD
+#https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 
