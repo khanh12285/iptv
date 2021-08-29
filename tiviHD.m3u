@@ -3,34 +3,25 @@
 #Update 11/08/2021 v2
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
-https://biocuatoi.com/k1
+
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-https://biocuatoi.com/kpm
+
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
-https://www.rlink.vn/kns
+
 
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
-https://www.rlink.vn/kpc
+
 
 #EXTINF:-1 tvg-id="hbo" group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/173.png",HBO HD
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b1800000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://static-stage.tv24.vn/channel/62/logo26072108_THVL1.png", Vĩnh Long 1 SD
-https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://static-stage.tv24.vn/channel/62/logo26072108_THVL1.png", Vĩnh Long 1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://static-stage.tv24.vn/channel/124/logo26072108_THVL2.png", Vĩnh Long 2 SD
-https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b1200000.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://static-stage.tv24.vn/channel/124/logo26072108_THVL2.png", Vĩnh Long 2 HD
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://4movi.net/uploads/tv_image/thvl3-hd.jpg", Vĩnh Long 3 SD
-https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://4movi.net/uploads/tv_image/thvl3-hd.jpg", Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
@@ -38,11 +29,12 @@ https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png", Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/514141-665121-HTV7HD.png", HTV7 SD
-https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b1800000.m3u8
-
 #EXTINF:-1 tvg-id="htv7" group-title="Địa phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/514141-665121-HTV7HD.png", HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="Địa phương" tvg-logo="https://i.ibb.co/fSHncwL/VTC14-BEARTV.png",VTC14 HD
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/108.png", An Giang HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
