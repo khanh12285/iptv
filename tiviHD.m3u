@@ -153,7 +153,7 @@ https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 https://live.thhp.vn/hls/thpplus/index.m3u8
 
 #EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD
-https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="haugiang" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/147.png", Hậu Giang HD || Hlus
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-720p/chunks.m3u8
