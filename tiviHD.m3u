@@ -2,6 +2,16 @@
 #List được sưu tầm chỉnh sửa bởi TMKhanh
 #Update 11/08/2021 v1
 
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/18.png", OnSports+
+http://103.81.84.80:46803/vtvcab6
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/26.png", Bóng Đá TV HD
+http://103.81.84.80:46803/vtvcab16
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức HD
+http://103.81.84.80:46803/vtvcab18
+
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM
+http://103.207.38.11/kpm/mpegts
+
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 1
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 2
