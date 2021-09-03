@@ -2,10 +2,15 @@
 #List được sưu tầm chỉnh sửa bởi TMKhanh
 #Update 11/08/2021 v1
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/18.png", OnSports+
-http://103.81.84.80:46803/vtvcab6
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/26.png", Bóng Đá TV HD
-http://103.81.84.80:46803/vtvcab16
+#EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/95.png", K+1 HD
+http://103.81.84.80:46803/k1
+#EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/96.png", K+NS HD
+http://103.81.84.80:46803/kns
+#EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/97.png", K+PM HD
+http://103.81.84.80:46803/kpm
+#EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/98.png", K+PC HD
+http://103.81.84.80:46803/kpc
+
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức HD
 http://103.81.84.80:46803/vtvcab18
 
