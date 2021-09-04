@@ -11,12 +11,6 @@ http://103.81.84.80:46803/kpm
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/98.png", K+PC HD
 http://103.81.84.80:46803/kpc
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức HD
-http://103.81.84.80:46803/vtvcab18
-
-#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", K+PM
-http://103.207.38.11/kpm/mpegts
-
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 1
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 2
@@ -657,3 +651,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
+http://103.81.84.80:46803/boxmovie1
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
+http://103.81.84.80:46803/hollywood
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
+http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
+http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/240.png", Music Box
+http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/195.png", Planet Earth
+http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
+http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
