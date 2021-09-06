@@ -74,6 +74,7 @@ https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong11" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/121.png", Bình Dương 11
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/122.png", Bình Phước 1 HD
 http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="binhphuoc2" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/123.png", Bình Phước 2 - HomeTV
@@ -199,28 +200,28 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/89.png", ANTV HD
-https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/89.png", ANTV HD
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/90.png", VNews
-https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/90.png", VNews
+https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="nhandan" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/91.png", Nhân Dân TV
+#EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/91.png", Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="quochoi" group-title="Địa phương"tvg-logo="http://vthanh.live/ic/92.png", Quốc Hội
+#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/92.png", Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/93.png", QPVN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/93.png", QPVN
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/94.png", VOVTV HD
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/94.png", VOVTV HD
+http://103.90.220.236/vovlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/99.png", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="Khác" tvg-logo="http://vthanhtivi.cf/ic/99.png", BTV9 - An Viên TV
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/100.png", BTV10 - NCM
+#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="http://vthanhtivi.cf/ic/100.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
