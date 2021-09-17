@@ -483,7 +483,7 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 
-#EXTINF:-1, tvg-id="cinemaxhd" tvg-logo="" tvg-name="Cinemax"  group-title="QUOC TE", Cinemax
+#EXTINF:-1, tvg-id="cinemaxhd" tvg-logo="" tvg-name="Cinemax"  group-title="Quốc tế", Cinemax
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/228.png", AXN HD
