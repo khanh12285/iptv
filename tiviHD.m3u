@@ -46,6 +46,30 @@ https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="antvhd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/89.png", ANTV HD
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/90.png", VNews
+https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="nhandan" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/91.png", Nhân Dân TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="quochoi" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/92.png", Quốc Hội
+http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/93.png", QPVN
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/94.png", VOVTV HD
+http://103.90.220.236/vovlive/tv1live.m3u8
+
+#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/99.png", BTV9 - An Viên TV
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/100.png", BTV10 - NCM
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="TH AN GIANG" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/108.png", An Giang HD
 https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/109.png", Bà Rịa Vũng Tàu HD
@@ -200,29 +224,7 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/89.png", ANTV HD
-https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/90.png", VNews
-https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="nhandan" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/91.png", Nhân Dân TV
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="quochoi" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/92.png", Quốc Hội
-http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/93.png", QPVN
-https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Thiết yếu" tvg-logo="http://vthanhtivi.cf/ic/94.png", VOVTV HD
-http://103.90.220.236/vovlive/tv1live.m3u8
-
-#EXTINF:-1 tvg-id="anvienhd" group-title="Khác" tvg-logo="http://vthanhtivi.cf/ic/99.png", BTV9 - An Viên TV
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Khác" tvg-logo="http://vthanhtivi.cf/ic/100.png", BTV10 - NCM
-https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -666,18 +668,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movie 1
-http://103.81.84.80:46803/boxmovie1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/193.png", Hollywood Classics
-http://103.81.84.80:46803/hollywood
-#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/196.png", Dr Fit
-http://www.vthanh.wtf/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/194.png", Happy Kids
-http://www.vthanh.wtf/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/240.png", Music Box
-http://www.vthanh.wtf/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/195.png", Planet Earth
-http://www.vthanh.wtf/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
-http://www.vthanh.wtf/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
