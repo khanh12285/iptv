@@ -68,9 +68,9 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-id="sctv2hd" group-title="Địa phương" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png", SCTV2
 
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương" tvg-logo="https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png", An Giang HD
-#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
-#https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
-https://sgn-vnpt-001-livecdn-vthcm-vnd.vieon.vn/62e660443c943a2c4b6d7588a0e17278/1630123528498/htv_drm/live/an_giang/TV_HD/an_giang_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TH AN GIANG" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/108.png", An Giang HD
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="baria" group-title="Địa phương" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa Vũng Tàu HD
 #https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b1200000.m3u8
