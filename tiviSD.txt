@@ -14,8 +14,25 @@ https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cak
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 6
 https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
-#EXTINF:-1 tvg-id="K+PC HD" group-title="47 SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png", K+PC HD
-http://s4live.tv1asia.com:21585/kpc2/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/14.png", On Sports
+http://cunbabyshop.xyz/vtvcab3/mpegts
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/18.png", On Sports +
+http://cunbabyshop.xyz/vtvcab6/mpegts
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/25.png", On Football
+http://cunbabyshop.xyz/vtvcab16/mpegts
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", On Sports News Premium
+http://cunbabyshop.xyz/vtvcab18/mpegts
+
+#EXTINF:-1 tvg-id="htv7hd" group-title="Live Bóng Đá" tvg-logo="http://vthanhtivi.cf/ic/53.png", HTV7 HD
+http://cunbabyshop.xyz/htv7hd/mpegts
+#EXTINF:-1 tvg-id="htv9hd" group-title="Live Bóng Đá" tvg-logo="http://vthanhtivi.cf/ic/54.png", HTV9 HD
+http://cunbabyshop.xyz/htv9hd/mpegts
+ #EXTINF:-1 tvg-id="htvthethaohd" group-title="Live Bóng Đá" tvg-logo="http://vthanhtivi.cf/ic/56.png", HTV Thể Thao
+http://cunbabyshop.xyz/htvtt/mpegts
+
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="http://vthanhtivi.cf/ic/97.png", K+PM - Live khi có trận
+http://cunbabyshop.xyz/kpm/mpegts
+
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K+1_HD.png",K+1 HD
 
@@ -26,8 +43,8 @@ http://s4live.tv1asia.com:21585/kpc2/index.m3u8
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K+NS_HD.png",K+NS HD
 
 
-#EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
-
+#EXTINF:-1 tvg-id="kpchd" group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K+PC_HD.png",K+PC HD
+http://cunbabyshop.xyz/kpm/mpegts
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png", Vĩnh Long 1
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b1800000.m3u8
