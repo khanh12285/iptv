@@ -109,14 +109,11 @@ https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="binhduong11" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/121.png", Bình Dương 11
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png",BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/99.png", BTV9 - An Viên TV
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  group-title="Địa phương" tvg-logo="https://i.ibb.co/bbrJcmD/BTV10-BEARTV.png",BTV10 - NCM
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/100.png", BTV10 - NCM
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png", Bình Phước 1 HD
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b1200000.m3u8
