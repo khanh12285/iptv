@@ -64,10 +64,10 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/94.png", VOVTV HD
 http://103.90.220.236/vovlive/tv1live.m3u8
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/99.png", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/99.png", BTV9 - An Viên TV
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/100.png", BTV10 - NCM
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanh.live/ic/100.png", BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="TH AN GIANG" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/108.png", An Giang HD
