@@ -490,8 +490,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="Quốc tế" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="Quốc tế" tvg-logo="http://vthanhchannel.github.io/ic/246.png", MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
@@ -512,7 +511,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8?
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/237.png", Warner TV || hlus
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -643,18 +641,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/227.png", Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="FX" group-title="Quốc tế" tvg-logo="https://lh6.googleusercontent.com/-hBR1p-XwtUs/TXiuhWZMVBI/AAAAAAAAAU0/Zekukzjp6P4/s1600/FX-logo.png",FX
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://rlink.vn/cocafx
-#http://gg.gg/cocafx
-
-#EXTINF:0 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="Quốc tế" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",&Privé
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="Quốc tế", tvg-logo="https://i.pinimg.com/236x/f7/c4/31/f7c431bce50ee3fd6cb5106a06090afd.jpg",Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w536800369.m3u8
