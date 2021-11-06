@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được sưu tầm chỉnh sửa bởi TMKhanh
-#Update 11/08/2021 v1
+#Update 06/11/2021 v1
 
 #EXTINF:0 group-title="🍬| K+ logo" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi", K+ Sport 1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
