@@ -1,5 +1,5 @@
 
 #EXTM3U url-tvg="http://bit.ly/guidevn" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 
-#EXTINF:-1 group-title="💓- BẢO TRÌ SERVER -💓" tvg-logo="https://img.thuthuatphanmem.vn/uploads/2018/10/13/anh-loi-cam-on-dep_043633845.jpg",FTV MidNight
+#EXTINF:-1 group-title="💓- BẢO TRÌ SERVER -💓" tvg-logo="https://img.thuthuatphanmem.vn/uploads/2018/10/13/anh-loi-cam-on-dep_043633845.jpg",FashionTV
 http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
