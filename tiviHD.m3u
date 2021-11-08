@@ -661,7 +661,8 @@ http://103.195.238.226/inthebox/mpegts
 #EXTINF:0 tvg-id="boxhits" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",/-❤️BOX Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
-https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
+#https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
+http://103.195.238.226/boxhits/mpegts
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",❤️BOX Movie¹
 #EXTVLCOPT:http-user-agent="CoocaaTV"
