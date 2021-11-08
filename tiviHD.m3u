@@ -542,28 +542,6 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/232.png", CinemaWorld
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxhd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/185.png", FOX HD
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-720p/playlist.m3u8
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/186.png", FOX Family Movies HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="Quốc tế" tvg-logo="http://vthanh.live/ic/187.png", FOX Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-id="foxsportshd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/Pwnshkc/fox.png",FOX SPORTS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/YycPWjr/fox2.png",FOX SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_sports3" group-title="Quốc tế" tvg-logo="https://i.ibb.co/GVR6w1d/fox3.png",FOX SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="FOX" tvg-logo="http://vthanh.live/ic/192.png", Box Movies 1 HD
-
-
 #EXTINF:-1 tvg-id="drfithd" group-title="FOX" tvg-logo="http://vthanh.live/ic/196.png", Dr Fit HD
 
 
