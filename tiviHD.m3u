@@ -91,7 +91,7 @@ https://live.vegacdn.kplus.vn/live/prod_cinemax_fps/prod_cinemax_fps.isml/prod_c
 https://live.vegacdn.kplus.vn/live/prod_sctv9_fps/prod_sctv9_fps.isml/prod_sctv9_fps.mpd
 
 
-#EXTINF:0 group-title="🍭| K+" tvg-id="axn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
+#EXTINF:0 group-title="🍭| K+" tvg-id="axn" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png", AXN
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -99,7 +99,7 @@ https://live.vegacdn.kplus.vn/live/prod_sctv9_fps/prod_sctv9_fps.isml/prod_sctv9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_axn_hd_fps/prod_axn_hd_fps.isml/prod_axn_hd_fps.mpd
 
-#EXTINF:0 group-title="🍭| K+" tvg-id="historyhd" tvg-logo="https://vthanh.xyz/ic/85.png", HISTORY
+#EXTINF:0 group-title="🍭| K+" tvg-id="historyhd" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/ccd/logo-history.png", HISTORY
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
