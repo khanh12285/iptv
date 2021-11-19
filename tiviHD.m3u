@@ -318,7 +318,42 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/x0173gkg_vtv138848ce88d091e55558db93bf752282d_296_168.webp", VTV1 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv1-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/xqggfif4_vtv2_296_168.webp", VTV2 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv2-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/3c1uybmy_vtv380f229756aa3db8f798097d1f70c1f74_296_168.webp", VTV3 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv3-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.webp", VTV4 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv4-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/14/8hhvcm7g_vtv5a80d149bc1f919c4d0729a0574f7d8990_296_168.webp", VTV5 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv5-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/14/eui39kh6_microsoftteams-image2bb59db5b1ae818b14e9e33d2cdd465b_296_168.webp", VTV6 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv6-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/wbqip9c5_vtv7_296_168.webp", VTV7 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv7-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp", VTV8 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv8-hd
+#EXTINF:-1 group-title="VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/14/hx8ded4y_microsoftteams-image78e605a26243189ab65e1421f7acd1f0_296_168.webp", VTV9 HD
+#EXTVLCOPT:http-user-agent="vanhTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://vanhiptv.cf/vieon.vn.php?type=tivi&kenh=vtv9-hd
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
