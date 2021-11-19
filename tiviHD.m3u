@@ -773,6 +773,24 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 1
+#https://bf.moonmagic.cn/live/sd-1-3565130.m3u8
+http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 2
+http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
+#http://38.131.11.9:1080/play/a02k
+#EXTINF:0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png", FOX SPORT 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
+#http://38.131.11.9:1080/play/a033
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdHwYRp/eleven1-BEARTV.png" group-title="KÊNH THỂ THAO", ELEVEN SPORTS 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5w1QnB/eleven2-BEARTV.png" group-title="KÊNH THỂ THAO", ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="inthebox" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",❤️BOX ᵗᵉˢᵗ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #http://gg.gg/cc-box|Referer=http://sctvonline.vn/
