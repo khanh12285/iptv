@@ -773,10 +773,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 1
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 1 saky khich
 #https://bf.moonmagic.cn/live/sd-1-3565130.m3u8
 http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 2
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 2 Loren khich
 http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT
