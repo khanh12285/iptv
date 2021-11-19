@@ -514,8 +514,6 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
  #EXTINF:-1 tvg-id="" group-title="HTV" tvg-logo="http://vthanh.live/ic/65.png", HTVC Homeshopping
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="🇸| SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXrOs0ZcIT6AuCSSrusAUa--p9eAcZ5cunjGWmKpVjh9RR8nVBeyjI3xGhd7lFkUYup8&usqp=CAU",☜ XEM BẰNG TiViMATE mới OK
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV1_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20201119113949&path-prefix=vi", SCTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
