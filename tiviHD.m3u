@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
-#Update 06/11/2021 v1
+#EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#Update 23/11/2021 v1
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
