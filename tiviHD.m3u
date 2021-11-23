@@ -68,6 +68,14 @@ https://kpluslive.akamaized.net/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-the
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
 
+#EXTINF:0 group-title="🍭| K+" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/WpQtg0z.png",VTV1 HD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtv1_hd_fps/prod_vtv1_hd_fps.isml/prod_vtv1_hd_fps.mpd
+
 #EXTINF:0 group-title="🍭| K+" tvg-id="vtv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/VTV6_logo_%282007-2012%29%281%29.png/revision/latest/scale-to-width-down/1000?cb=20180802054944&path-prefix=vi",VTV6
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
