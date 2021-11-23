@@ -66,7 +66,15 @@ https://kpluslive.akamaized.net/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-the
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mp
+
+#EXTINF:0 group-title="🍭| K+" tvg-id="vinhlong1hd" tvg-logo="http://vthanhtivi.cf/ic/104.png", Vĩnh Long 1 HD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_thvl1_fps/prod_thvl1_fps.isml/prod_thvl1_fps.mpd
 
 #EXTINF:0 group-title="🍭| K+" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/WpQtg0z.png",VTV1 HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
