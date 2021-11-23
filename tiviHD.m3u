@@ -173,7 +173,7 @@ https://live.vegacdn.kplus.vn/live/prod_vtv8_fps/prod_vtv8_fps.isml/prod_vtv8_fp
 https://kpluslive.akamaized.net/live/prod_vtv9_fps/prod_vtv9_fps.isml/prod_vtv9_fps.mpd
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/104.png", Vĩnh Long 1 HD
-#https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
+##https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/105.png", Vĩnh Long 2 HD
