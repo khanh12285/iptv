@@ -949,6 +949,9 @@ https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2.m3u8
 #https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
 https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
 
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=boxhits
+
 #EXTINF:0 tvg-id="boxmovie1" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",❤️BOX Movie¹
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #http://gg.gg/cc-movie|Referer=http://sctvonline.vn/
