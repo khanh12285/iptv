@@ -938,7 +938,7 @@ https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2.m3u8
 #https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
 https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
 
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🇧🌎🇽" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=boxhits
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",❤️BOX Movie¹
@@ -1059,18 +1059,6 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 group-title="🇧🌎🇽" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg" group-title="♻️|Ace_Kênh Việt2",TIẾNGRƯỠI 01-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
-#EXTINF:-1 tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg" group-title="♻️|Ace_Kênh Việt2",TIẾNGRƯỠI 02-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
-#EXTINF:-1 tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg" group-title="♻️|Ace_Kênh Việt2",TIẾNGRƯỠI 03-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
-#EXTINF:-1 tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg" group-title="♻️|Ace_Kênh Việt2",TIẾNGRƯỠI 04-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=cd539dce766fb529905ef7fc951940a734042b1f
-#EXTINF:-1 tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg" group-title="♻️|Ace_Kênh Việt2",TIẾNGRƯỠI 05-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=e011aa10601b23114205eccd091a0f75088cfde6
-
 
 #EXTINF:-1 tvg-id="thvl1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_THVL1_HD.jpg" group-title="♻️|Ace_Kênh Việt2",thvl 1 hd
 http://127.0.0.1:6878/ace/getstream?id=37eb79718c1326a6b251285691e8095d6fe22222
