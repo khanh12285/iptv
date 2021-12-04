@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #Update 23/11/2021 v1
 
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#https://ottlivevng.kplus.vn/live/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
 
 #EXTINF:0 group-title="🍭| K+" tvg-id="ksport1hd" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -21,6 +21,18 @@ https://ottlivevng.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.i
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://ottlivevng.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://ottlivevng.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
 #EXTINF:0 group-title="🍭| K+" tvg-id="hitshd" tvg-logo="https://me.nguoitieudung.vn/uploads/2021/09/28/2109280954-a2.png",Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
