@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/vietanhepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#Update 23/11/2021 v1
+#Update 04/12/2021 beta
 
 #EXTINF:0 group-title="🍭| K+" tvg-id="kcinehd" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE
 #EXTVLCOPT:http-user-agent="CoocaaTV"
