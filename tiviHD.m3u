@@ -51,7 +51,7 @@ https://live.vegacdn.kplus.vn/live/prod_thvl1_fps/prod_thvl1_fps.isml/prod_thvl1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_htv7_fps/prod_htv7_fps.isml/prod_htv7_fps.mpd
+https://ottlivevng.kplus.vn/live/prod_htv7_fps/prod_htv7_fps.isml/prod_htv7_fps.mpd
 
 #EXTINF:0 group-title="🍭| K+" tvg-id="hitshd" tvg-logo="https://me.nguoitieudung.vn/uploads/2021/09/28/2109280954-a2.png",Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
