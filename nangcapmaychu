@@ -3,3 +3,344 @@
 
 #EXTINF:-1 group-title="💓BẢO TRÌ SERVER💓" tvg-logo="https://img.thuthuatphanmem.vn/uploads/2018/10/13/anh-loi-cam-on-dep_043633845.jpg",FashionTV
 http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 logo="https://i.imgur.com/WpQtg0z.png" tvg-id="1720dc2080cc559bbe228ddff99d0fe4",VTV1 HD
+http://183.81.24.132:9981/stream/channelid/551297047?ticket=2A68B6576E527803011C00ACEC3223E7554D6AF1&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png" tvg-id="c6bf8fd5dd47ce438f05e00f20e397c4",VTV1 HD
+http://183.81.24.132:9981/stream/channelid/1435484102?ticket=4F52368D699C92D88DCA4572E42A028D5A6EE8A4&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6047gMa.jpg" tvg-id="3e2160137ee9f47b156d6bda6be636b6",VTV1 HD 1080
+http://183.81.24.132:9981/stream/channelid/325067070?ticket=152A760ACAAFDE4CC4782A0AB58E129FBAA59E4B&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="942e8e6784066132c9beb39285145169",VTV2 HD
+http://183.81.24.132:9981/stream/channelid/1737371284?ticket=96925C410799BDA806C88DA8DA660E8EF6786E9C&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png" tvg-id="053943ec75818af50acae171f4e90d0c",VTV2 HD
+http://183.81.24.132:9981/stream/channelid/1816344837?ticket=0DD5652A32391A47811A397E9D4E54F30DE69BB9&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="8932eb7d60d4dcbe6e1599854dbb3d76",VTV2 HD
+http://183.81.24.132:9981/stream/channelid/2112565897?ticket=593213853BA1D4E79C7B41E2ABE797D59885EAD9&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png" tvg-id="d6429f939c0c8e7a4667029eb91388b4",VTV3 HD
+http://183.81.24.132:9981/stream/channelid/329204438?ticket=44479BED83B2D402E3CF7EF8CB2B53751A47EA40&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="3f57caca17e33d7ba4d44c518b4fa815",VTV3 HD
+http://183.81.24.132:9981/stream/channelid/1254774591?ticket=412A625C96E03A46FA83AD98E242189DFFC8BB04&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/o6SxT3q.png" tvg-id="ed02f8778cedc2b2db19d266f7f324fe",VTV3 HD
+http://183.81.24.132:9981/stream/channelid/2012742381?ticket=EECB692FB8DF676F2524A0FBA2C72E66FFEF08B8&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jWfsKve.png" tvg-id="3f7c93957bbc426bec17a0ec31e4dbde",VTV4 HD
+http://183.81.24.132:9981/stream/channelid/361987135?ticket=C58BEAB9AA3C327CD03365B7092980E12C14D36A&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jWfsKve.png" tvg-id="989dd73c980711098b133af472ad211a",VTV4 HD
+http://183.81.24.132:9981/stream/channelid/1020763544?ticket=813411F53BFDC4F733EC8ADEE253EE6E55311C03&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.webp" tvg-id="8bc146709413eeba63d64b3110441c3d",VTV4 HD
+http://183.81.24.132:9981/stream/channelid/1883685259?ticket=4A51674F86766EDE582802BEB19407876F64E851&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="158e10c962fa1121cd5aa7aad4c2c145",VTV5 HD
+http://183.81.24.132:9981/stream/channelid/1225821717?ticket=D818985E384C531CAFB345E5D0E3950FB7E78AC9&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gpIJCN1.jpg" tvg-id="9fd5861545d714754f4100dbc0c9bd9f",VTV6 HD
+http://183.81.24.132:9981/stream/channelid/361158047?ticket=1625FC598FBB4EB7FD5E642F9521A603AF709345&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gpIJCN1.jpg" tvg-id="a031fca8ec154d6b732ac904aa861494",VTV6 HD
+http://183.81.24.132:9981/stream/channelid/687616416?ticket=D6B358BBE6F2DDCE78C1DEBF912C6F6024CADBD0&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.png" tvg-id="80a333af182cc4654ae09bd4efaacec0",VTV6 HD
+http://183.81.24.132:9981/stream/channelid/791913344?ticket=81D12400C0B0195B048A4BB2F458E3FA4F2FC7C6&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="104db92e4a1b01d07684b59f65d0afb1",VTV7 HD
+http://183.81.24.132:9981/stream/channelid/783895824?ticket=418EE6AE53ED11981BA4430A3ECE09349D7FDBFA&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.png" tvg-id="736f8f55d800de7005de6540c272fc5c",VTV7 HD
+http://183.81.24.132:9981/stream/channelid/1435463539?ticket=D7FC71F9BD7CA6F61071EBE7494BC68007228737&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9XsZ2fd.png" tvg-id="d99bc993852010d1fd6403dbb8818dd1",VTV8 HD
+http://183.81.24.132:9981/stream/channelid/331979737?ticket=C74ED652911E3CCE319297C2A72E0DAB4DDA336C&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nnncwn7b_vtv8.png" tvg-id="e9f2661a8ebff8ac13690ce497e45453",VTV8 HD
+http://183.81.24.132:9981/stream/channelid/442954473?ticket=7C2FDFEFFB743B2A6CA19EE7AE9EF1B10CAD32A5&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="3e5714539baf1929afbf23211ef01fed",VTV8 HD
+http://183.81.24.132:9981/stream/channelid/1393841982?ticket=D8AEC469C3384796E785DF0BB6B9473DA72DF668&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png" tvg-id="2e11d3347b2ee8c2ea651cf5267654e4",VTV9 HD
+http://183.81.24.132:9981/stream/channelid/886247726?ticket=62A54DC3549BDFA38226B0A710FB6B7221D96440&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="37b7eb5e6812de2600850b290f159d67",VTV9 HD
+http://183.81.24.132:9981/stream/channelid/1592506167?ticket=454D0EDCCC4C788CEC4B1AF3DE91F89D2EBAD1B8&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/UBN3r3k.png" tvg-id="32304af791a36fc65ddcc9598ae229c3",VTV9 HD
+http://183.81.24.132:9981/stream/channelid/2001350706?ticket=CBBCCED593DFA2BA2CFAC86639B8F29038157DF4&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/vomjxwaf_vtc1.png" tvg-id="54bcec58d4e8380a4c3b94eb90d76b5f",VTC1 HD
+http://183.81.24.132:9981/stream/channelid/1491909716?ticket=399D129E736DD3B2CA6BD618231480BC3675147E&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg" tvg-id="e0ef60e91994da5b413d4c51b4ca49c6",VTC1 HD
+http://183.81.24.132:9981/stream/channelid/1767960544?ticket=93A4494AFE9F9B4D82BA7D6587496A476AEC6088&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/j7p7msoq_vtc2.png" tvg-id="610ce9328758f6c24db5c70e2c7858e4",VTC2
+http://183.81.24.132:9981/stream/channelid/854133857?ticket=FB1E7FCD2287A272B3DCA6687D1B68AA6343F3F5&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nd9vr37o_vtc3.png" tvg-id="d3c625e9eb67cf57597f6babe5101b27",VTC3 HD
+http://183.81.24.132:9981/stream/channelid/1764083411?ticket=1AF1E48679C83B4E38CA91DCC7A8238E8EC977B4&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/pveicc5i_yeah1family.png" tvg-id="2b0a96263fcf26ab7c06d1094c45baa5",VTC4 HD
+http://183.81.24.132:9981/stream/channelid/647367211?ticket=E6AFC48E57EE86C84D91472AA82CFA8C144A7965&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/0agsfxm9_yeah1-family89c8f12a26fd8f5edaa414ff48d2dd0c_296_168.webp" tvg-id="0a7a24699a6907858c884aa8a4745f55",VTC4 HD MYTV
+http://183.81.24.132:9981/stream/channelid/1763998218?ticket=6A4FF09CBC4B90CE9988475D8D7E9516D3BA8211&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.png" tvg-id="b2620facce9505310d0c34443eb217c6",VTC5 HD
+http://183.81.24.132:9981/stream/channelid/739205810?ticket=763748098FA2A7F5B7958FAB40F19DFF078F5FF5&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zmmtrjkj_tvblue.png" tvg-id="dacc67c7093873ea215a3655cfc4f1a9",VTC5 HD
+http://183.81.24.132:9981/stream/channelid/1197984986?ticket=0960BEC9B2B6D9DACD6714E3392D110F24C4FE55&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_145673012197.jpg" tvg-id="4b8a1ec90db1550dabd828eaa915a4f8",VTC5 HD
+http://183.81.24.132:9981/stream/channelid/1226738251?ticket=70C79840221DE97670EC639420FCC350D3343605&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n29gxrhh_vtc6.png" tvg-id="38ff0e60c6bcf9d4957b24a66214c5f3",VTC6 HD
+http://183.81.24.132:9981/stream/channelid/1611595576?ticket=A4C8376D71E4DDA050FED5BF5425C0AAAC172673&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp" tvg-id="8231fa6ce1f6f1256f00e7c0b5918a73",TODAY MYTV
+http://183.81.24.132:9981/stream/channelid/1828336002?ticket=E987332FDFD8D26C5E1D550C833031563E4CFED1&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/d55d3yru_today_tv.png" tvg-id="71015d214dd207f531a1b5c347fbcfbf",VTC7 HD - Today TV
+http://183.81.24.132:9981/stream/channelid/559743345?ticket=6A908134C308F62D502EF65D5030A774ADFF8742&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/a1ubt0mt_vtc8.png" tvg-id="023e32c634e621141466fcd61fda5953",VTC8
+http://183.81.24.132:9981/stream/channelid/1177697794?ticket=445EBA392FFCAE6B63E7696F645256A521ED3525&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp" tvg-id="ade920847438ac8bb3efc8403fb3e692",VTC8 MYTV
+http://183.81.24.132:9981/stream/channelid/69265837?ticket=22F389446E3461C09904CE08A9EF3B33338F2E4C&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/g4p6dsjm_vtc9.png" tvg-id="f0483906f2367aa6fdbfb56db080ae4e",VTC9 HD
+http://183.81.24.132:9981/stream/channelid/104417520?ticket=19D6E275B54380F31C6FFC4C85E6FB620CBF6B49&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kz7goi52_vtc10.png" tvg-id="b09a47267aa489ab9001cb78ec9b2307",VTC10
+http://183.81.24.132:9981/stream/channelid/642226864?ticket=E2FA1C832FABF0831E8E5021D34A73A947E42450&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/vHU3xVX.png" tvg-id="7719be82ab330d45286b1cc0b573fb73",SAM _ BTV11
+http://183.81.24.132:9981/stream/channelid/46012791?ticket=70B86B31B435F9C87210944EAD24457D4102BF7C&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp" tvg-id="2cf2b3fa412d42db75af1d4d54b0a015",VTC11 - Kids & Family TV
+http://183.81.24.132:9981/stream/channelid/2058613292?ticket=6849440E0F9DC26ABFE835D0EF8DE5A3840A240C&profile=pass
+#EXTINF:-1 logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ewxbyzxg_kidfamily_tv.png" tvg-id="4a4dea7f8e9795a817df01bb3cb82604",VTC11 - Kids & Family TV
+http://183.81.24.132:9981/stream/channelid/2146061642?ticket=0333662819316CCB576838121708E51EAFA45480&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/cwoumgm7_vtc13_296_168.webp" tvg-id="e2fdc0972bd29d11dbe818f2c553a943",VTC13 HD
+http://183.81.24.132:9981/stream/channelid/398523874?ticket=219B3485204C526B31CF49436CC8860FF351EE8E&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp" tvg-id="18980ef37779edcc07dd57a427f79032",VTC14 HD
+http://183.81.24.132:9981/stream/channelid/1930336280?ticket=3789650B7A77A5AAD41CEB27A64547E808188AF3&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp" tvg-id="e998e53e72bfc80ebd1929db8fe56c1c",VTC16
+http://183.81.24.132:9981/stream/channelid/1055234281?ticket=7A0D35A617D544E88DACF9FF38C711E9A2DD5176&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/yGfYD97.png" tvg-id="9ba914093f34f7662da0aafc05782a36",SCTV1 HD
+http://183.81.24.132:9981/stream/channelid/152349083?ticket=F3B64A94929A38CAFD7A4641497960ABEFABEDBA&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/09NA78q.png" tvg-id="03b653213f1500c9dcc1c2b687fcb64a",SCTV2 HD
+http://183.81.24.132:9981/stream/channelid/559134211?ticket=742FF585D9FE50F025C66BC239ED40D031E82719&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/kOPNEO5.png" tvg-id="7cb218364e72bbd47f3376932c234de9",SCTV3 HD
+http://183.81.24.132:9981/stream/channelid/907588220?ticket=68EBB5605A7C339304ED1A8455C549ED2F7EEB27&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/AVR2Qis.png" tvg-id="97bf6ba131147e63f5488f3769179431",SCTV4 HD
+http://183.81.24.132:9981/stream/channelid/560709527?ticket=C361225A7F9D48789C581B1786204A68648AC877&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Fe8omK9.png" tvg-id="c216ec3f17b46498ff029fed933c52e0",SCTV6 HD
+http://183.81.24.132:9981/stream/channelid/1072436930?ticket=070356EE34CEEAFB40CB4F71063AF57CB1026E30&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/INjxA40.png" tvg-id="5ac6be78009f91439928b50ca62d0a9a",SCTV7 HD
+http://183.81.24.132:9981/stream/channelid/2025768538?ticket=4C20D8DE533848479FC2D0A6F4E4F68D7B163263&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/fFgh5wx.png" tvg-id="faa3e212da4025444743d61398706a2c",SCTV8 HD
+http://183.81.24.132:9981/stream/channelid/316843002?ticket=DC2BA0F35FD1BB2AB96A61DA3BC68DE7D949772D&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/gZ86Ft4.png" tvg-id="2d909655353ff34b5506980c456825e7",SCTV9 HD
+http://183.81.24.132:9981/stream/channelid/1435930669?ticket=5E0D9F3C5909DD1A477C542BB51D14BA6F015F2D&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/J4guX0u.png" tvg-id="df59f99791512dbf4f32bf02e1310ffe",SCTV11 HD
+http://183.81.24.132:9981/stream/channelid/402217439?ticket=E835BA1496A6FEA9FCBDC387B13C907C82A56E09&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/vs7et4w.png" tvg-id="95e3b3de19429e2372c1fb21d4bb8099",SCTV12 HD
+http://183.81.24.132:9981/stream/channelid/1588847509?ticket=F1E1F11C2FB9463FEA2732EC94C6516F2557A16A&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/2u0UcNz.png" tvg-id="0608ec0d84c6d936ea2293b4c91b2f80",SCTV13 HD
+http://183.81.24.132:9981/stream/channelid/233572358?ticket=D1C37A812AC41914E71F36D6261786051D22D6CF&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/06cOyY0.png" tvg-id="1d93b7dc94bccd005366f246afe885c4",SCTV14 HD
+http://183.81.24.132:9981/stream/channelid/1555534621?ticket=C22AE7D53C244ABD133379878F0D929AD951E40B&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/QuVTbLf.png" tvg-id="a63caaaba399fae40984170ba9788640",SCTV15 HD
+http://183.81.24.132:9981/stream/channelid/732576934?ticket=0F941EF122BBEB82CD3A125D9336D8333F31A273&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/EtyfECv.png" tvg-id="8ebfc27988691556dac1803ed3cfbf54",SCTV16 HD
+http://183.81.24.132:9981/stream/channelid/2042806158?ticket=8EF62626C7BFB2D0052BB72BA1B8E75138856945&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/5vNXtaX.png" tvg-id="b1bbcff2b655d82f0a47247b2e7ddafa",SCTV17 HD
+http://183.81.24.132:9981/stream/channelid/1926216625?ticket=89C399C3B6AA8F353BBF2A3E9C98682DE320A1EA&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Qb6Gp3M.png" tvg-id="5486156f64a0ce3b4606040c5d1d348b",SCTV18 HD
+http://183.81.24.132:9981/stream/channelid/1863681620?ticket=FE43AC56FC15D4A879BA79D97208EFBF152DAEB8&profile=pass
+#EXTINF:-1 logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png" tvg-id="082dc35a63f646d2c6f6f80d2626fe3f",SCTV HD Phim Tổng Hợp
+http://183.81.24.132:9981/stream/channelid/1522740488?ticket=60295EE5222927DE2E398C3E73477C0D8BFBD789&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Fei7tiG.png" tvg-id="3538e6f459bc2a98c31535fa3015c06b",SCTV19 HD
+http://183.81.24.132:9981/stream/channelid/1961244725?ticket=1ED90BC83FE67417FBA0C15D54C000EB05A6A34B&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Pnyko2s.png" tvg-id="518224f2eb5347d3fc66e2117a814037",SCTV20 HD
+http://183.81.24.132:9981/stream/channelid/1914995281?ticket=F95B772BDB25C3FACC19E35AD297EAB3BB72B881&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Vi%E1%BB%87t_Nam_k%C3%BD_%E1%BB%A9c_%28SCTV21%29_logo.png/revision/latest?cb=20191101130321" tvg-id="0ff91f092c8110c80e9547f57917528f",SCTV21 HD
+http://183.81.24.132:9981/stream/channelid/153090319?ticket=024785727E69541E5650D47B2F4F8E9853AFCB8C&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/tKFMjgL.png" tvg-id="9a13b1a241d7bd36fa3524e2f9f1da87",SCTV22 HD
+http://183.81.24.132:9981/stream/channelid/582030234?ticket=0EDBD10DC50021BE1ED2769BE611307FCC3DF47B&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/14/uidbns6n_htvc-thethao3b4ece32b3eac4477b901f22323413f4_296_168.webp" tvg-id="5a58af8caae04b5764f13c6bee38e9c6",HTV - Thể thao
+http://183.81.24.132:9981/stream/channelid/212818010?ticket=F4A2300D950C17023BA0540C8105701591A92A56&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/wq9wwjyo_htv1_296_168.webp" tvg-id="dd2247da8b1238f44efb8733381c33bc",HTV1
+http://183.81.24.132:9981/stream/channelid/1514611421?ticket=FF9408B05D0EC194CBCBEADE88B4F393A0AFDCC4&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/y75hxirv_htv25401df583fd70f5c23d61e942ae950f5_296_168.webp" tvg-id="268f5ca6830d5215f409551ee99e5b9d",HTV2 HD
+http://183.81.24.132:9981/stream/channelid/643600166?ticket=171F8B37F429EA5483D39244CCC6681D121E5F35&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/qo4rq0c8_htv-35d05534552446b8c856cceb64c0f94f3_296_168.webp" tvg-id="9a6e6e6a5ffa6649f0755f64c532f77a",HTV3
+http://183.81.24.132:9981/stream/channelid/1785622170?ticket=CB4C96B32AE54FFCED409B8A0EC5407577173716&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/20/c5d4mij6_microsoftteams-imageafc272299a00a0aa90b55942fb1aeb6f_296_168.webp" tvg-id="f8fd272253a0633c3c60977d97aca010",HTV7 HD
+http://183.81.24.132:9981/stream/channelid/573046264?ticket=1BC5E5E2F26E9E227D115FA046283130F303CDCA&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/pw9bb711_htv9hd_296_168.webp" tvg-id="e994d2b90dccae2001df1dac397ff7be",HTV9 HD
+http://183.81.24.132:9981/stream/channelid/970101993?ticket=315DDA1C51CAA2B2421DD586A1C23D1A4807955C&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/3jxvhmqz_htvc30a5c5a690d46c7b1d004dcb62a26ec1_296_168.webp" tvg-id="3f75a1974b028176e43416f40db19eae",HTVC Phim HD
+http://183.81.24.132:9981/stream/channelid/396457279?ticket=953C9651CFD188627A62FEE4CBCD2D3949907DF5&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/qa6d0gv8_htvc_296_168.webp" tvg-id="32eff900066882879bd23080a29c93f4",HTVC Plus HD
+http://183.81.24.132:9981/stream/channelid/16379698?ticket=86B2DE2C9734E5DE88C5869F25208F1C11E0C7F4&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/r6qncnbm_htvc-thuan-viet_296_168.webp" tvg-id="530074cfcc6bd2326f66a2a4d9574202",HTVC Thuần Việt
+http://183.81.24.132:9981/stream/channelid/1333002323?ticket=C75EAB0AA8BB08F2D710B5F8B95F930A49F82EC5&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/udvi7948_htvc-thuan-viet-hd_296_168.webp" tvg-id="ec45deff7e775d60e49f044008fa2807",HTVC Thuần Việt HD
+http://183.81.24.132:9981/stream/channelid/2145273324?ticket=955822916E0BC3CCEFB360561FE0CF87AB94E98C&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/txf8vssk_an-ninh-tv_296_168.webp" tvg-id="4df8094edf352424dea067394f1929a6",An Ninh Thế Giới
+http://183.81.24.132:9981/stream/channelid/1309276237?ticket=C8FED31914AF00B04DE325F8D20318C7288022FA&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/BKfBZ1X.png" tvg-id="839b74c2aac0f439c6665cfdbd909e4d",An Viên HD
+http://183.81.24.132:9981/stream/channelid/1114938243?ticket=D82D510A8B7EC09D0D36CE6893C9A200FE577E4B&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/srD8Xxg.jpg" tvg-id="fc643cd606e4dadbf292281787a9b90b",BTV6 2!IDOL _ VietTeen
+http://183.81.24.132:9981/stream/channelid/1446798588?ticket=E4BE8BFFE3413F45F6A2EDEA6D113C53FF965F95&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/TgyARKA.png" tvg-id="670e5e458edc58fb520048b48a9f0f52",Bình Phước 2
+http://183.81.24.132:9981/stream/channelid/1163791975?ticket=43C61ED3B72EB63F7D9AA951D32BEE4594A2CBE0&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/80dTXb5.png" tvg-id="cf9e97bf0d600873c7d64ccc8e0fbe49",NCM _ BTV10
+http://183.81.24.132:9981/stream/channelid/1066901199?ticket=81E20D6D6076C815AB10F43111491299A9197342&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/w5rqtt1d_nhan-dan_296_168.webp" tvg-id="36ce9324492b912aea9475cfcda23111",Nhân Dân
+http://183.81.24.132:9981/stream/channelid/613666358?ticket=C39CF68CE84ACF5CBAE031FEEA6EF3925E8FB865&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/05/vyq69j98_qptv_296_168.webp" tvg-id="f914076c7444810390601d70e6dfdbd9",QPVN HD
+http://183.81.24.132:9981/stream/channelid/1812403449?ticket=7C5F58C9201A60AF4C0A0E78F4A6E2B3064D57D9&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/05/vyq69j98_qptv_296_168.webp" tvg-id="97cebdfcc134e3030108abfdbe02907e",QPVN HD
+http://183.81.24.132:9981/stream/channelid/2092813975?ticket=8EB739CC273601B1B187D83994BDD3C2FA35B1D5&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c87wr5ha_quoc-hoi_296_168.webp" tvg-id="c4c02582cd8d8f3a02181bf56aa7cd91",Quốc Hội
+http://183.81.24.132:9981/stream/channelid/36028612?ticket=E471B2B261F8EE0B2621B6315CB12C56B1113DC4&profile=pass
+#EXTINF:-1 logo="https://imgur.com/G154n6j.png" tvg-id="72eb95e01ef54a5de05a177ff89f88ab",Quốc Hội
+http://183.81.24.132:9981/stream/channelid/1620437874?ticket=6E8C6EFADBA7AE8E588D16023490BEA348607814&profile=pass
+#EXTINF:-1 logo="https://imgur.com/ZstB6Eg.png" tvg-id="2a9ab40912d9e21c318c7bd3f6f09869",TTXVN HD
+http://183.81.24.132:9981/stream/channelid/162830890?ticket=B6014B4AD2D08A8BF068DE2D75A131ADFF2CFAE9&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6gx5feuu_vnews_296_168.webp" tvg-id="91ec7155466d7507bcd62c652f90aa13",TTXVN HD
+http://183.81.24.132:9981/stream/channelid/1433529489?ticket=F62575769DAF74BB6893647ED46AB23D543C565A&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/MGLFyKb.png" tvg-id="ba27d1b81b63fffda097a84a711f4f79",VOD
+http://183.81.24.132:9981/stream/channelid/953231290?ticket=B58F939690C49A78B448AF7A5C14442F26687C8A&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/vMjChPH.png" tvg-id="d6c6c23ad09eb4f188838e9cbe5cb0e0",youTV _ Hanoicab2
+http://183.81.24.132:9981/stream/channelid/985843414?ticket=F2A1BBFC21BC815DFB2BBCAEBFB7EDFA1564B034&profile=pass
+#EXTINF:-1 logo="http://183.81.24.132:9981/imagecache/133" tvg-id="c3c32ce206a43dcf4c543f97859a0ef1",Quảng Ninh 1
+http://183.81.24.132:9981/stream/channelid/1647100867?ticket=7A143735775043760E3508F1030897FF2FC45601&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/yhwvObv.jpg" tvg-id="4aaeec81bbf921664198e25d7ac4998c",Quảng Ninh 3
+http://183.81.24.132:9981/stream/channelid/32288330?ticket=3D07390E0F533C3510624E74814DD940DB2419FF&profile=pass
+#EXTINF:-1 logo="http://183.81.24.132:9981/imagecache/18" tvg-id="ccc0005363605e3199005d377c6a5610",QTV 1 HD
+http://183.81.24.132:9981/stream/channelid/1392558284?ticket=B65F602D5295DD0913F3237CAC599B3D0E4660C2&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/2i0u8g9o_thvl190ce0c0ba3c8e74d502ff06bb433cff0_296_168.webp" tvg-id="ff496aa9345f8d4a967679800be8eaba",THVL1 HD
+http://183.81.24.132:9981/stream/channelid/694831615?ticket=5DF2F60043413AFBEE7C9D11DB39795E934885A4&profile=pass
+#EXTINF:-1 logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" tvg-id="d1d1e253fbc3c33b26d0fd8f91850d69",THVL1 HD
+http://183.81.24.132:9981/stream/channelid/1407373777?ticket=89234B21E71552CE4BEA952735014C9F4AA5B3F0&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp" tvg-id="1aa8949d5b2c585922cb63d044132bef",THVL2 HD
+http://183.81.24.132:9981/stream/channelid/496281626?ticket=4EA38412BD35ACB11BEB05994B41EB74367255E1&profile=pass
+#EXTINF:-1 logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/1xs5wn33_Logo-THVLi2.jpg" tvg-id="fb12903032bdf5bca1dfa0d27bab1a18",THVL2 HD
+http://183.81.24.132:9981/stream/channelid/814748411?ticket=47F1AE81BCBB67DD7FA5FB599C087D6F190DF30A&profile=pass
+#EXTINF:-1 logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg" tvg-id="ec22c592003eb5a8f302fb1f6b9e5ada",THVL3 HD
+http://183.81.24.132:9981/stream/channelid/314909420?ticket=18A81AC7C8BEB6A6114195A22D1A7E0CCBAE4E9C&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/96zx88xd_thvl3_296_168.webp" tvg-id="3408c2498cd62408e43269eddb9ec259",THVL3 HD
+http://183.81.24.132:9981/stream/channelid/1237452852?ticket=06B768EB165DB3E059232DB4A91EF12A1A49E16E&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/bayzt9n8_thvl4_296_168.webp" tvg-id="9744f62e30345d8810ae80a14422bd84",THVL4 HD
+http://183.81.24.132:9981/stream/channelid/787891351?ticket=FAA4642FCECE38081249AAE2055A222CCFCA655D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/muVwF90.jpg" tvg-id="77e41e45bf6b3cb456e35afaee611ad1",ON Cine
+http://183.81.24.132:9981/stream/channelid/1159652471?ticket=EA7DECAA4F94F672B1AEBF8E4EA97AA051D3BA52&profile=pass
+#EXTINF:-1 logo="https://imgur.com/MSs1rGc.png" tvg-id="e1408d8a23791622bcce6944d1db9238",ON Phim Việt
+http://183.81.24.132:9981/stream/channelid/177029345?ticket=41821B0329B5CC085B004A47BE1B45E8E5D66CF1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ZxWdKth.jpg" tvg-id="3ab384b3f3243d8bf5720b6e8b36ab73",ON Sports News
+http://183.81.24.132:9981/stream/channelid/864334650?ticket=7B420C9E9222B055A2BFFCA361D45B865CE020C5&profile=pass
+#EXTINF:-1 logo="https://imgur.com/RHEqrMK.png" tvg-id="aa346764a7756155df786fe43d9de374",ON Sports+
+http://183.81.24.132:9981/stream/channelid/1684485290?ticket=5481E075786B16530E71C271F3501666331568EA&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/TRFgLus.jpg" tvg-id="967226792adabbc3d4d0a22a0e4639a3",VTVCab1 HD - Vie Giải Trí
+http://183.81.24.132:9981/stream/channelid/2032562838?ticket=36B7417C82DE8B2D206A8BDBF20509BFB39DCD69&profile=pass
+#EXTINF:-1 logo="https://imgur.com/RcLcw6o.png" tvg-id="1dac405f99162f06d57d9254291a6742",VTVCab12 HD - Style TV
+http://183.81.24.132:9981/stream/channelid/1598073885?ticket=1CA8640C222E0FB9B68FB509CC0D1651D8E1384E&profile=pass
+#EXTINF:-1 logo="https://imgur.com/HwMUDwy.png" tvg-id="616095cff50f1df6dec8379fb8715a43",VTVCab13 - HYUNDAI
+http://183.81.24.132:9981/stream/channelid/1335189601?ticket=400436921DD643E9553FFE2777FCEC1C43357970&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/muVwF90.jpg" tvg-id="a77b1e1c7a8a01fffadf79106d3ec404",VTVCab15 HD
+http://183.81.24.132:9981/stream/channelid/471759783?ticket=06F6D1B6A390093D7A422768E3731A566E79B647&profile=pass
+#EXTINF:-1 logo="https://imgur.com/fBWtwIH.png" tvg-id="7dd776782f5a4666f96bd2ecb87eecba",VTVCab17 HD - Yeah1 TV
+http://183.81.24.132:9981/stream/channelid/2021054333?ticket=73F59107A7A955DA905AB8F42A21821DE9DAF9A7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/4t7M1DY.jpg" tvg-id="59725c3af0bc095344112589c50eeaf9",VTVCab19 HD - Vie DRAMAS
+http://183.81.24.132:9981/stream/channelid/979137113?ticket=5B3BFF9134CBBB0116388E236295100BAFF29670&profile=pass
+#EXTINF:-1 logo="https://imgur.com/gLpFARR.png" tvg-id="59fd837c97d714048ecd924b7e2f2abe",VTVCab20 HD - V Family
+http://183.81.24.132:9981/stream/channelid/2089024857?ticket=094D073BE746820A2B3501540A42EBBF0CEFBACF&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/muVwF90.jpg" tvg-id="40c1b02d15b8dea97445de3ea1d29319",VTVCab4 HD
+http://183.81.24.132:9981/stream/channelid/766558528?ticket=E9E7751764F9F37AFDC88192D7177820BD7B5880&profile=pass
+#EXTINF:-1 logo="https://imgur.com/FoGuNrA.png" tvg-id="bb4d0f6d2e92c1c67a6d6a34b06046af",VTVCab5 HD - E Channel
+http://183.81.24.132:9981/stream/channelid/1829719483?ticket=AFC07037983B8E255D7112B453AB5E4BFA6BE3C7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/zhctbtP.jpg" tvg-id="711603c649438d5e277aee1834540555",VTVCab7 HD
+http://183.81.24.132:9981/stream/channelid/1174607473?ticket=19FE96A8C5666D4F42081EFBD71D261A20595C22&profile=pass
+#EXTINF:-1 logo="https://imgur.com/1ORpCYB.png" tvg-id="91b621d7eb8f1723ca03f8ea0183ff7c",VTVCab8 HD - BiBi
+http://183.81.24.132:9981/stream/channelid/1461827217?ticket=A2665DB54F991D2CD90BE9B23D35D132EB88F1B2&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/H25uskz.jpg" tvg-id="f49301f218dbb9597d930a5d13b4aab1",VTVCab9 HD - Info TV
+http://183.81.24.132:9981/stream/channelid/1912706036?ticket=4AC85F6EC9943BD8817800338CB7B2D76965BA36&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/JFAPqWV.jpg" tvg-id="c622507e9233973f2c6c74129613fd2c",ABC Australia
+http://183.81.24.132:9981/stream/channelid/2119180998?ticket=F3CBB9CCDC285D0AC3DC4289070D364CDBD8AA5D&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/22/2tykr6xc_thumbnail-afn_296_168.webp" tvg-id="853ea04ac94158e780fd6523c245b86b",AFN
+http://183.81.24.132:9981/stream/channelid/1252015749?ticket=9F9887B6441FEED99D2EB96461CCE53A9694D08C&profile=pass
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6_400x400.jpg" tvg-id="528c821be26b44809b3c9792169a64a4",Aljazeera
+http://183.81.24.132:9981/stream/channelid/461540434?ticket=478591D1556FA2220BE3764C7E9F36CFD5D0AEAC&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp" tvg-id="306f1e745663598b4dc6571749f7b3d7",Animal Planet HD
+http://183.81.24.132:9981/stream/channelid/1948151600?ticket=2DC0BF8011507612FD8F8A9D77E7C43171AFF4D7&profile=pass
+#EXTINF:-1 logo="https://imgur.com/E3M02yH.png" tvg-id="6951d3a9cf6e59f3acb1db45257ef13e",Arirang
+http://183.81.24.132:9981/stream/channelid/701714793?ticket=3ABC7DD522D3D2FAD46D9F5DB489F30AB8938F02&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/QGxFZF2.jpg" tvg-id="56f527335ab1e0684dc41256ff0b874e",Asian Food Channel HD
+http://183.81.24.132:9981/stream/channelid/858256726?ticket=BA04BF26710261D5168FC2100C53AD5B12E7593E&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/70rdat21_axn6cf0cbbdcfa06016edac7539b89989a5_296_168.webp" tvg-id="964c600278288909d7a5dd27fe8ad4bb",AXN HD
+http://183.81.24.132:9981/stream/channelid/39865494?ticket=DB62F9548C759157DF935FDBA0574BB3C5ACA662&profile=pass
+#EXTINF:-1 logo="https://imgur.com/AyyX0IP.png" tvg-id="db70450718571f9ef57c39085b980bbf",AXN HD
+http://183.81.24.132:9981/stream/channelid/121991387?ticket=158C912935D2E6A8E9B3A9B869A218A839D51C62&profile=pass
+#EXTINF:-1 logo="https://www.kindpng.com/picc/m/397-3974790_baby-first-tv-baby-first-channel-logo-hd.png" tvg-id="6c2a3520a78d14179eddb6a1ed5cc5f6",Baby First HD
+http://183.81.24.132:9981/stream/channelid/540355180?ticket=C0CC65228D751F17081621E03E09415B65FEC195&profile=pass
+#EXTINF:-1 logo="https://imgur.com/LBU2zCq.png" tvg-id="ad5046e4dec3fb0a6713e52374c9adc8",BabyTV HD
+http://183.81.24.132:9981/stream/channelid/1682329773?ticket=5D9DA991E43D0FCB719EB976851CCD753598DE7B&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/gcq9zum4_bbc-lifestyle_296_168.webp" tvg-id="864b6a6d39a925234ba3cc927e0df2c1",BBC Life Style
+http://183.81.24.132:9981/stream/channelid/1835682694?ticket=86D3C1B568B900EE6CADCD907BD3333A33F84D55&profile=pass
+#EXTINF:-1 logo="https://imgur.com/GzuP1MN.png" tvg-id="bf3f69dad66183c6f920dd3e9142373e",BBC World News
+http://183.81.24.132:9981/stream/channelid/1516847039?ticket=49E278E6C900651EC8265D9DB547C038C48FD0E5&profile=pass
+#EXTINF:-1 logo="https://imgur.com/HC1WD0K.png" tvg-id="96dc528f6f9a620442c3a373e455b51b",Bloomberg
+http://183.81.24.132:9981/stream/channelid/257088662?ticket=0D91EC687E4769D94B257DC92DC3B7DDE13B19BA&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hcit1f0r_bloomberg_296_168.webp" tvg-id="5e73c01a054edc14f233692f9ddc3697",Bloomberg
+http://183.81.24.132:9981/stream/channelid/448820062?ticket=5C5629ECDC636031345E7B4B68604B36EDE7B758&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" tvg-id="e0387966f3840521e4db679732f24dd4",Blue Ant Extreme HD
+http://183.81.24.132:9981/stream/channelid/1719220448?ticket=E26934DB750CFFC36BD81B410698F9C16BD99271&profile=pass
+#EXTINF:-1 logo="https://imgur.com/KErWSdf.png" tvg-id="dbffb6a79c554504d9ca6493b9e22b45",Boomerang
+http://183.81.24.132:9981/stream/channelid/666304475?ticket=9C0333CA226A815C47A0944C61AB5C42C05926B0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/m6IL1C7.jpg" tvg-id="05a233301df922193ee2a0400fb66a4f",Cartoon Network HD
+http://183.81.24.132:9981/stream/channelid/808690181?ticket=8CC6A20B8FC68E414BDE0BA91DC0AE9A3799647D&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp" tvg-id="db067afc28f6d7990e988c791a5fe7b0",Cinema World HD
+http://183.81.24.132:9981/stream/channelid/2088371931?ticket=F5CEE153F75B3B47D76DFD670B73F480CB9813B3&profile=pass
+#EXTINF:-1 logo="http://183.81.24.132:9981/imagecache/49" tvg-id="f8cb2e4893c9d147794247717fd4645e",Clubbing TV (HD 5Mbps) 
+http://183.81.24.132:9981/stream/channelid/1211026424?ticket=E52F0D2DA88E05FCC5D2BED66F90F64065F26FA3&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/68hmRiM.png" tvg-id="04be9eb4e1760435162229b83c920b7d",CNN
+http://183.81.24.132:9981/stream/channelid/882818564?ticket=961429541EC63EC216AC0A3C8B34EBD885177D94&profile=pass
+#EXTINF:-1 logo="https://imgur.com/vf9RpQb.png" tvg-id="da4c89b1284016b5751b4b70a7ab9a78",DaVinci HD
+http://183.81.24.132:9981/stream/channelid/831081690?ticket=ED1199A862A7AE328C6DE9A4418902E73878122F&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp" tvg-id="058bc7448d7f279399cc4f3057b6816b",Discovery Asia HD
+http://183.81.24.132:9981/stream/channelid/1153927941?ticket=0E39CE217E677792DF0A6172E2F63AC9FCCE4356&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/hkNiFL3.jpg" tvg-id="27c2e93fe9027b3332bd85bcfc8d97a3",Discovery Channel HD
+http://183.81.24.132:9981/stream/channelid/1072284199?ticket=30425DA85A119E7C2E60542A095615B8B1C9A868&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/38VPB1Z.jpg" tvg-id="19c65fcabd975e3680eaee7486c43a17",Disney HD
+http://183.81.24.132:9981/stream/channelid/1247790617?ticket=886CCF6A3E3D01A2F631E3E3ACD5368AF6356743&profile=pass
+#EXTINF:-1 logo="https://imgur.com/ThU6vkZ.png" tvg-id="96eb0276f44987d5f44b7b5536a9a6db",Disney Junior
+http://183.81.24.132:9981/stream/channelid/1979902870?ticket=32B44928B34A16C1E21C9C321617B9B08A047327&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ai4JYPE.jpg" tvg-id="7d3bea2074e34ff103f5e2b9b577421b",DW HD
+http://183.81.24.132:9981/stream/channelid/552221565?ticket=63B44BB5227C6E8F7FC04A60D69F207B833AF299&profile=pass
+#EXTINF:-1 logo="http://183.81.24.132:9981/imagecache/60" tvg-id="4772083a86bb3073a3a375218b88c692",Fashion TV HD
+http://183.81.24.132:9981/stream/channelid/973632071?ticket=944CD81E178FFFEB868C677E086A919FD9AF0543&profile=pass
+#EXTINF:-1 logo="https://imgur.com/AVm8t3Z.png" tvg-id="60a3eae74b60cd68a1881734f0c794c0",Fashion TV HD
+http://183.81.24.132:9981/stream/channelid/1743430496?ticket=A33A8CC5635A69FE7A3D79DB954D06178EEDC8F5&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/0hu4d2jq_fashion-tv7f2520370000446a9237a02bbbeadb58_296_168.webp" tvg-id="0db2c2f1ffd7e04b3ad95fb2fcd47ea4",Fashion TV HD
+http://183.81.24.132:9981/stream/channelid/1908584973?ticket=FC7A189B312E05E3BBAEBE5F050DD36542188832&profile=pass
+#EXTINF:-1 logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png" tvg-id="db91a4579219c4bcd3b3ee89efd01499",Fox Family Movies | FPT Play
+http://183.81.24.132:9981/stream/channelid/1470403035?ticket=F7D366A9347C93268BB3FEEAEDD60E1FF322737D&profile=pass
+#EXTINF:-1 logo="https://imgur.com/keaKVLJ.png" tvg-id="be5d1fe426275b47be62eefb582f8109",FOX Movies HD
+http://183.81.24.132:9981/stream/channelid/1679777214?ticket=BF5058B60C323AF5BBCF5CCCBCD1FD900BB8DB2B&profile=pass
+#EXTINF:-1 logo="https://imgur.com/sTK7s5R.png" tvg-id="460f69e94aecc7c2081e8c3e2f57ed0f",France 24 English
+http://183.81.24.132:9981/stream/channelid/1768492870?ticket=5752E636F5C51BEB2CD0F53FF4F6A09B04F632E2&profile=pass
+#EXTINF:-1 logo="https://imgur.com/HXFXYdZ.png" tvg-id="a72da937b1b3672e17ab81dfea2bd5be",KBS World
+http://183.81.24.132:9981/stream/channelid/933834151?ticket=2DABE08A8A241A632D1DEAB6083D08B0CEDB3519&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/22/kg2zw2m5_thumbnail-kix_296_168.webp" tvg-id="ca07870496faf73a0e18162968991801",Kix HD
+http://183.81.24.132:9981/stream/channelid/75958218?ticket=3AC21104048D3AB9BE99CF4DD013F7BDEA0E9BA5&profile=pass
+#EXTINF:-1 logo="https://imgur.com/76pIxyD.png" tvg-id="a5026a6162ed14a144cbb358983e3648",Max by HBO HD
+http://183.81.24.132:9981/stream/channelid/1634337445?ticket=8369E69A415BBF4649E50FF11CF596387290DA28&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/wTGUWNk.jpg" tvg-id="f74e98d3e597c2e679c3d6a8793ab0b1",MTV
+http://183.81.24.132:9981/stream/channelid/1402490615?ticket=53894C9CD849D0E17C1F19D6E524C73CA6F232DE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/2AaD0dS.jpg" tvg-id="b9d007a979d2f10b40c462913d255e99",Nat Geo People HD
+http://183.81.24.132:9981/stream/channelid/688378041?ticket=8E109E644D631B658E0F843711F0C25D197032DF&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/jssSTAc.jpg" tvg-id="41b15129688af4184dac0bed7331793d",Nat Geo Wild HD
+http://183.81.24.132:9981/stream/channelid/693219649?ticket=7A3FB0B8E5D3E33719A7CF1DFCD926FD7E2C79D3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/oi83ML8.jpg" tvg-id="8b709a2090cfcaa9df39fecf99382afd",National Geographic HD
+http://183.81.24.132:9981/stream/channelid/546992267?ticket=A2728F2A71E7842D91F97E20CB7CC2B9DE629EAC&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/oi83ML8.jpg" tvg-id="346b2b38d459ccb56a7aacb67c3e0de5",National Geographic HD
+http://183.81.24.132:9981/stream/channelid/942369588?ticket=67B378588AC8F2C4B8FCF6ED05EE71E09B010A15&profile=pass
+#EXTINF:-1 logo="https://imgur.com/pjSWuxG.png" tvg-id="49451c70d59368d72dc99080219a3659",NHK WORLD HD
+http://183.81.24.132:9981/stream/channelid/1880900937?ticket=4A08D84507BD27FF140FAA427507FBAC69F260A3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/hV4VIs2.jpg" tvg-id="a4a8ef712aed72e2097b6f039d09fc31",OPT1
+http://183.81.24.132:9981/stream/channelid/1911531684?ticket=79F5A973D7A9A58CFE8FA2D83685989F49331A60&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/22/pykjyp5z_thumbnail-outdoor_296_168.webp" tvg-id="f034760f01f9b892efac18d6f6f543f6",Outdoor Channel HD
+http://183.81.24.132:9981/stream/channelid/259405040?ticket=004FDEA83A8893396C0B15A820E9D405B0E9A992&profile=pass
+#EXTINF:-1 logo="https://imgur.com/qhbsK2l.png" tvg-id="53a5ee926761141132c1c2dd6afa35a2",Outdoor Channel HD
+http://183.81.24.132:9981/stream/channelid/317629779?ticket=532ACFC9FC1424B0D25425B44B0E484C5F6E8513&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/sCvSyox.jpg" tvg-id="c87379e3a07387baa7d0891afe710321",POCCNR PTP
+http://183.81.24.132:9981/stream/channelid/1668903880?ticket=D99D03DEF311554BA9F1752FE96FF0C94C45E01E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/n0BupyH.jpg" tvg-id="4631b8cbccbc5d8e79b7b4335421a80d",Rai
+http://183.81.24.132:9981/stream/channelid/1270362438?ticket=7ECF5F5483C58E2C346E0B0B54233AB2608F8AB1&profile=pass
+#EXTINF:-1 logo="https://imgur.com/tLRt17t.png" tvg-id="ac8b31531a2a9fbfca4b7d470d0da46f",Red By HBO HD
+http://183.81.24.132:9981/stream/channelid/1395755948?ticket=428F66002A2B250599FEAF3AFD8D38BF0D9D99A4&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png" tvg-id="edbb37be2fafcb344f2b8f8404787f42",ROCK Entertainment
+http://183.81.24.132:9981/stream/channelid/1043839981?ticket=D936775874BB86D97BE61CF756EF147C258285DF&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/oUlVrf5.jpg" tvg-id="6e6619e070d99c071b357e2359b05702",RT
+http://183.81.24.132:9981/stream/channelid/1612277358?ticket=2DBAC0568FAB0289BA6891442AB1B9E9F96E2594&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/h1y22fci_tlc_296_168.webp" tvg-id="56cd89f472c167964057ac11811033ad",TLC HD
+http://183.81.24.132:9981/stream/channelid/1955188054?ticket=C40973B71F4B83C72F54B9D0634C022963F091AE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/lx2B8VG.jpg" tvg-id="68716c6283a266ae87b07884feca5c58",TV5 Monde
+http://183.81.24.132:9981/stream/channelid/1651274088?ticket=425C532FD66D35B72EF3CBB4A6F20B5C09DF7C73&profile=pass
+#EXTINF:-1 logo="https://imgur.com/9qJI1Mg.png" tvg-id="e75370810d9fda01c2719789ec0b6b93",Warner TV HD
+http://183.81.24.132:9981/stream/channelid/24138727?ticket=907C3A7ECCDAAC585611D5FF8BF65DF48070A6DC&profile=pass
+
