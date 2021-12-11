@@ -7,7 +7,8 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+https://ottlive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
 
 #EXTINF:0 group-title="🍭| K+" tvg-id="klifehd" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE
 #EXTVLCOPT:http-user-agent="CoocaaTV"
