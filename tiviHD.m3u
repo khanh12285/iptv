@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://bit.ly/guidevn" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #Update 04/12/2021 beta
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/VTV_HD_logo_Tet_2014.png/revision/latest/scale-to-width-down/340?cb=20201230044016&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD 🔄
