@@ -1168,12 +1168,6 @@ http://127.0.0.1:6878/ace/getstream?id=de2cdd6dcb8ce3be45384cb31a5a52e01e1c2048
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="♻️|Ace_Kênh Việt2",CINEMAX
 http://127.0.0.1:6878/ace/getstream?id=a8aa78f22e728734b578811f34c668fe5d0f97a9
 
-#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg" group-title="♻️|Ace_Kênh Việt2",BOX HITS HD
-
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png" group-title="♻️|Ace_Kênh Việt2",BOX MOVIE 1 HD
-
-
- 
 #EXTINF:-1 tvg-id="vtv1" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="♻️|Ace_Kênh Việt2",vtv1 hd
 http://127.0.0.1:6878/ace/getstream?id=a1ce28e2ff61012aee23091f4d737b5ed4ac9152
 #EXTINF:-1 tvg-id="vtv1" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="♻️|Ace_Kênh Việt2",vtv1 hd1
