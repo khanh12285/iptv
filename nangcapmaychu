@@ -1,21 +1,23 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03, http://by.com.vn/epgpcr"
 
-#EXTINF:-1 tvg-id="pcriptv" group-title="SUKIEN" tvg-logo="https://mpng.subpng.com/20190606/vts/kisspng-live-television-logo-ibc24-image-live-tv-spider-communication-5cf8a7c48f06f3.9724112615597997485858.jpg", KÊNH SỰ KIỆN
-https://by.com.vn/sukien_iptv
-
 #EXTINF:-1 tvg-id="PHIMCHIEURAP"group-title="PHIMCHIEURAP" tvg-logo="http://hoatv001.vinaddns.com:8080/index.php/s/PvCX6oDO8b0Takf/download",KÊNH PHIM CHIẾU RẠP
 https://by.com.vn/phimtv001
 
-#EXTINF:-1 tvg-id="pcriptv"group-title="fptplay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGXb__q-ujeawqwTa3sf85t5Unfl567dOKXWcVx9vf25I3_ViEMmK_QyjNMemcRbWt5Rw&usqp=CAU", VTV5 HD IPTV
-https://by.com.vn/fptplay1
-
-#EXTINF:-1 tvg-id="pcriptv"group-title="fptplay" tvg-logo="https://typhukhongdo.vn/wp-content/uploads/2021/09/vtv6-truc-tiep-bong-da.jpg", VTV6 HD sv2
-https://by.com.vn/VTV6_PCRTV
-
-
+#EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/8eb0340c74cb3cdc66e45e2a66dea0041640685331/htv2.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV2 HD 🔄
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/070d5055f4ed850336f9edd95f7cad1f1640562638/htv7.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 HD 🔄
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/5e4a158bc7c235331899907c85a2dc811640685314/htv9.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV9 HD 🔄
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163886679813.jpg" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",FIM360 🔄
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
