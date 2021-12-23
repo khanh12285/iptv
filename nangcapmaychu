@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03, http://by.com.vn/epgpcr"
 
-#EXTINF:-1 tvg-id="PHIMCHIEURAP"group-title="PHIMCHIEURAP" tvg-logo="http://hoatv001.vinaddns.com:8080/index.php/s/PvCX6oDO8b0Takf/download",KÊNH PHIM CHIẾU RẠP
-https://by.com.vn/phimtv001
-
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/8eb0340c74cb3cdc66e45e2a66dea0041640685331/htv2.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV2 HD 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b2500000.m3u8
