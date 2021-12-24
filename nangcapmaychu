@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03, http://by.com.vn/epgpcr"
 
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
