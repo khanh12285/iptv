@@ -12,7 +12,7 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳|📺-Truyền Hình Thiết Yếu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163886679813.jpg" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",FIM360 🔄
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳|📺-XEM LAI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163886679813.jpg" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",FIM360 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b2500000.m3u8
 
@@ -463,7 +463,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png",bbc earth (HD 8Mbps)
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg", BBC Lifestyle
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
 
@@ -486,7 +486,7 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="QUỐC TẾ" tvg-logo="https://drake.vn/image/catalog/H%C3%ACnh%20content/vans-national-geographic/vans-national-geographic-18.jpg",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png", Nat Geo Wild HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="QUỐC TẾ" tvg-logo="http://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png",Outdoor Channel (HD 8Mbps)
@@ -534,16 +534,16 @@ http://192.53.113.67/Drfit/index.m3u8
 http://192.53.113.67/Plannet/index.m3u8
 
 
-#EXTINF:-1 tvg-id="anvienhd" group-title="KHÁC" tvg-logo="https://i.imgur.com/9GzKjAI.png",Bình Dương 9 HD - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9GzKjAI.png",Bình Dương 9 HD - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://i.imgur.com/yD2WAzy.png",Bình Dương 11 - NCM
+#EXTINF:-1 tvg-id="anvien" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/yD2WAzy.png",Bình Dương 11 - NCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 https://mziyw7t0yhliv.vcdn.cloud/live/ncm/chunklist_1.m3u8
 
-#EXTINF:-1 group-title="KHÁC" tvg-logo="https://i.imgur.com/WaXDncJ.png",Bình Dương 11 - Top Shopping
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WaXDncJ.png",Bình Dương 11 - Top Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 
