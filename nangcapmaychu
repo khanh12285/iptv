@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03, http://by.com.vn/epgpcr"
+#EXTM3U url-tvg="http://gg.gg/epgvn03"
+
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳|📺-XEM LAI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg" catchup="append" catchup-days="6" catchup-source="https://htvc271120.cdn.vnns.io/070d5055f4ed850336f9edd95f7cad1f1640562638/htv7.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 HD 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
