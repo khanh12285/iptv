@@ -57,7 +57,9 @@ https://ottlive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.ism
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/getlicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CA452EF1BF6F59D0&Ticket=C53912B5118A2515
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ottlive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#https://ottlive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="📺|XEM LẠI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163886679813.jpg" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",X FIM360 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
