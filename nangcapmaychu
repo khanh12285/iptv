@@ -555,7 +555,7 @@ http://livecdn.fptplay.net/sdc/bentre_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/jO8gjRR.png",Bến Tre HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://1632816226.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYmVudHJlLmFkbS40ODBwLnRtcyIsImV4cCI6MTY0MDg0NjkwOH0.UwjZ-Nabg_8iyXLPFwON4l_VSjWcXnL-vCMJ983dYCU-/bentre.adm.480p.tms/chunks.m3u8
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/QaPAG12.png",Bình Dương 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
