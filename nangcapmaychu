@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1
-https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CsgFVVzXVWZrV2kiMp69LOuDzDYcrWgtz5zEAumsVibj31OwErbWakTl47EqBcKJCnsAU9SfeIti62EKmH7PErwBzX92xrr1v7tyJvZxp3ufkK4mLsRrRNUqmffVt2VPMt9VTJMwdDhzg3BBYUUKkf-u6JVt0g8xMEJMxe-8EoACQ-o9K7CDPksb1SBtAd6o8FLK0GcbqOpswqnkjgwtJjZ75tGUAXAhV46Rop087Fcl0aheKA_4oPQtQqTtqtsdM6Wjq5OeF1ELp1l0qwwwWBi6YHMgFtyKL8jc3D2izLnXoVeA7sQfCQ1lYtcO2PB0GzO3OYbRD8te61IJE8fqkvRkrA8n4Cdq_kvK13xAH5sFGsdlw3PIOviowxiXOTc0_eSupj9wph_T3icJLjOT18X4sg702sEFtoLtec3EIGeMaErjuA35jV6UG9360xQ6vPVyFjelvWy57GSpC9uSYa5v7MJGpy9fwruLXRdHo-jsnZFOJV7HYqBXe_ZHcR30IdA-gC8yX83-pQ9KlICKFk9ZuqDQTzW7PTdrJi8G6L2wLbnTWZ3eOmpr7z_97_YJ-vKR2HUqlNGLEcYeVup4vZDcASx5lT1GYszJ-1UOVuBDSwe2b14XM6IKwMaFaXw9Shw80KO9YcUrlape9DZ8pMwuVJU8iYQK6IXWIQWzZ4AaTgplMBCm1d2lu0tCPU16ATSIRTRHw1WOHqcpl2YGT-70_eFaqbuStUq6-SMJE0hNpswRkErCiw6z2hu6FHGLvaxlgfrFfbWXj04LI8YpV9h1ryjcP0KX2RK5JskWWQuS_85F8JVn-PGs7zT-REZ7rWGWTYZGYIiLZcMcYT3T5bk2hVe0FALvQqwOt0wRea5PrPeV_O_nAG7zE2N5jITR_Fepa_oExxnctyAFN5esCdFabXBtor1ulQ7ZGb7h0o9Z0eUuPiQ6VWo5DRoMdR19HVGvSXJjTwphIAEqCXVzLWVhc3QtMjDUAg.m3u8
-
 #EXTINF:-1 tvg-id="vtc14hd" group-title="📺|XEM LẠI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1500.stream/playlist_dvr_range-${start}-1800.m3u8", VTC14 HD 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
