@@ -540,6 +540,21 @@ http://192.53.113.67/Drfit/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="https://d33wubrfki0l68.cloudfront.net/abb70413753ae27de2eb2b850e0ea1c7affb50c9/f94eb/assets/logoplayout_planetearth_3d_plain.png",Plannet Earth HD
 http://192.53.113.67/Plannet/index.m3u8
 
+#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180925/xho/kisspng-ver-fox-sports-1-en-vivo-televisin-hd-en-vivo-po-5ba9e284400d66.9928032315378602282624.jpg",FOX SPORT 1 
+https://family4you.fun/vn360sport/Sport/genip.php?id=80008
+#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180925/xho/kisspng-ver-fox-sports-1-en-vivo-televisin-hd-en-vivo-po-5ba9e284400d66.9928032315378602282624.jpg",FOX SPORT 1 latinh america
+https://family4you.fun/vn360sport/Sport/genip.php?id=11370
+
+#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180614/boo/kisspng-fox-sports-networks-fox-sports-2-fox-entertainment-bbc-radio-2-5b22dbb1db2cf0.9001574515290111218978.jpg",FOX SPORT 2
+https://family4you.fun/vn360sport/Sport/genip.php?id=80009
+#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180614/boo/kisspng-fox-sports-networks-fox-sports-2-fox-entertainment-bbc-radio-2-5b22dbb1db2cf0.9001574515290111218978.jpg",FOX SPORT 2 latinh america
+https://family4you.fun/vn360sport/Sport/genip.php?id=11544
+
+#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20211218133641&path-prefix=vi",FOX SPORT 3 latinh america
+https://family4you.fun/vn360sport/Sport/genip.php?id=11368
+#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20211218133641&path-prefix=vi",FOX SPORT 3 latinh america
+https://family4you.fun/vn360sport/Sport/genip.php?id=11543
+
 #EXTINF:-1 tvg-id="anvienhd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9GzKjAI.png",Bình Dương 9 HD - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
