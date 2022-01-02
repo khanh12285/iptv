@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
-http://gg.gg/cvchannel
+#http://gg.gg/cvchannel
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
-http://103.125.191.32:8080/live2/mpegts
+#http://103.125.191.32:8080/live2/mpegts
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="📺|XEM LẠI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1500.stream/playlist_dvr_range-${start}-1800.m3u8", VTC14 HD 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
