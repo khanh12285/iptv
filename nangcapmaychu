@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-#EXTM3U url-tvg="http://bit.ly/guidevn" deinterlace=1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
 http://gg.gg/cvchannel
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
