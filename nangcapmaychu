@@ -442,9 +442,6 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="📺|QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HD
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="mlaliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png",FOX MOVIES
-https://family4you.fun/vn360sport/Sport/genip.php?id=2742
-
 #EXTINF:-1 tvg-id="axnhd" group-title="📺|QUỐC TẾ" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/774032-axn.png",AXN HD
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b2500000.m3u8
 
@@ -539,21 +536,6 @@ http://192.53.113.67/Drfit/index.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="https://d33wubrfki0l68.cloudfront.net/abb70413753ae27de2eb2b850e0ea1c7affb50c9/f94eb/assets/logoplayout_planetearth_3d_plain.png",Plannet Earth HD
 http://192.53.113.67/Plannet/index.m3u8
-
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180925/xho/kisspng-ver-fox-sports-1-en-vivo-televisin-hd-en-vivo-po-5ba9e284400d66.9928032315378602282624.jpg",FOX SPORT 1 
-https://family4you.fun/vn360sport/Sport/genip.php?id=80008
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180925/xho/kisspng-ver-fox-sports-1-en-vivo-televisin-hd-en-vivo-po-5ba9e284400d66.9928032315378602282624.jpg",FOX SPORT 1 latinh america
-https://family4you.fun/vn360sport/Sport/genip.php?id=11370
-
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180614/boo/kisspng-fox-sports-networks-fox-sports-2-fox-entertainment-bbc-radio-2-5b22dbb1db2cf0.9001574515290111218978.jpg",FOX SPORT 2
-https://family4you.fun/vn360sport/Sport/genip.php?id=80009
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://banner2.cleanpng.com/20180614/boo/kisspng-fox-sports-networks-fox-sports-2-fox-entertainment-bbc-radio-2-5b22dbb1db2cf0.9001574515290111218978.jpg",FOX SPORT 2 latinh america
-https://family4you.fun/vn360sport/Sport/genip.php?id=11544
-
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20211218133641&path-prefix=vi",FOX SPORT 3 latinh america
-https://family4you.fun/vn360sport/Sport/genip.php?id=11368
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="rmc1" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20211218133641&path-prefix=vi",FOX SPORT 3 latinh america
-https://family4you.fun/vn360sport/Sport/genip.php?id=11543
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9GzKjAI.png",Bình Dương 9 HD - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
