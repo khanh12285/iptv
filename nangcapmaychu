@@ -1,5 +1,48 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
+http://gg.gg/cvchannel
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
+http://103.125.191.32:8080/live2/mpegts
+#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/tvpub.png",TVPub - Kênh sự kiện
+http://103.125.191.32:8080/tvpub/mpegts
+#EXTINF:-1 group-title="VTV 50fps" tvg-id="vtv1" tvg-logo="https://vthanh.xyz/ic/1.png",VTV1 HD
+http://103.125.191.32:8080/vtv1/mpegts
+#EXTINF:-1 group-title="VTV 50fps" tvg-id="vtv3" tvg-logo="https://vthanh.xyz/ic/3.png" catchup="default" catchup-source="http://103.125.191.32:8080/vtv3/video-${start}-${offset}.m3u8",VTV3 HD
+http://103.125.191.32:8080/vtv3/mpegts
+#EXTINF:-1 group-title="VTV 50fps" tvg-id="vtv5" tvg-logo="https://vthanh.xyz/ic/5.png",VTV5 HD (Chỉ mở khi có bóng)
+#http://103.125.191.32:8080/vtv5/mpegts
+#EXTINF:-1 group-title="VTV 50fps" tvg-id="vtv6" tvg-logo="https://vthanh.xyz/ic/8.png",VTV6 HD (Chỉ mở khi có bóng)
+#http://103.125.191.32:8080/vtv6/mpegts
+#EXTINF:-1 group-title="MAIN SOURCE - CVace" tvg-id="bein1premium" tvg-shift="-4",beIN Sports Premium 1 HD
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="MAIN SOURCE - CVace" tvg-id="bein2premium" tvg-shift="-4",beIN Sports Premium 2 HD
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="MAIN SOURCE - CVace" tvg-id="bein3premium" tvg-shift="-4",beIN Sports Premium 3 HD
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="beIN - SOURCE by vn360sport" tvg-id="bein1" tvg-shift="-4",beIN Sports 1 HD
+https://family4you.fun/vn360sport/Sports360/genip.php?id=18801
+#EXTINF:-1 group-title="beIN - SOURCE by vn360sport" tvg-id="bein2" tvg-shift="-4",beIN Sports 2 HD
+https://family4you.fun/vn360sport/Sports360/genip.php?id=18800
+#EXTINF:-1 group-title="beIN - SOURCE by vn360sport" tvg-id="bein5" tvg-shift="-4",beIN Sports 5 HD
+https://family4you.fun/vn360sport/Sports360/genip.php?id=18789
+#EXTINF:-1 group-title="beIN - SOURCE by vn360sport" tvg-id="bein6" tvg-shift="-4",beIN Sports 6 HD
+https://family4you.fun/vn360sport/Sports360/genip.php?id=18787
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport" tvg-id="Sky Sport 1 HD",Sky Sport Premier League HD
+https://family4you.fun/vn360sport/Sports360/ipro360.php?id=7813
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport" tvg-id="Sky Sport 2 HD",Sky Sport 2 HD
+https://family4you.fun/vn360sport/Sports360/ipro360.php?id=7814
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport" tvg-id="Sky Sport F1 HD",Sky Sport F1 HD
+#https://family4you.fun/vn360sport/Sports360/ipro360.php?id=223333
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport" tvg-id="Sky Sport Austria 1 HD",Sky Sport Austria HD
+https://family4you.fun/vn360sport/Sports360/ipro360.php?id=146661
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport",Sky Sport Bundesliga HD
+https://family4you.fun/vn360sport/Sports360/ipro360.php?id=7812
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport" tvg-id="DAZN 1 HD",DAZN 1 HD
+https://family4you.fun/vn360sport/Sports360/ipro360.php?id=123862
+#EXTINF:-1 group-title="GERMANY - SOURCE by vn360sport" tvg-id="DAZN 2 HD",DAZN 2 HD
+https://family4you.fun/vn360sport/Sports360/ipro360.php?id=123863
+
 #EXTINF:-1 tvg-id="vtc14hd" group-title="📺|XEM LẠI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1500.stream/playlist_dvr_range-${start}-1800.m3u8", VTC14 HD 🔄
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
