@@ -528,14 +528,14 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="📺|QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,WBTV HD
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/243.png", Man
+#EXTINF:-1 tvg-id="man" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/243.png", Man
 http://cdnmega.vthanh.xyz/man/mpegts
 
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=musicbox|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png", Woman
+#EXTINF:-1 tvg-id="woman" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/197.png", Woman
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=woman|Referer=http://sctvonline.vn/
 
@@ -559,15 +559,6 @@ http://192.53.113.67/Drfit/index.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="https://d33wubrfki0l68.cloudfront.net/abb70413753ae27de2eb2b850e0ea1c7affb50c9/f94eb/assets/logoplayout_planetearth_3d_plain.png",Plannet Earth HD
 http://192.53.113.67/Plannet/index.m3u8
-
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="bein1premium" tvg-shift="-4",beIN Sports Premium 1 HD
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="bein2premium" tvg-shift="-4",beIN Sports Premium 2 HD
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-
-#EXTINF:-1 group-title="📺|QUỐC TẾ" tvg-id="bein3premium" tvg-shift="-4",beIN Sports Premium 3 HD
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9GzKjAI.png",Bình Dương 9 HD - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
