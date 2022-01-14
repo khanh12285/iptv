@@ -554,11 +554,13 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-id="historyhd" group-title="📺|QUỐC TẾ" tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg",History HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="drfithd" group-title="📺|QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068777998.png",Dr Fit HD
-http://192.53.113.67/Drfit/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/196.png", Dr Fit
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=drfit|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="https://d33wubrfki0l68.cloudfront.net/abb70413753ae27de2eb2b850e0ea1c7affb50c9/f94eb/assets/logoplayout_planetearth_3d_plain.png",Plannet Earth HD
-http://192.53.113.67/Plannet/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=planetearth|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9GzKjAI.png",Bình Dương 9 HD - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -918,10 +920,7 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=planetearth|Referer=http
 http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=woman|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 group-title="⚽|TRUC TIEP" tvg-logo="https://cdn.hqth.me/cvmedia.png", Live 1
+#EXTINF:-1 group-title="⚽|LIVE" tvg-logo="https://cdn.hqth.me/cvmedia.png", Live 1
 http://103.125.191.32:8080/live2/mpegts
-#EXTINF:-1 group-title="⚽|TRUC TIEP" tvg-logo="https://cdn.hqth.me/tvpub.png", Live 2
+#EXTINF:-1 group-title="⚽|LIVE" tvg-logo="https://cdn.hqth.me/tvpub.png", Live 2
 http://103.125.191.32:8080/tvpub/mpegts
-
-#EXTINF:-1 group-title="⚽|TRUC TIEP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Africa_Cup_of_Nation_official_logo.png", HD 1 Tunisia vs Mali
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/truc-tiep/
