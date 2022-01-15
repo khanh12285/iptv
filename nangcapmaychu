@@ -896,11 +896,411 @@ https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 group-title="💓|LIVE"💓" tvg-logo="https://cdn.hqth.me/cvmedia.png", Live 1
-http://103.125.191.32:8080/live2/mpegts
+#http://103.125.191.32:8080/live2/mpegts
 
 #EXTINF:-1 group-title="💓|LIVE"💓" tvg-logo="https://cdn.dribbble.com/users/2086807/screenshots/4349700/media/0cbc2bc7dfacf3180ec742b67ed7dc68.gif",19h30-15/01: Man City - Chelsea
 https://family4you.fun/vn360sport/90vebolist/vebo_play.php?id=61ddb8c1a6651b3cd222bc03&.m3u8|Referer=https://mitom.90phuttttt.xyz/
 
 #EXTINF:-1 group-title="💓|LIVE"💓" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Man City vs Chelsea
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+
+#EXTM3U
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="http://hoaivnpt.duckdns.org/icon/football.jpeg",▄▀▄ Đang trực tiếp ▄▀▄ 
+https://127.0.0.1/qccakhia2.mp4
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", SD 1 Man City vs Chelsea
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", HD 1 Man City vs Chelsea
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", SD 2 Man City vs Chelsea
+https://na46hw9rf0liv.vcdn.cloud/cakhiasd2/index.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", HD 2 Man City vs Chelsea
+https://na46hw9rf0liv.vcdn.cloud/cakhiahd2/index.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Full HD Man City vs Chelsea
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Man City vs Chelsea
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Full HD Luton vs Bournemouth
+https://rakhoi.tv/|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Luton vs Bournemouth
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Full HD Nürnberg vs Paderborn
+https://rakhoi.tv/|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Nürnberg vs Paderborn
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Full HD St. Pauli vs Erzgebirge Aue
+https://rakhoi.tv/|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài St. Pauli vs Erzgebirge Aue
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Full HD Werder Bremen vs Düsseldorf
+https://rakhoi.tv/|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Werder Bremen vs Düsseldorf
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Full HD Istanbulspor vs Ümraniyespor
+https://rakhoi.tv/|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Nhà đài Istanbulspor vs Ümraniyespor
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="http://hoaivnpt.duckdns.org/icon/next.png",★彡 Trận sắp diễn ra 彡★ 
+https://127.0.0.1/qccakhia2.mp4
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-15/01: Sampdoria - Torino
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089c4a2dd9b2183f094e1-wSTX86&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h30-15/01: Mainz - Bochum
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089d796865e21b7032858-z7hHN8&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h30-15/01: VfB Stuttgart - RB Leipzig
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089e0883de2217d7d3bff-ayYu0L&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h30-15/01: Wolfsburg - Hertha BSC
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089e882fffb21b696c609-n7oScY&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h30-15/01: Köln - Bayern München
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089f182fffb21b696c60c-VN898b&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h30-15/01: Union Berlin - Hoffenheim
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089f982fffb21b696c60f-tSoWSp&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-15/01: Norwich - Everton
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08998883de2217d7d3bf9-OrZYLH&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-15/01: Newcastle - Watford
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089ae96865e21b7032855-SqcXoL&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-15/01: Wolves - Southampton
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e089ba883de2217d7d3bfc-20go8B&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-15/01: Derby - Sheff Utd
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08a48883de2217d7d3c03-rod2lA&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h00-15/01: Mallorca - Espanyol
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08b3396865e21b703285e-tn67kd&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h30-15/01: Boavista - Gil Vicente
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08a0282fffb21b696c612-tsp6Hm&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h30-15/01: ADO Den Haag - TOP Oss
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08b2482fffb21b696c618-tj0Xgo&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-15/01: Nigeria - Sudan
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08972a2dd9b2183f094db-tfudPR&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-15/01: Saint-Etienne - Lens
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08a1aa2dd9b2183f094e4-PB7fn6&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-15/01: Kocaelispor - Ankaragücü
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c1582fffb21b696c61b-MfNnVS&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h00-16/01: Salernitana - Lazio
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c6c82fffb21b696c624-lT4hun&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-16/01: Aston Villa - Man United
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c52883de2217d7d3c0c-a8lsOz&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-16/01: M'gladbach - Leverkusen
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cb3a2dd9b2183f094fd-C8Js57&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-16/01: Girona - Rayo Vallecano
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e0900596865e21b7032891-D8Wh5V&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-16/01: Sporting Gijon - Cadiz
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e09007883de2217d7d3c30-aTeGuG&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h45-16/01: NEC Nijmegen - Heracles
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fcba2dd9b2183f09518-JnBgcQ&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h00-16/01: Benfica - Moreirense
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cef96865e21b7032867-XFRd8j&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h00-16/01: Braga - Maritimo
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cf0883de2217d7d3c15-5s5e2R&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-16/01: Guinea-Bissau - Egypt
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d5f82fffb21b696c633-OEbyg5&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-16/01: FC Twente - SC Heerenveen
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fcda2dd9b2183f09519-aOA4xL&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-16/01: Feyenoord - Vitesse
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fcea2dd9b2183f0951a-p4yMZx&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h45-16/01: Juventus - Udinese
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c7482fffb21b696c627-LBAHJR&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h00-16/01: PSG - Brest
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d1fa2dd9b2183f09503-x0This&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h00-16/01: Go Ahead Eagles - RKC Waalwijk
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fcf96865e21b703288b-MmSc0e&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h30-16/01: Estoril - Arouca
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cf2a2dd9b2183f09500-LwwQIH&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h30-16/01: Real Betis - Sevilla
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e0900882fffb21b696c640-O6IMQz&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",06h00-16/01: Queretaro (W) - Pachuca (W)
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e2736682fffb21b696c6bd-F5GVUL&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",06h00-16/01: Atlas - San Luis
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e2736996865e21b7032928-KKNPVR&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",08h00-16/01: Tigres - Puebla
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e27376a2dd9b2183f095a9-i3rwSd&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",10h00-16/01: Cruz Azul - Juárez
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e27374a2dd9b2183f095a8-hZxbTS&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",10h05-16/01: Wellington Phoenix (W) - Brisbane Roar FC (W)
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e2738ba2dd9b2183f095ae-V3Sd48&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",10h06-16/01: Tijuana - León
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e2738d82fffb21b696c6c0-b3T3YS&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",12h05-16/01: Western Sydney Wanderers FC (W) - Melbourne Victory (W)
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e2738f96865e21b703292b-vNFub7&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",14h45-16/01: Newcastle Jets (W) - Perth Glory (W)
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e2739496865e21b703292e-KtHDJa&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",17h30-16/01: Altay - Alanyaspor
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e273ab883de2217d7d3d58-xrF3U4&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",17h30-16/01: Tuzlaspor - Altinordu
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e273b396865e21b7032931-2UoVlY&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",17h30-16/01: Keçiörengücü - Eyupspor
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e273ba82fffb21b696c6c6-grbWNo&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h00-16/01: Atletico Baleares - Valencia
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e0900996865e21b7032894-AoEEM7&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h15-16/01: FC Utrecht - Ajax
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fd1883de2217d7d3c2d-YlhVAJ&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",18h30-16/01: Sassuolo - Hellas Verona
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c87883de2217d7d3c0f-aiEhlX&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",19h00-16/01: Rennes - Bordeaux
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d2196865e21b703286d-eWLxQa&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",19h00-16/01: Hull - Stoke
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f4496865e21b7032888-6zwmiA&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-16/01: Elche - Villarreal
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c6aa2dd9b2183f094fa-dVV5Zs&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h00-16/01: Gambia - Mali
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d61a2dd9b2183f09506-I2dDzX&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-16/01: Cambuur - Sparta Rotterdam
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fd296865e21b703288c-iaWnpB&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",20h30-16/01: FC Groningen - PSV Eindhoven
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08fd4a2dd9b2183f09521-HK7wpL&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: Liverpool - Brentford
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c5382fffb21b696c61e-b7HYLl&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: West Ham - Leeds
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c55a2dd9b2183f094f7-9ZWtXH&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: Venezia - Empoli
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c88883de2217d7d3c10-WTCx2c&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: Lorient - Angers
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d22883de2217d7d3c18-mOIZgN&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: Monaco - Clermont Foot
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d2382fffb21b696c62d-hzQHNc&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: Reims - Metz
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d2582fffb21b696c62e-g3Gqtz&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h00-16/01: Strasbourg - Montpellier
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d26883de2217d7d3c1b-y2hUz1&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",21h30-16/01: Augsburg - Frankfurt
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cc682fffb21b696c62a-RLbEzQ&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",22h30-16/01: Santa Clara - Tondela
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cf496865e21b703286a-hgZ7uq&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-16/01: Ivory Coast - Sierra Leone
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d6296865e21b7032873-N8k4oH&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-16/01: Tunisia - Mauritania
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d63a2dd9b2183f09507-umlf38&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h05-16/01: Troyes - Lyon
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08d2896865e21b7032870-Zn10T7&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-16/01: Tottenham - Arsenal
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08c5882fffb21b696c621-Q61fdF&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h30-16/01: Arminia Bielefeld - Greuther Fürth
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08cd296865e21b7032864-OhJGTu&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h00-17/01: Roma - Cagliari
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08de1883de2217d7d3c1e-v686mr&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-17/01: L.R. Vicenza Virtus - Alessandria
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e0903596865e21b7032897-KREH8D&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h00-17/01: Vizela - Sporting CP
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e03a2dd9b2183f0950f-uVim2r&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h30-17/01: Famalicao - Pacos de Ferreira
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e05883de2217d7d3c21-ysF0pa&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",01h30-17/01: Real Madrid - Atletico Madrid/Athletic Bilbao
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e22883de2217d7d3c24-o8986m&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-17/01: Algeria - Equatorial Guinea
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e4a96865e21b703287f-I2FBkT&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h30-17/01: Chaves - Varzim
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e0696865e21b7032876-2fxURO&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h45-17/01: Atalanta - Inter
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08de3a2dd9b2183f0950c-RSgfMy&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h45-17/01: Marseille - Lille
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e2e96865e21b703287c-lnxuUq&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h30-17/01: Belenenses SAD - FC Porto
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e0896865e21b7032877-SeBjtR&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",04h00-17/01: Peru - Panama
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e13a2dd9b2183f09512-Tllc0G&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-17/01: Burkina Faso - Ethiopia
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e4b96865e21b7032880-5VCW0I&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-17/01: Cape Verde - Cameroon
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08e4ca2dd9b2183f09515-YbGsAa&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-18/01: Milan - Spezia
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f0482fffb21b696c637-yU6Lc6&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",00h30-18/01: Bologna - Napoli
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f0596865e21b7032885-mFzHQX&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h00-18/01: Jong Ajax - FC Den Bosch
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e0906496865e21b703289a-8BgeDU&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",02h45-18/01: Fiorentina - Genoa
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f0782fffb21b696c638-nj6Dvr&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",03h15-18/01: Portimonense - Vitoria de Guimaraes
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f16883de2217d7d3c27-yvp6be&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-18/01: Malawi - Senegal
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f1f883de2217d7d3c2a-jOGMUN&.m3u8|Referer=https://cakhia.cakhia10.tv/
+#EXTINF:-1 group-title="Ra_khơi.TV" tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-02.png",23h00-18/01: Zimbabwe - Guinea
+https://family4you.fun/hoaivnpt/cakhiatv_.php?id=61e08f2082fffb21b696c63d-yccL77&.m3u8|Referer=https://cakhia.cakhia10.tv/
+
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-15/01: Man City - Chelsea (Thỏ + Mới)
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c1a6651b3cd222bc03&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-15/01: Luton - Bournemouth
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c5a6651b3cd222bc1e&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-15/01: Sampdoria - Torino
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c2a6651b3cd222bc08&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-15/01: Köln - Bayern (Lê Văn Cáp)
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c2a6651b3cd222bc0a&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-15/01: Mainz - Bochum
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c3a6651b3cd222bc0b&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-15/01: Union Berlin - Hoffenheim
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c3a6651b3cd222bc0c&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-15/01: VfB Stuttgart - RB Leipzig
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c3a6651b3cd222bc0d&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-15/01: Wolfsburg - Hertha BSC
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c3a6651b3cd222bc0e&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-15/01: Newcastle - Watford (Thỏ)
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c2a6651b3cd222bc05&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-15/01: Norwich - Everton (Âu men)
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c2a6651b3cd222bc06&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-15/01: Wolves - Southampton (Liu men)
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c2a6651b3cd222bc07&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-15/01: Derby - Sheff Utd
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8c6a6651b3cd222bc20&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-15/01: Mallorca - Espanyol
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8cea6651b3cd222bc53&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-15/01: Boavista - Gil Vicente
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ddb8cca6651b3cd222bc4b&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-15/01: Saint-Etienne - Lens
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0918a6651b1b1b1aa06c&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-15/01: Nigeria - Sudan
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0919a6651b1b1b1aa073&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-16/01: Salernitana - Lazio
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa066&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-16/01: Aston Villa - Man United
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa062&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-16/01: M'gladbach - Leverkusen
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0918a6651b1b1b1aa06a&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-16/01: Girona - Rayo Vallecano
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0923a6651b1b1b1aa0b4&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-16/01: Sporting Gijon - Cadiz
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0924a6651b1b1b1aa0b5&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-16/01: NEC Nijmegen - Heracles
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0921a6651b1b1b1aa0a6&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-16/01: Benfica - Moreirense
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0ae&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-16/01: Braga - Maritimo
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0923a6651b1b1b1aa0af&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h00-16/01: Guinea-Bissau - Egypt
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0919a6651b1b1b1aa074&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h00-16/01: FC Twente - SC Heerenveen
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0921a6651b1b1b1aa0a7&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h00-16/01: Feyenoord - Vitesse
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0a8&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-16/01: Juventus - Udinese
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa067&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/01: PSG - Brest
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0918a6651b1b1b1aa06d&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/01: Go Ahead Eagles - RKC Waalwijk
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0a9&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h30-16/01: Real Betis - Sevilla
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0924a6651b1b1b1aa0b6&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",06h30-16/01: Bucks - Raptors
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2ae49e5fdc400c066546b&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",07h00-16/01: Wizards - Blazzers
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2ae6ae5fdc400c10536e9&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",07h30-16/01: Nets - Pelicans
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2ae89e5fdc400b155bf30&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",07h30-16/01: Hawks - Knicks
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2aea7e5fdc400bd5877d0&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",08h00-16/01: Thunder - Cavaliers
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2aec5e5fdc400b355f80f&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",08h00-16/01: Heat - 76ers
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2aef9e5fdc400bf058fec&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",08h30-16/01: Celtics - Bulls
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2af12e5fdc400ae1cefee&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",08h30-16/01: Spurs - Clippers
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2af30e5fdc400b87a0f3b&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",09h00-16/01: Nuggets - Lakers
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2af4de5fdc400c10536ea&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",09h30-16/01: Mavericks - Magic
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e2af6ee5fdc400b155bf31&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",18h00-16/01: Atletico Baleares - Valencia
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0924a6651b1b1b1aa0b7&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",18h15-16/01: FC Utrecht - Ajax
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0aa&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",18h30-16/01: Sassuolo - Hellas Verona
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa068&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/01: Rennes - Bordeaux
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0918a6651b1b1b1aa06e&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h00-16/01: Hull - Stoke
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df091ba6651b1b1b1aa081&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",20h00-16/01: Elche - Villarreal
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa065&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",20h00-16/01: Gambia - Mali
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df091aa6651b1b1b1aa075&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",20h30-16/01: Cambuur - Sparta Rotterdam
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0ab&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",20h30-16/01: FC Groningen - PSV Eindhoven
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0ac&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: Liverpool - Brentford
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa063&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: West Ham - Leeds
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0917a6651b1b1b1aa064&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: Venezia - Empoli
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0918a6651b1b1b1aa069&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: Lorient - Angers
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0919a6651b1b1b1aa06f&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: Monaco - Clermont Foot
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0919a6651b1b1b1aa070&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: Reims - Metz
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0919a6651b1b1b1aa071&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h00-16/01: Strasbourg - Montpellier
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0919a6651b1b1b1aa072&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-16/01: Augsburg - Frankfurt
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0918a6651b1b1b1aa06b&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h30-16/01: Santa Clara - Tondela
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0923a6651b1b1b1aa0b1&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h45-16/01: Fortuna Sittard - AZ Alkmaar
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61df0922a6651b1b1b1aa0ad&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-16/01: Ivory Coast - Sierra Leone
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a99a6651b795228a48a&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-16/01: Tunisia - Mauritania
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a99a6651b795228a48c&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h05-16/01: Troyes - Lyon
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a98a6651b795228a486&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-17/01: Roma - Cagliari
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a98a6651b795228a483&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-17/01: Vizela - Sporting CP
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a9ca6651b795228a49e&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h30-17/01: Famalicao - Pacos de Ferreira
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a9ca6651b795228a49f&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h30-17/01: Real Madrid - Athletic Club
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e120bfa6651b47aa54aaa2&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h00-17/01: Algeria - Equatorial Guinea
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a99a6651b795228a48b&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/01: Atalanta - Inter
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a98a6651b795228a484&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-17/01: Marseille - Lille
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e05a98a6651b795228a487&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-17/01: Burkina Faso - Ethiopia
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e1ac18a6651b58b90e94c6&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",23h00-17/01: Cape Verde - Cameroon
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61e1ac18a6651b58b90e94c7&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+#EXTINF:-1 group-title="Về_bờ.TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",01h00-18/01: Trao giải The Best 2021
+https://family4you.fun/hoaivnpt/90phut_tv.php?id=61ded7b6e5fdc400bf058fea&.m3u8|Referer=https://mitom.90phuttttt.xyz/
+
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",19:30-15/01: Manchester City vs Chelsea
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/manchester-city-vs-chelsea-1930-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",22:00-15/01: Norwich City vs Everton
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/norwich-city-vs-everton-2200-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",22:00-15/01: Newcastle Utd vs Watford
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/newcastle-utd-vs-watford-2200-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",00:30-16/01: Aston Villa vs Man Utd
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/aston-villa-vs-man-utd-0030-16-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",19:30-15/01: Werder Bremen vs F. Düsseldorf
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/werder-bremen-vs-f-dusseldorf-1930-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",19:30-15/01: Luton Town vs Bournemouth Düsseldorf
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/luton-town-vs-bournemouth-1930-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",19:30-15/01: St. Pauli vs Erzgebirge Aue
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/st-pauli-vs-erzgebirge-aue-1930-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",19:30-15/01: Nürnberg vs Paderborn Erzgebirge Aue
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/nurnberg-vs-paderborn-1930-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",19:30-15/01: Cardiff City vs Blackburn Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/cardiff-city-vs-blackburn-rovers-1930-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",20:00-15/01: Cremonese vs Como Blackburn Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/cremonese-vs-como-2100-26-12/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",20:00-15/01: Reggina vs Brescia Blackburn Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/reggina-vs-brescia-2100-26-12/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",20:00-15/01: Sivasspor vs Trabzonspor Blackburn Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/sivasspor-vs-trabzonspor-2000-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",20:00-15/01: F. Karagumruk vs Rizespor Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/f-karagumruk-vs-rizespor-2000-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:00-15/01: Sampdoria vs Torino Rizespor Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/sampdoria-vs-torino-2100-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:00-15/01: Ajaccio vs Auxerre Rizespor Rovers
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/ajaccio-vs-auxerre-2100-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:30-15/01: FC Köln vs Bayern Munich
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/fc-koln-vs-bayern-munich-2130-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:30-15/01: Mainz 05 vs Bochum Munich
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/mainz-05-vs-bochum-2130-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:30-15/01: VfB Stuttgart vs RB Leipzig
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/vfb-stuttgart-vs-rb-leipzig-2130-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:30-15/01: Union Berlin vs TSG Hoffenheim
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/union-berlin-vs-tsg-hoffenheim-2130-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+#EXTINF:-1 group-title="Mì_tôm.TV" tvg-logo="https://dptrangminh.com/wp-content/uploads/2017/11/thuckhuya.jpg",21:30-15/01: VfL Wolfsburg vs Hertha BSC
+https://family4you.fun/hoaivnpt/thuckhuya_tv.php?url=https://mitom1.tv/truc-tiep/vfl-wolfsburg-vs-hertha-bsc-2130-15-01/&.m3u8|Referer=https://playtk.p2pcdn.xyz/
+
+
 
