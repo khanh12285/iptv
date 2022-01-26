@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|XEM LẠI" tvg-logo="https://i.imgur.com/mDQssNg.jpg" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-2400.m3u8",Vĩnh Long 1 🔄
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" tvg-chno="32" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/playlist_dvr_range-${start}-900.m3u8",Vĩnh Long 2 🔄
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="📺|XEM LẠI" tvg-logo="https://i.imgur.com/hrsgjNu.jpg" tvg-chno="32" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/playlist_dvr_range-${start}-900.m3u8",Vĩnh Long 2 🔄
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="📺|XEM LẠI" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" catchup="append" catchup-days="6" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1500.stream/playlist_dvr_range-${start}-1800.m3u8", VTC14 HD 🔄
