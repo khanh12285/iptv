@@ -922,4 +922,13 @@ https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
 #http://103.125.191.32:8000/live2
 http://gg.gg/keocine
 
-
+#EXTINF:-1 tvg-id="tvpub" group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/tvpub.png", TVPub - Kênh sự kiện
+http://103.125.191.32:8080/tvpub/mpegts
+#EXTINF:-1 tvg-id="live1" group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
+http://103.125.191.32:8000/live1
+#EXTINF:-1 tvg-id="live2" group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
+http://103.125.191.32:8000/live2
+#EXTINF:-1 tvg-id="live4k" group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
+http://103.125.191.32:8000/live4k
+#EXTINF:-1 tvg-id="vthanh" group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhchannel.png", VThanh Channel
+https://cdnazsg.vthanh.xyz/livestream/mpegts
