@@ -620,7 +620,7 @@ https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/jO8gjRR.png",Bến Tre HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #http://livecdn.fptplay.net/sdc/bentre_hls.smil/playlist.m3u8
-https://livecdn.fptplay.net/sdc/bentre_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/sdc/bentre_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/jO8gjRR.png",Bến Tre HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
