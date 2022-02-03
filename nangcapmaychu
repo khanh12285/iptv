@@ -1,31 +1,35 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-#https://livecdn.fptplay.net/hdevent/27082021k1_2000.stream/playlist.m3u8
-#https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
 https://bom.so/rgJDUv
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine FHD
 https://bom.so/FZzXBm
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+Life HD 
-https://vips-livecdn.fptplay.net/hdevent/27082021k1ns_2000.stream/playlist.m3u8
+#https://vips-livecdn.fptplay.net/hdevent/27082021k1ns_2000.stream/playlist.m3u8
+https://bom.so/2UfXiE
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+Life HD 
-https://livecdn.fptplay.net/hdevent/27082021k1ns_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+Life FHD 
+#https://livecdn.fptplay.net/hdevent/27082021k1ns_4000.stream/playlist.m3u8
+https://bom.so/uOz5sL
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1 HD 
-https://livecdn.fptplay.net/hdevent/27082021k1pm_2000.stream/playlist.m3u8
+#https://livecdn.fptplay.net/hdevent/27082021k1pm_2000.stream/playlist.m3u8
+https://bom.so/Log3tj
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1 HD 
-https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1 FHD 
+#https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
+https://bom.so/XG8dfO
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2 HD
-https://livecdn.fptplay.net/hdevent/27082021k1pc_2000.stream/playlist.m3u8
+#https://livecdn.fptplay.net/hdevent/27082021k1pc_2000.stream/playlist.m3u8
+https://bom.so/86keEj
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2 HD
-https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2 FHD
+#https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
+https://bom.so/gf3j4B
 
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|XEM LẠI" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO HD 🔄
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
