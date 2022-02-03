@@ -934,11 +934,11 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W
 
 #EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Live 2
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
-#http://103.125.191.32:8000/live1
-https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
+http://103.125.191.32:8000/live2
+#https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
 
 
 #EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Live 3
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
-#http://193.33.88.172/football1_hd/mpegts
+#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
+http://193.33.88.172/football1_hd/mpegts
 
