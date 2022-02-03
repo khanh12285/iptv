@@ -62,6 +62,19 @@ http://cdnspt.vthanh.xyz/ksport1/mpegts
 #https://cdnspt.vthanh.xyz/AOLive/mpegts
 http://cdnspt.vthanh.xyz/ksport2/mpegts
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE HD
+http://iptvdtpro.vinaddns.com:8000/Kcine/mpegts
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp", K+LIFE HD
+http://iptvdtpro.vinaddns.com:8000/Klife/mpegts
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.webp",K+ Sport 1 HD
+http://iptvdtpro.vinaddns.com:8000/Ksport1/mpegts
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ VIP" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp",K+ Sport 2 HD
+http://iptvdtpro.vinaddns.com:8000/Ksport2/mpegts
+
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="📺|ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/mDQssNg.jpg" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTY0MjE4NTQ0OH0.efsQyr5DcVB4hzW2HXQ4Zcockq_wEDg9pPLQtE6Mc5c-/thvl1-720p/chunks_dvr_range-${start}-1800.m3u8",Vĩnh Long 1 HD
 https://l9v8fomqgzliv.vcdn.cloud/live/thvl1/chunklist_2.m3u8
 
