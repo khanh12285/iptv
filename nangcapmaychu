@@ -941,6 +941,4 @@ http://103.125.191.32:8000/live2
 
 #EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Live 3
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
-#http://193.33.88.172/football1_hd/mpegts
-http://193.33.88.172/match_hd/mpegts
-
+https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
