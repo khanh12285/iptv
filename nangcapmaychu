@@ -956,6 +956,10 @@ http://127.0.0.1:6878/ace/getstream?id=4f69759bb4e185a951c44e3343f7450912e935ca
 #EXTINF:-1 tvg-id="thvl4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_THVL4_HD.jpg" group-title="♻️|Ace_Kênh Việt2",THVL4 HD
 http://127.0.0.1:6878/ace/getstream?id=1ec92d515d4d706f6aece06ecaf385525ebeaa32
 
+#EXTINF:-1 tvg-id="htv7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="♻️|Ace_Kênh Việt2",HTV7 HD
+http://127.0.0.1:6878/ace/getstream?id=88902aea57ca0b8f038d59973396ed24dd0d1652
+#EXTINF:-1 tvg-id="htv9" tvg-logo="https://i.pinimg.com/originals/3d/9f/7e/3d9f7e3b3b48d004ba517bb7debb9ec1.png" group-title="♻️|Ace_Kênh Việt2",HTV9 HD
+http://127.0.0.1:6878/ace/getstream?id=0f7b8b50f0da00df17cd557100eb4ec8632e08e1
 
 #EXTINF:-1 tvg-id="blueantext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="♻️|Ace_Kênh Việt2",BLUE ANT EXTREME HD
 http://127.0.0.1:6878/ace/getstream?id=69cd2be719da55ae19ab20c14f8edd55783a945b
@@ -1041,11 +1045,7 @@ http://127.0.0.1:6878/ace/getstream?id=af6cf142b3d15153e3f7165ad311ee122022e115
 http://127.0.0.1:6878/ace/getstream?id=b779c11fb261c0cefcde03fd3bf25a73004ae71f
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="♻️|Ace_Kênh Việt2",HTV KEY SD
 http://127.0.0.1:6878/ace/getstream?id=fda040c9e85d5d3b077582f163a222af357d5bdc
-#EXTINF:-1 tvg-id="htv7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="♻️|Ace_Kênh Việt2",HTV7 HD
-http://127.0.0.1:6878/ace/getstream?id=88902aea57ca0b8f038d59973396ed24dd0d1652
-#EXTINF:-1 tvg-id="htv9" tvg-logo="https://i.pinimg.com/originals/3d/9f/7e/3d9f7e3b3b48d004ba517bb7debb9ec1.png" group-title="♻️|Ace_Kênh Việt2",HTV9 HD
-http://127.0.0.1:6878/ace/getstream?id=0f7b8b50f0da00df17cd557100eb4ec8632e08e1
- 
+
 #EXTINF:-1 tvg-id="htvc+" tvg-logo="https://htvc.vn/uploads/editor/images/CPlusLogo_Final.jpg" group-title="♻️|Ace_Kênh Việt2",HTVC+ HD
 http://127.0.0.1:6878/ace/getstream?id=54613b89d035b1b7fa2e5cc929459b93630677ef
 #EXTINF:-1 tvg-id="htvcgiadinh" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_htvcgiadinh.png" group-title="♻️|Ace_Kênh Việt2",HTVC GIA DINH HD
