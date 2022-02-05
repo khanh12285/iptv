@@ -1116,3 +1116,31 @@ http://127.0.0.1:6878/ace/getstream?id=87fdd1226bc4c8f16c7fe036b56d44e1e10ecc18
 #EXTINF:-1 tvg-id="" tvg-logo="https://cliptv.vn/themes/cliptv/img/list_channel/Kenh_dia_phuong/HaNoiTV2.png" group-title="♻️|Ace_Kênh Việt2",HA NOI 2 HD
 http://127.0.0.1:6878/ace/getstream?id=25dad95947d8c1427db59e7eac63897e5d150190
 
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/691.png" group-title="♻️|Ace_Kênh Việt2",CA MAU TV
+http://127.0.0.1:6878/ace/getstream?id=69f0503e266c3c90041d674624abbe18fb6e6768
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/631.png" group-title="♻️|Ace_Kênh Việt2",TIEN GIANG TV
+http://127.0.0.1:6878/ace/getstream?id=8fa670e27bd7ef63107a1a4f53cc51d33ec38c16
+#EXTINF:-1 tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/09/515081-long-an.png" group-title="♻️|Ace_Kênh Việt2",LONG AN TV
+http://127.0.0.1:6878/ace/getstream?id=b3df4154093c5718bcfd7ffa829dfc19345db732
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="♻️|Ace_Kênh Việt2",KIEN GIANG TV
+http://127.0.0.1:6878/ace/getstream?id=53c2a8b40293258ffc267260055aa5d6b734fa97
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="♻️|Ace_Kênh Việt2",KIEN GIANG TV1
+http://127.0.0.1:6878/ace/getstream?id=99b9575b9a4f3ae6083faf4ec8aecf4434a65c9b
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/781.png" group-title="♻️|Ace_Kênh Việt2",PHU YEN TV
+http://127.0.0.1:6878/ace/getstream?id=84948452dce474dbea7bc98aac165f66c6dce102
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/811.png" group-title="♻️|Ace_Kênh Việt2",GIA LAI TV
+http://127.0.0.1:6878/ace/getstream?id=33bd4d006152e8ee2ce37d2e14a642ebc051de08
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/431.png" group-title="♻️|Ace_Kênh Việt2",DA NANG TV1
+http://127.0.0.1:6878/ace/getstream?id=46d57cf1adc354fe1f42d646cd5f2b99b3ded783
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/432.png" group-title="♻️|Ace_Kênh Việt2",DA NANG TV2
+http://127.0.0.1:6878/ace/getstream?id=144031bfd039478ee18b83e9b314028e77c08f8f
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/361.png" group-title="♻️|Ace_Kênh Việt2",THANH HOA
+http://127.0.0.1:6878/ace/getstream?id=3b824f401e527568e32908f17ba51807b04de105
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/921.png" group-title="♻️|Ace_Kênh Việt2",QUANG NAM TV HD
+http://127.0.0.1:6878/ace/getstream?id=899775d4bba3aa74280a4f57b08114affd948374
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/921.png" group-title="♻️|Ace_Kênh Việt2",QUANG NAM TV
+http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
+http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
+
