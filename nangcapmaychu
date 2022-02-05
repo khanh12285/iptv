@@ -941,12 +941,11 @@ https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO
-http://127.0.0.1:6878/ace/getstream?id=cacbcf8c81f6076be91f01ae80106f9241a0a29d
+#http://127.0.0.1:6878/ace/getstream?id=cacbcf8c81f6076be91f01ae80106f9241a0a29d
+
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="♻️|Ace_Kênh Việt2",CINEMAX HD
 http://127.0.0.1:6878/ace/getstream?id=de2cdd6dcb8ce3be45384cb31a5a52e01e1c2048
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="♻️|Ace_Kênh Việt2",CINEMAX
-http://127.0.0.1:6878/ace/getstream?id=a8aa78f22e728734b578811f34c668fe5d0f97a9
+#http://127.0.0.1:6878/ace/getstream?id=a8aa78f22e728734b578811f34c668fe5d0f97a9
 
 #EXTINF:-1 tvg-id="thvl1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo_THVL1_HD.jpg" group-title="♻️|Ace_Kênh Việt2",THVL1 HD
 http://127.0.0.1:6878/ace/getstream?id=37eb79718c1326a6b251285691e8095d6fe22222
