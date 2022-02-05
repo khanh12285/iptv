@@ -1142,38 +1142,6 @@ http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
 http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
 
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,Sky Sports F1 stream
-http://127.0.0.1:6878/ace/getstream?id=a5d1b21a14693c758f21fb93b9c808276c0ce025
-
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,ALL SPORTS
-http://127.0.0.1:6878/ace/getstream?id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
-
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,Setanta Sport
-http://127.0.0.1:6878/ace/getstream?id=f89b5d2a3d33c079864e709236bc9ea896cc8e37
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,FOX SPORT NEW
-http://127.0.0.1:6878/ace/getstream?id=24564a46bdf2f816bcaba4ef2371fd2ab3b0a067
-
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,TENNIS CHANNEL HD (ArenaVision)
-http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,TENNIS Plus
-http://127.0.0.1:6878/ace/getstream?id=12bc0a80e191cc1fcb3155802162cb5925fcb460
-
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,KALOOPY 18+
-http://127.0.0.1:6878/ace/getstream?id=b63c7fec82ce9fe5ce153201aa475fb7f9394460
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,JASMIN.TV 18+
-http://127.0.0.1:6878/ace/getstream?id=8824d36d457edf53be6967bfca3f67952c2dc259
-
-#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 1-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
-#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 2-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=12722d111be8a2e069af83d535d5fd0b39734712
-#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 3-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
-#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 4-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=966bf9c2479d65f0d52bf9033430e92b7cfea242
-#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 5-bit.ly/tiengruoi
-http://127.0.0.1:6878/ace/getstream?id=e0d6a0e875a3bebba88587da86dc5a0300abcf63
-
 #EXTINF:-1 tvg-id="bein1premium" tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="♻️|Ace_SPORTS",BEIN PREMIUM 1 HD
 http://127.0.0.1:6878/ace/getstream?id=67dd7e40421d8de4380f8fdc083587083b824d4c
 #EXTINF:-1 tvg-id="bein2premium" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-2-759.png" group-title="♻️|Ace_SPORTS",BEIN PREMIUM 2 HD
@@ -1213,3 +1181,19 @@ http://127.0.0.1:6878/ace/getstream?id=071619ce144ba10c205143961a9c73fee2568c26
 http://127.0.0.1:6878/ace/getstream?id=44a46377029622b2a16c6a3976e07789df29dd85
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png" group-title="♻️|Ace_SPORTS",K SPORT 3
 http://127.0.0.1:6878/ace/getstream?id=de3b4b3ebfe4ecd073a50437f930d256c454fd0c
+
+#EXTINF:-1 tvg-id="" group-title="♻️|Ace_SPORTS" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,KALOOPY 18+
+http://127.0.0.1:6878/ace/getstream?id=b63c7fec82ce9fe5ce153201aa475fb7f9394460
+#EXTINF:-1 tvg-id="" group-title="♻️|Ace_SPORTS" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,JASMIN.TV 18+
+http://127.0.0.1:6878/ace/getstream?id=8824d36d457edf53be6967bfca3f67952c2dc259
+
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 1-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 2-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=12722d111be8a2e069af83d535d5fd0b39734712
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 3-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 4-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=966bf9c2479d65f0d52bf9033430e92b7cfea242
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 5-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=e0d6a0e875a3bebba88587da86dc5a0300abcf63
