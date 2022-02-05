@@ -1061,11 +1061,6 @@ http://127.0.0.1:6878/ace/getstream?id=d71bdfb855485b3f7fa71fd7d07653ee37ace97d
 #EXTINF:-1 tvg-id="htvcdulichcuocsong" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/348852-dulich.png" group-title="♻️|Ace_Kênh Việt2",HTVC DU LICH & CUOC SONG
 http://127.0.0.1:6878/ace/getstream?id=e954e9a5994f975dba7181b33a91d56641261adf
 
-
-#EXTINF:-1 tvg-id="sctv2" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv2.png" group-title="♻️|Ace_Kênh Việt2",SCTV2 HD
-http://127.0.0.1:6878/ace/getstream?id=cd97018efd14603b4b75cc1bf74e5d5706df91a2
-#EXTINF:-1 tvg-id="sctv2" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_sctv2.png" group-title="♻️|Ace_Kênh Việt2",SCTV2
-http://127.0.0.1:6878/ace/getstream?id=434b37039fa3847536c8dd79e048d60e86d417f9
 #EXTINF:-1 tvg-id="sctv6" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png" group-title="♻️|Ace_Kênh Việt2",SCTV6 FILM 360
 http://127.0.0.1:6878/ace/getstream?id=540cea8ba557dabaa908edf1678518f44fb84c21
 #EXTINF:-1 tvg-id="antv" tvg-logo="https://mytv.com.vn/upload/channel/35.png" group-title="♻️|Ace_Kênh Việt2",ANTV HD
