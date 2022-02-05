@@ -1166,14 +1166,12 @@ http://127.0.0.1:6878/ace/getstream?id=31ce31ae992f86767b67863c32afdce783fdac97
 #EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/rtwtyq1436898868.png" group-title="♻️|Ace_SPORTS",SPORT TV3 HD
 http://127.0.0.1:6878/ace/getstream?id=61c6076fa90584440816889510dd906a77285f53
 
-
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 1 HD
 http://127.0.0.1:6878/ace/getstream?id=72757b5cdd3238e9ca9f281187c045e073848f92
 #EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 1 HD
 http://127.0.0.1:6878/ace/getstream?id=18170bb65cecdb1693e1a3fbeee70657e3291670
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 2 HD
 http://127.0.0.1:6878/ace/getstream?id=9f1f81e5272a8705c8672cd149fab86e0b55ee41
-
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" group-title="♻️|Ace_SPORTS",K SPORT 1
 http://127.0.0.1:6878/ace/getstream?id=071619ce144ba10c205143961a9c73fee2568c26
