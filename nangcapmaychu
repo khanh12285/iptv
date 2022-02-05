@@ -1144,3 +1144,192 @@ http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
 http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
 
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 1
+http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 2
+http://127.0.0.1:6878/ace/getstream?id=12722d111be8a2e069af83d535d5fd0b39734712
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 3
+http://127.0.0.1:6878/ace/getstream?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 4
+http://127.0.0.1:6878/ace/getstream?id=27618f71bc2611dca58af879642e0b507d0f39a0
+#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 5
+http://127.0.0.1:6878/ace/getstream?id=058a9ac982d6d29131f9bd277111f22de28400da
+
+
+#EXTINF:-1 group-title="♻⬇Link AceStream⬇♻" tvg-logo="https://goldencup.vn/wp-content/uploads/2017/09/fotolia_84282280-maquette-maintenance-2.jpg",bật app acestream engine vào tivimate play kênh!
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+#EXTINF:-1 group-title="♻⬇Link AceStream⬇♻"  tvg-logo="https://goldencup.vn/wp-content/uploads/2017/09/fotolia_84282280-maquette-maintenance-2.jpg",Dùng thêm vpn nếu lag!
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,Sky Sports F1 stream
+http://127.0.0.1:6878/ace/getstream?id=a5d1b21a14693c758f21fb93b9c808276c0ce025
+
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,ALL SPORTS
+http://127.0.0.1:6878/ace/getstream?id=7101b21c3c95847ddcd5ab47b775fbbc2c4e200f
+
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,Setanta Sport
+http://127.0.0.1:6878/ace/getstream?id=f89b5d2a3d33c079864e709236bc9ea896cc8e37
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,FOX SPORT NEW
+http://127.0.0.1:6878/ace/getstream?id=24564a46bdf2f816bcaba4ef2371fd2ab3b0a067
+
+
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,TENNIS CHANNEL HD (ArenaVision)
+http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,TENNIS Plus
+http://127.0.0.1:6878/ace/getstream?id=12bc0a80e191cc1fcb3155802162cb5925fcb460
+
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,KALOOPY 18+
+http://127.0.0.1:6878/ace/getstream?id=b63c7fec82ce9fe5ce153201aa475fb7f9394460
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,JASMIN.TV 18+
+http://127.0.0.1:6878/ace/getstream?id=8824d36d457edf53be6967bfca3f67952c2dc259
+#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,KINO 18+
+http://127.0.0.1:6878/ace/getstream?id=86026a0198ca8f105bf232eb61876f0158204e42
+
+
+
+
+
+#EXTM3U url-tvg="http://bit.ly/guidevn"
+
+#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",✍ KhamPha 23-12 Làm mới thường xuyên
+#http://127.0.0.1:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
+#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",Thanks for upload to acestream-logo-epg!
+#http://127.0.0.1:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
+#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",Hướng dẫn: bit.ly/huongdanacebongda
+#http://127.0.0.1:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
+
+
+
+
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 1-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 2-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=12722d111be8a2e069af83d535d5fd0b39734712
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 3-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 4-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=966bf9c2479d65f0d52bf9033430e92b7cfea242
+#EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 5-bit.ly/tiengruoi
+http://127.0.0.1:6878/ace/getstream?id=e0d6a0e875a3bebba88587da86dc5a0300abcf63
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="bein1premium" tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="♻️|Ace_SPORTS",BEIN PREMIUM 1 HD
+http://127.0.0.1:6878/ace/getstream?id=67dd7e40421d8de4380f8fdc083587083b824d4c
+#EXTINF:-1 tvg-id="bein2premium" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-2-759.png" group-title="♻️|Ace_SPORTS",BEIN PREMIUM 2 HD
+http://127.0.0.1:6878/ace/getstream?id=7d62ffffef2d45a16f6947f53682247fc721bbf5
+#EXTINF:-1 tvg-id="bein3premium" tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="♻️|Ace_SPORTS",BEIN PREMIUM 3 HD
+http://127.0.0.1:6878/ace/getstream?id=76ceff2763266c82609e4e87867217fe97b3d2f4
+
+
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="♻️|Ace_SPORTS",BT SPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=db1e5705480b55453b454fbae24b7c08ff150c8c
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" group-title="♻️|Ace_SPORTS",BT SPORT 2 HD
+http://127.0.0.1:6878/ace/getstream?id=e6111b8a6867dcf322ad91125cb1191444cca0ae
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" group-title="♻️|Ace_SPORTS",BT SPORT 3 HD
+http://127.0.0.1:6878/ace/getstream?id=85321532b71c906357924ee4ab1d615bced2cdd9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="♻️|Ace_SPORTS",M LALIGA HD
+http://127.0.0.1:6878/ace/getstream?id=ce36de199b15b101c027a2661a1dbcd0dbbf4365
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/mp44981502554837.png" group-title="♻️|Ace_SPORTS",SKY MAIN EVENT HD
+http://127.0.0.1:6878/ace/getstream?id=34e6617ba1bbee359a6063e45ea5553dbe383040
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="♻️|Ace_SPORTS",BT SPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=8f73bf4e102ce7702a241458583df2ce84f6ae1b
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="♻️|Ace_SPORTS",ARENA SPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=b7cf578817d63a2eea6b718b0634302900d7ba00
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/eit0541627492076.png" group-title="♻️|Ace_SPORTS",ARENA SPORT 2 HD
+http://127.0.0.1:6878/ace/getstream?id=91ce2c2a4b17463740c2c9094a47da79e0371ce3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="♻️|Ace_SPORTS",ARENA SPORT 5 HD
+http://127.0.0.1:6878/ace/getstream?id=e646f285bdfdab47641df04a3c3df0c337d23804
+
+
+#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png" group-title="♻️|Ace_SPORTS",SPORT TV1 HD
+http://127.0.0.1:6878/ace/getstream?id=e3bf260688fffc9a6a11501003abe332ff3f0a28
+#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png" group-title="♻️|Ace_SPORTS",SPORT TV2 HD
+http://127.0.0.1:6878/ace/getstream?id=31ce31ae992f86767b67863c32afdce783fdac97
+#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/rtwtyq1436898868.png" group-title="♻️|Ace_SPORTS",SPORT TV3 HD
+http://127.0.0.1:6878/ace/getstream?id=61c6076fa90584440816889510dd906a77285f53
+
+
+#EXTINF:-1 tvg-id="bein1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="♻️|Ace_SPORTS",BEIN SPORT 1 HD
+http://127.0.0.1:6878/ace/getstream?id=54cbfaf8ad446499aae28ae50b512d95c263f811
+#EXTINF:-1 tvg-id="bein2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="♻️|Ace_SPORTS",BEIN SPORT 2 HD
+http://127.0.0.1:6878/ace/getstream?id=705e0086f2156e1d76609393666b95a5bd43bebb
+#EXTINF:-1 tvg-id="bein3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="♻️|Ace_SPORTS",BEIN SPORT 3 HD
+http://127.0.0.1:6878/ace/getstream?id=d161e2aa8a15a3c04fc02ef6cb7301559ada151a
+#EXTINF:-1 tvg-id="bein5" tvg-logo="https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png" group-title="♻️|Ace_SPORTS",BEIN SPORT 5 HD
+http://127.0.0.1:6878/ace/getstream?id=635c0e010fdaa36aa7699a064b93fde4c135d85c
+
+
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 1 HD
+http://127.0.0.1:6878/ace/getstream?id=72757b5cdd3238e9ca9f281187c045e073848f92
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 1 HD
+http://127.0.0.1:6878/ace/getstream?id=18170bb65cecdb1693e1a3fbeee70657e3291670
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 2 HD
+http://127.0.0.1:6878/ace/getstream?id=9f1f81e5272a8705c8672cd149fab86e0b55ee41
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png" group-title="♻️|Ace_SPORTS",TRUE SPORTS HD1
+http://127.0.0.1:6878/ace/getstream?id=7d960433e028b54908d67ffec5afd2b5fc5c3268
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="♻️|Ace_SPORTS",TRUE SPORTS HD2
+http://127.0.0.1:6878/ace/getstream?id=2952efa75a9f912b38b3754258fa44828f4695dd
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png" group-title="♻️|Ace_SPORTS",TRUE SPORTS HD3
+http://127.0.0.1:6878/ace/getstream?id=8aca9f8ad6574664c61975d93b9f2a6cf220624d
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png" group-title="♻️|Ace_SPORTS",TRUE SPORTS HD3
+http://127.0.0.1:6878/ace/getstream?id=e3b8d2c71508df29a1df9c8c7e6a18a95509bfc9
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="♻️|Ace_SPORTS",TRUE SPORTS HD4
+http://127.0.0.1:6878/ace/getstream?id=c0325fa6be3df745f283a6cc224ae82a576b4bc1
+
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/r7vubi1601731224.png" group-title="♻️|Ace_SPORTS",Матч ТВ FHD
+http://127.0.0.1:6878/ace/getstream?id=7abf95a228bed9e641b12f8567cd61e8ecf2382d
+#EXTINF:-1 tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_19_3719_E_70_1680000_0_0_0.png" group-title="♻️|Ace_SPORTS",Матч! Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=8baf53760a03aa51e10134509f124e27b3be75cd
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/am4ot71628519853.png" group-title="♻️|Ace_SPORTS",Матч! Футбол 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=c223ddfc106be291dedf079f1f10e88a74a865d6
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/69eju21628519874.png" group-title="♻️|Ace_SPORTS",Матч! Футбол 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=e7bec3a97442580c257cbebd28cec8f53b6fc703
+
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" group-title="♻️|Ace_SPORTS",K SPORT 1
+http://127.0.0.1:6878/ace/getstream?id=071619ce144ba10c205143961a9c73fee2568c26
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png" group-title="♻️|Ace_SPORTS",K SPORT 2
+http://127.0.0.1:6878/ace/getstream?id=44a46377029622b2a16c6a3976e07789df29dd85
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png" group-title="♻️|Ace_SPORTS",K SPORT 3
+http://127.0.0.1:6878/ace/getstream?id=de3b4b3ebfe4ecd073a50437f930d256c454fd0c
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Newlogo_TVP_SPORT_HD.jpg" group-title="♻️|Ace_SPORTS",TVP SPORT HD
+http://127.0.0.1:6878/ace/getstream?id=f5950b8d9b619f7cbd1f8c2b23da140c58de1637
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="♻️|Ace_SPORTS",CANAL+SPORT HD
+http://127.0.0.1:6878/ace/getstream?id=66b69a2a5d65c505d553143db6bbe3d5fa8ac3ff
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="♻️|Ace_SPORTS",CANAL+SPORT HD1
+http://127.0.0.1:6878/ace/getstream?id=b258f7b7fc2aed0e3e66fb4836113208902b5348
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="♻️|Ace_SPORTS",ELEVEN SPORTS 1 HD
+http://127.0.0.1:6878/ace/getstream?id=ca89f7973ca3084f9c33bf7105daca5b46575ed5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="♻️|Ace_SPORTS",ELEVEN SPORTS 2 HD
+http://127.0.0.1:6878/ace/getstream?id=164da6c05cc464000294fdce997a6ad7f095431f
+
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/r7vubi1601731224.png" group-title="♻️|Ace_SPORTS",Матч ТВ FHD
+http://127.0.0.1:6878/ace/getstream?id=493cdbeb9463e19bb2ec72e60357d60072e3f908
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJPGHKw.png" group-title="♻️|Ace_SPORTS",Матч! Футбол 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=2b37d683900749f8ba7a520e3f06f012127980d4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lw5Gd3b.png" group-title="♻️|Ace_SPORTS",Матч! Футбол 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=636aacd9b73d46399fdc525ec3cb7e243a271d1b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKOT5jE.png" group-title="♻️|Ace_SPORTS",Матч! Футбол 3 FHD
+http://127.0.0.1:6878/ace/getstream?id=485546bddda35f4d0ab5aba150978f600614c1a6
+
+
