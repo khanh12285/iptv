@@ -1142,17 +1142,6 @@ http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
 http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
 
-#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 1
-http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
-#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 2
-http://127.0.0.1:6878/ace/getstream?id=12722d111be8a2e069af83d535d5fd0b39734712
-#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 3
-http://127.0.0.1:6878/ace/getstream?id=3f846942f8e8e91fb1c94fa10e2c536372ef8f2c
-#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 4
-http://127.0.0.1:6878/ace/getstream?id=27618f71bc2611dca58af879642e0b507d0f39a0
-#EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 5
-http://127.0.0.1:6878/ace/getstream?id=058a9ac982d6d29131f9bd277111f22de28400da
-
 #EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,Sky Sports F1 stream
 http://127.0.0.1:6878/ace/getstream?id=a5d1b21a14693c758f21fb93b9c808276c0ce025
 
@@ -1173,15 +1162,6 @@ http://127.0.0.1:6878/ace/getstream?id=12bc0a80e191cc1fcb3155802162cb5925fcb460
 http://127.0.0.1:6878/ace/getstream?id=b63c7fec82ce9fe5ce153201aa475fb7f9394460
 #EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,JASMIN.TV 18+
 http://127.0.0.1:6878/ace/getstream?id=8824d36d457edf53be6967bfca3f67952c2dc259
-#EXTINF:-1 tvg-id="" group-title="♻|Ace_vn360sport♻" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,KINO 18+
-http://127.0.0.1:6878/ace/getstream?id=86026a0198ca8f105bf232eb61876f0158204e42
-
-#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",✍ KhamPha 23-12 Làm mới thường xuyên
-#http://127.0.0.1:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
-#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",Thanks for upload to acestream-logo-epg!
-#http://127.0.0.1:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
-#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",Hướng dẫn: bit.ly/huongdanacebongda
-#http://127.0.0.1:6878/ace/getstream?id=bc92bbc45be12cf51706daf41ca9fc4212677455
 
 #EXTINF:-1 group-title="♻️|Ace_TiengRuoi" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIẾNGRƯỠI 1-bit.ly/tiengruoi
 http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
