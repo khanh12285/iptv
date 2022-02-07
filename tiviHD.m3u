@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở tết)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
-#http://gg.gg/tvpepsi
+http://gg.gg/tvpepsi
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍬 K+( mở tết)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1 HD 
 #http://gg.gg/tvpepsi
