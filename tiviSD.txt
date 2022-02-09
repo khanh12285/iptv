@@ -4,6 +4,36 @@
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở test)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
 http://gg.gg/k1cine
 
+http://103.125.191.32:8000/htv9
+#EXTINF:-1 group-title="beIN Sports" tvg-id="bein1premium" tvg-shift="-4",beIN Sports Premium 1 HD
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="beIN Sports" tvg-id="bein2premium" tvg-shift="-4",beIN Sports Premium 2 HD
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="beIN Sports" tvg-id="bein3premium" tvg-shift="-4",beIN Sports Premium 3 HD
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="MATCH",Маtch ТV
+http://51.210.113.81:8081/match-tv-hd
+#EXTINF:-1 group-title="MATCH",Маtch Arena
+http://95.183.43.237:8080/193/index.m3u8
+#EXTINF:-1 group-title="MATCH",Маtch Game
+http://95.183.43.237:8080/83/index.m3u8
+#EXTINF:-1 group-title="MATCH",Маtch Futbol 1
+http://95.183.43.237:8080/258/index.m3u8
+#EXTINF:-1 group-title="MATCH",Маtch Futbol 2
+http://95.183.43.237:8080/259/index.m3u8
+#EXTINF:-1 group-title="MATCH",Маtch Futbol 3
+http://95.183.43.237:8080/260/index.m3u8
+#EXTINF:-1 group-title="ACESTREAM",Маtch ТV (Audio gốc)
+#http://127.0.0.1:6878/ace/getstream?id=493cdbeb9463e19bb2ec72e60357d60072e3f908
+#EXTINF:-1 group-title="ACESTREAM" tvg-id="BT Sport 1",BT Sport 1 HD
+#http://127.0.0.1:6878/ace/getstream?id=db1e5705480b55453b454fbae24b7c08ff150c8c
+#EXTINF:-1 group-title="ACESTREAM" tvg-id="BT Sport 2",BT Sport 2 HD
+#http://127.0.0.1:6878/ace/getstream?id=e6111b8a6867dcf322ad91125cb1191444cca0ae
+#EXTINF:-1 group-title="ACESTREAM" tvg-id="BT Sport 3",BT Sport 3 HD
+#http://127.0.0.1:6878/ace/getstream?id=85321532b71c906357924ee4ab1d615bced2cdd9
+#EXTINF:-1 group-title="ACESTREAM",BT Sport ESPN HD
+#http://127.0.0.1:6878/ace/getstream?id=2137c01372727c08a9d9f4f09001b3157aa3c929
+
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
 #http://127.0.0.1:6878/ace/getstream?id=cacbcf8c81f6076be91f01ae80106f9241a0a29d
