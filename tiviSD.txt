@@ -217,39 +217,12 @@ http://127.0.0.1:6878/ace/getstream?id=76ceff2763266c82609e4e87867217fe97b3d2f4
 #EXTINF:-1 tvg-id="BT Sport 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="♻️|Ace_SPORTS",BT SPORT 1 HD
 http://127.0.0.1:6878/ace/getstream?id=8f73bf4e102ce7702a241458583df2ce84f6ae1b
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="♻️|Ace_SPORTS",ARENA SPORT 1 HD
-http://127.0.0.1:6878/ace/getstream?id=b7cf578817d63a2eea6b718b0634302900d7ba00
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/eit0541627492076.png" group-title="♻️|Ace_SPORTS",ARENA SPORT 2 HD
-http://127.0.0.1:6878/ace/getstream?id=91ce2c2a4b17463740c2c9094a47da79e0371ce3
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_5.png" group-title="♻️|Ace_SPORTS",ARENA SPORT 5 HD
-http://127.0.0.1:6878/ace/getstream?id=e646f285bdfdab47641df04a3c3df0c337d23804
-
-#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png" group-title="♻️|Ace_SPORTS",SPORT TV1 HD
-http://127.0.0.1:6878/ace/getstream?id=e3bf260688fffc9a6a11501003abe332ff3f0a28
-#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwwxrx1436898851.png" group-title="♻️|Ace_SPORTS",SPORT TV2 HD
-http://127.0.0.1:6878/ace/getstream?id=31ce31ae992f86767b67863c32afdce783fdac97
-#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/rtwtyq1436898868.png" group-title="♻️|Ace_SPORTS",SPORT TV3 HD
-http://127.0.0.1:6878/ace/getstream?id=61c6076fa90584440816889510dd906a77285f53
-
-#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 1 HD
-http://127.0.0.1:6878/ace/getstream?id=72757b5cdd3238e9ca9f281187c045e073848f92
-#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 1 HD
-http://127.0.0.1:6878/ace/getstream?id=18170bb65cecdb1693e1a3fbeee70657e3291670
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="♻️|Ace_SPORTS",TRUE PREMIER FOOTBALL 2 HD
-http://127.0.0.1:6878/ace/getstream?id=9f1f81e5272a8705c8672cd149fab86e0b55ee41
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" group-title="♻️|Ace_SPORTS",K SPORT 1
 http://127.0.0.1:6878/ace/getstream?id=071619ce144ba10c205143961a9c73fee2568c26
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png" group-title="♻️|Ace_SPORTS",K SPORT 2
 http://127.0.0.1:6878/ace/getstream?id=44a46377029622b2a16c6a3976e07789df29dd85
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png" group-title="♻️|Ace_SPORTS",K SPORT 3
 http://127.0.0.1:6878/ace/getstream?id=de3b4b3ebfe4ecd073a50437f930d256c454fd0c
-
-#EXTINF:-1 tvg-id="" group-title="♻️|Ace_SPORTS" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,KALOOPY 18+
-http://127.0.0.1:6878/ace/getstream?id=b63c7fec82ce9fe5ce153201aa475fb7f9394460
-#EXTINF:-1 tvg-id="" group-title="♻️|Ace_SPORTS" tvg-logo="https://st.quantrimang.com/photos/image/2017/11/01/Ace-Stream-xem-bong-logo640.jpg" ,JASMIN.TV 18+
-http://127.0.0.1:6878/ace/getstream?id=8824d36d457edf53be6967bfca3f67952c2dc259
-
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|XEM LẠI" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO HD 🔄
