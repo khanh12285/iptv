@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #Update 11/08/2021 v1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍬 K+( mở test)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1 HD 
-http://gg.gg/tvpepsi
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở test)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
+http://gg.gg/k1cine
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
