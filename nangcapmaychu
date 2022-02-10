@@ -976,12 +976,12 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiN
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
 https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
 
-#EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-id="bein1premium" tvg-shift="-4",beIN Sports Premium 1 HD
+
+#EXTINF:-1 tvg-id="bein1premium" tvg-logo="https://img.sport-tv-guide.live/images/stations/a761.png" group-title="💓LIVE SPORT💓",BEIN PREMIUM 1 HD
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
-#EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-id="bein2premium" tvg-shift="-4",beIN Sports Premium 2 HD
+#EXTINF:-1 tvg-id="bein2premium" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-2-759.png" group-title="💓LIVE SPORT💓",BEIN PREMIUM 2 HD
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
-#EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-id="bein3premium" tvg-shift="-4",beIN Sports Premium 3 HD
+#EXTINF:-1 tvg-id="bein3premium" tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="💓LIVE SPORT💓",BEIN PREMIUM 3 HD
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
