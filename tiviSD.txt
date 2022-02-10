@@ -34,7 +34,7 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZGY2MTM2NGItZmRmMy0zZTRkLTgwMTItMTNhMDkzM2E3ZWZl
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
 
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
