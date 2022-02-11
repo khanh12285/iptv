@@ -1,5 +1,19 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD 
+http://gg.gg/keoosport1
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+http://gg.gg/keoosport2
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
+http://gg.gg/keoocine
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+Life HD 
+http://gg.gg/keoolife
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở tết)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
