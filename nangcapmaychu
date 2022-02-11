@@ -986,3 +986,66 @@ http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-id="bein3premium" tvg-logo="https://img.sport-tv-guide.live/images/stations/a760.png" group-title="💓LIVE SPORT💓",BEIN PREMIUM 3 HD
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 1 (BLV:Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/61646d97a6651b3afc198084.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 2
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/616ef999a6651b183b2f3a1c.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 3
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/chunklist.m3u8|Referer=https://mitom.90phuttt.xyz/6176fa94e5fdc40095362bc6.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 4
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/616ef99aa6651b183b2f3a23.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 5 (BLV nhà đài) 
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/6169b39ca6651b28e16b3b22.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 6 (BLV: Nhà Đài)
+https://p90020921.vnroute.com/may9/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/616ef999a6651b183b2f3a21.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 7 (BLV Ầu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8|Referer=https://mitom.90phuttt.xyz/6165c4f3a6651b1e4e649025.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 8
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/chunklist.m3u8|Referer=https://mitom.90phuttt.xyz/6176fa94e5fdc40095362bc6.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 9
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may61/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/61759ef7e5fdc4009106539a.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 10
+https://livestream-2.socialstreaming.tv/live/617d52230fad37001c4553d0/617d52230fad37001c4553d0.m3u8|Referer=https://mitom.90phuttt.xyz/61759ef7e5fdc4009106539a.html
+#EXTINF:-1 group-title="🌶 Bóng Lậu" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 11
+https://p90020921.vnroute.com/may4/chunks.m3u8|Referer=https://mitom.90phuttt.xyz/61759ef7e5fdc4009106539a.html
+
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", BLV: A Páo
+http://gg.gg/tb-live15|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", BLV: A Cay
+http://gg.gg/tb-live16|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", BLV: A Lữ
+http://gg.gg/tb-live17|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", BLV: A Long
+http://gg.gg/tb-live18|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", BLV: A Phò
+http://gg.gg/tb-live19|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", BLV: A Tài
+http://gg.gg/tb-live20|Referer=https://cakhia8.tv/truc-tiep
+
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 1 | Nhà Đài
+http://gg.gg/tb-live13|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 2 | Nhà Đài
+http://gg.gg/tb-live14|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 3 | Nhà Đài
+http://gg.gg/tb-live3|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 4 | Nhà Đài
+http://gg.gg/tb-live4|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 5 | Nhà Đài
+http://gg.gg/tb-live5|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 6 | Nhà Đài
+http://gg.gg/tb-live6|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 7 | Nhà Đài
+http://gg.gg/tb-live7|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 8 | Nhà Đài
+http://gg.gg/tb-live8|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 9 | Nhà Đài
+http://gg.gg/tb-live9|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 10 | Nhà Đài
+http://gg.gg/tb-live10|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 11 | Nhà Đài
+http://gg.gg/tb-live11|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 12 | Nhà Đài
+http://gg.gg/tb-live12|Referer=https://cakhia8.tv/truc-tiep
+#EXTINF:0 group-title="🌶 Bóng Lậu" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png", CàKhịa 13 | Nhà Đài
+http://gg.gg/tb-live21|Referer=https://cakhia8.tv/truc-tiep
