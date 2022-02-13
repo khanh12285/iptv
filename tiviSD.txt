@@ -1,9 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 #Update 13/02/2022 beta
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở tết)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
-
 http://gg.gg/k1cine
-
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="🍬 K+( mở tết)" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981226852763614647.jpg",VTVcab16
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
