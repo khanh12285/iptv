@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 #Update 13/02/2022 beta
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở tết)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+( mở tết)" tvg-
 http://gg.gg/k1cine
 
 
