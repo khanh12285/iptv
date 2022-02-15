@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
+#KODIPROP:inputstream.adaptive.license_key
 https://live.quangkv.com/fpt/manifest.mpd
 
 
