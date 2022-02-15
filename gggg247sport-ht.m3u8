@@ -1,15 +1,10 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-
-
 #EXTINF: -1 tvg-id = "kcinehd" group-title = "📺|K+" tvg-logo = "https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K + CINE HD
 http://gg.gg/keocine
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="📺|K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
 http://gg.gg/keosport2
-
-
-
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
