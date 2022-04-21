@@ -1,0 +1,285 @@
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 refresh="1"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+ Cine HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/8806b28f20037c3a7ddabf3bfcd96e98/1650362496153/wz/livetv_origin_drm/kplus_1_22_08_2021.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/pkscwfe3_k_life.png",K+ Life HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/5d7ca06d03202f3e900e7ac8bb8595c4/1650362496266/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png",K+ Kids HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/d09948a5ef599568c4bc747b6020cc51/1650362497635/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/9i7b52um_sport1.png",K+ Sport1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/fdfc98b1984cdb37015707d2feb41d38/1650362497728/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
+https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/8e657bf4a542ae160da4e6664fb122b5/1650362497834/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/c67nn23m_vtv1.png",VTV1 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/2fa5fce121ec108a27fecad6465ddbe7/1650362497992/vtc/live/hd_vtv1_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eqieaca5_vtv2.png",VTV2 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/ec974227013d673602f42d27f7500fc9/1650362498105/vtc/live/hd_vtv2_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/f8gey2m6_vtv3.png",VTV3 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/38891c8aeb01d447489e5c2194c9dcf4/1650362498198/vtc/live/hd_vtv3_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3yogomt_vtv4.png",VTV4 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/3c48631caf939c6f342609c4ab6ae453/1650362498277/vtc/live/hd_vtv4_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/6ftr9fqq_vtv5.png",VTV5 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/e0c551be2e8933b98642356795a1c1ad/1650362498344/vtc/live/hd_vtv5_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/eckgd5j2_vtv6.png",VTV6 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/ed4ce9991d844587d9e96a2b4a66d978/1650362498439/vtc/live/hd_vtv6_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/56srd8ee_vtv7.png",VTV7 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/50a44cf94cba359585d8ddcdc0128a71/1650362498518/vtc/live/hd_vtv7_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nnncwn7b_vtv8.png",VTV8 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/ddab4e91afb10cca588b0dfe31c5fe45/1650362498585/vtc/live/hd_vtv8_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/7nyvvw57_vtv9.png",VTV9 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/d79b28769d043284f9d5c959c27bec16/1650362498663/vtc/live/hd_vtv9_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n2uwpyq8_htv2_viechannel.png",Vie Channel HTV2 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/a9d5cca886d72b9348f845a18c6d3321/1650362498769/htv_drm/live/viechannel/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yxyqf42p_htv1.png",HTV1
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/62c23700979ca228266d72a85d369276/1650362498859/htv_drm/live/htv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2tkk5baw_htv3.png",HTV3
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/768afd6a089eaea75e1c18ac3b0b9adf/1650362498934/htv_drm/live/htv3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ifxrm5vk_htv7hd.png",HTV7 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/3eb9880f7c8560f8672280f0396eb5b9/1650362499011/htv_drm/live/htv7/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/fumnfkgr_htv9hd.png",HTV9 HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/dacc63255f01cc000f4eccbbaea4a724/1650362499087/htv_drm/live/htv9/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/5esq78z8_htv_the_thao.png",HTV Thể Thao HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/590880ab25e8fc95e8a5a811cdc06343/1650362499159/htv_drm/live/htv_the_thao/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mndic8hi_htv_key.png",HTV Key
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/d40229c6e96cba85330f08a9c32797a1/1650362499234/htv_drm/live/htv_key/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ef3k8dni_htv_coop.png",HTV Co.op
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/ddfd6e0c1495d7b3945803812180aad3/1650362499317/htv_drm/live/htv_coop/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/15/yk176qra_hboz.png",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09ddfe3d63863cafaeb79d0546b098ab&key=3de0f38dcf014827dfd5bec38743c6a2
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/c6ce2393b2c662ad37094f367387f55f/1650362499401/qnet/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/15/k65x8wx2_cinemax.png",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=acb4c23471063327adc732e283c0847f&key=e9868f5f473d0fd8699ede48d531c2b0
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/27ee804ff28b7b8fb6d14e75c49010a9/1650362499504/qnet/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dcc8q5s6_vie_giai_tri.png",Vie Giải Trí HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/85645c2e36415dd04ad3e1a584af513a/1650362499684/vtvcab/live/hd_vtvcab_1_test/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/19kuj0j5_vie_dramas.png",Vie Dramas HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/88ad5c22ae2f2c7c87dd9808200f0c79/1650362499772/vtvcab/live/sd_vtvcab_19/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ov5121ho_anvien_tv.png",An Viên HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/c4710f7ec262894d059163756e59bb49/1650362499806/vtvcab/live/hd_anvien/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/5116f953d1413efbbbf9102be891c280/1650362499911/htv_drm/live/antv/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png",TH Thông Tấn HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/f17f62b7861598c2847fe22191b0970b/1650362499994/htv_drm/live/ttxvn/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/24f41a239e89ea5dba7e52aa4885f7c4/1650362500073/htv_drm/live/qpvn/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/q0dszp50_quoc_hoi.png",Quốc Hội HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/6a97d30bf82cf2a18fa9d3c4a214c1e0/1650362500150/htv_drm/live/quoc_hoi/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mwzuwf1x_nhan_dan.png",Nhân Dân TV HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/89cae0a02af27adb17a5c7c76850a29c/1650362500236/htv_drm/live/nhan_dan/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/vomjxwaf_vtc1.png",VTC1 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/2189a6f0b725fabb2a437c6d012baaaf/1650362500345/vtc/live/hd_vtc1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/j7p7msoq_vtc2.png",VTC2
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/ec93c49550e4fa99b4cf1b45858db4b2/1650362500470/vtc/live/sd_vtc2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/nd9vr37o_vtc3.png",VTC3 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/ec7411e7c90c9c19b5f1c4562564f9ca/1650362500498/vtc/live/hd_vtc3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/pveicc5i_yeah1family.png",VTC4 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/fb74e10d834da5bafa04ae3cb0303da2/1650362500591/vtc/live/hd_vtc4/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zmmtrjkj_tvblue.png",VTC5 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/fbe039cbf3fcd878b99b3125a6c6a690/1650362500669/vtc/live/hd_vtc5/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n29gxrhh_vtc6.png",VTC6
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/b63d35ac45a53c8a48ec1776bcebe258/1650362500773/vtc/live/sd_vtc6/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/d55d3yru_today_tv.png",VTC7 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/46747ad6ce1dae973f28a8d37edc09fb/1650362500846/vtc/live/hd_vtc7/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/a1ubt0mt_vtc8.png",VTC8
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/9a8dd2c4195fad1b913f8a7ed70fb54f/1650362500915/vtc/live/sd_vtc8/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/g4p6dsjm_vtc9.png",VTC9 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/33ad6fc996e57149054d48a69a0326ca/1650362500982/vtc/live/hd_vtc9/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kz7goi52_vtc10.png",VTC10
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/7ee23d6365329eab10095cf745973f2c/1650362501034/vtc/live/sd_vtc10/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ewxbyzxg_kidfamily_tv.png",VTC11
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/ff083459116b6946ce1a5cf244782df7/1650362501098/vtc/live/sd_vtc11/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zqw7a4jt_vtc12.png",VTC12
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/fa52b8e4818f3a02012a3f7c46c7c572/1650362501197/vtc/live/sd_vtc12/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n7r5rfor_vtc13.png",VTC13 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/f28400fe6505084835da1cd2fdf520ff/1650362501257/vtc/live/hd_vtc13/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/rpkkt8cc_vtc14.png",VTC14 HD
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/698938fad2f37c8ea21935a31fe9594b/1650362501350/vtc/live/hd_vtc14/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ngtea5mj_vtc16.png",VTC16 HD
+https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/1ae03af709fd5ab55b6fe6fd6877c08d/1650362501406/vtc/live/hd_vtc16/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ciubbyjp_htvc_thuan_viet_hd.png",HTVC Thuần Việt HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/233fbb08ebaf262d78c08f3208142303/1650362501491/htv_drm/live/htvc_thuan_viet/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/z8akbcyp_htvc_thuan_viet.png",HTVC Thuần Việt
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/5690cdfa22c2aea8b3091131ce1d996c/1650362501570/htv_drm/live/htvc_thuan_viet_sd/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kf57ivo9_htvc_.png",HTVC+ HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/0ca52c180daed7f004d0ae6e68e3b337/1650362501635/htv_drm/live/htvc/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/u7nk6mz2_htvc_du_lich_cuoc_song.png",HTVC Du lịch & Cuộc sống HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/5243f09228ddcebb352930477004c5fc/1650362501724/htv_drm/live/htvc_du_lich_cuoc_song/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.png",HTVC Ca Nhạc HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/805d4bf375fe5a2e016a5a3b387397f1/1650362501989/htv_drm/live/htvc_ca_nhac/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/km0yc4ss_htvc_phim.png",HTVC Phim HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/7262085ee7d12a7d445d59220149ab36/1650362502063/htv_drm/live/htvc_phim/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8gqjv4o5_htvc_gia_dinh.png",HTVC Gia Đình HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/b1ea5e52a5d1916a2fd9d7a080963501/1650362502177/htv_drm/live/htvc_gia_dinh/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/uxnuzbhe_htvc_phu_nu.png",HTVC Phụ Nữ HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/0cebac89aab76b2ff98f4abd2393c8bf/1650362502207/htv_drm/live/htvc_phu_nu/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/3zbjrkcw_htvc_shopping.png",HTVC Mua sắm tiêu dùng
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/2d09718663ac0bbc313abeffea2bf832/1650362502283/htv_drm/live/htvc_mua_sam_tieu_dung/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/dq2vnjts_thvl1.png",Vĩnh Long 1 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/327bb33888f8080524fea4df7f315b94/1650362502432/htv_drm/live/thvl1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hi3aqazw_thvl2.png",Vĩnh Long 2 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/55e338a1e1ca9219a60746ca91204def/1650362502546/htv_drm/live/thvl2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/r3pts3dr_thvl3.png",Vĩnh Long 3 HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/4e0a1f864c09e6ac8e4d876fb228941b/1650362502580/htv_drm/live/thvl3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yk4n898k_thvl4.png",Vĩnh Long 4 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/5456f76307b1e33625dbc7137bf75dc8/1650362502646/htv_drm/live/thvl4/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kmn935sw_an_giang.png",An Giang
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/d44579274ea18ac0376b81ccdcb2ce50/1650362502944/htv_drm/live/an_giang/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2wdpabyi_ba_ria_vung_tau.png",Bà Rịa Vũng Tàu
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/ecf3a5c8a8c0baad1504c37b2ed0a61f/1650362503050/htv_drm/live/ba_ria_vung_tau/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xqmy3zen_bac_lieu.png",Bạc Liêu
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/ae7fb256ceb44f92ecdecc526a5df2a5/1650362503129/htv_drm/live/bac_lieu/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/17/k554a1uv_bacninh.png",Bắc Ninh
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/3595d7e878a510dc525ae65a7af39073/1650362503187/htv_drm/live/i_bac_ninh/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xkkqdvxq_bac_giang.png",Bắc Giang HD
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/bf9dc5c088b8f29588610cfb499faeb6/1650362503298/htv_drm/live/bac_giang/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/11/04/uuihvjto_backan.png",Bắc Kạn
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/8f66e48b36b0421324fca83b667070d0/1650362503402/htv_drm/live/i_bac_kan/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yqwgmubo_ben_tre.png",Bến Tre
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/8b9a0715d3e2e640ab2d62704af28591/1650362503464/htv_drm/live/ben_tre/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/odg53y2f_binh_dinh.png",Bình Định
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/fac31fd7f795228496101400d28e8c22/1650362503544/htv_drm/live/binh_dinh/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/qhds8nff_binh_duong_1.png",Bình Dương 1
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/0ae2e3ad8134a1620602aeb99159a340/1650362503614/htv_drm/live/binh_duong_1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.png",Bình Dương 2
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/925424ce827fea7865f5256be6e1fbaa/1650362503751/htv_drm/live/binh_duong_2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/at88krjp_imovie.png",Bình Dương 4 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/82091165d8b3a3b29de9cda94aa81d8b/1650362503848/htv_drm/live/binh_duong_4/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/pzr6bcmt_binhduong6.png",Bình Dương 6
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/b7b74660f01985ddd9733363e5ad6fbc/1650362503883/htv_drm/live/i_binh_duong_6/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mov5ar52_binh_duong_11.png",Bình Dương 11
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/c127e25e623713b00e35f968b2fad794/1650362504058/htv_drm/live/btv11/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/wz9i5h9w_binh_phuoc_1.png",Bình Phước 1
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/e1b7a1a1eb986e222597a699a623f27d/1650362504089/htv_drm/live/binh_phuoc/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/bcr1ki1k_binh_phuoc_2.png",Bình Phước 2
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/c466d85bfe235b164aa40a553d6d2dfd/1650362504225/htv_drm/live/binh_phuoc_2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8888zunm_binh_thuan.png",Bình Thuận
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/0c8a82eea408adf0122cb8c4fc47443d/1650362504266/htv_drm/live/binh_thuan/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/a0a5d9ea817de445a5cbf2878147f50c/1650362504428/htv_drm/live/can_tho/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/da12eee56935b65eab149747aba296a8/1650362504461/htv_drm/live/i_ca_mau/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zjyau63m_da_nang_1.png",Đà Nẵng 1
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/5393787c7e0423d44956e6577c1e4b8c/1650362504567/htv_drm/live/da_nang_1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2vo0dv8a_da_nang_2.png",Đà Nẵng 2
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/590e219d4b59238b1fc1ea1b311ba865/1650362504634/htv_drm/live/da_nang_2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/k9qh8yg0_dak_lak.png",Đắk Lắk
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/7e3ba0f5690b045ed4e93fe2c3255e4b/1650362504705/htv_drm/live/dak_lak/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ys472buj_dak_nong.png",Đắk Nông
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/dbf3f06701a2ff54873a74682eaa0af4/1650362504780/htv_drm/live/dak_nong/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ijdemqaa_dongthap1.png",Đồng Tháp 1
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/341df1b033e7c4ed50a5f73643992127/1650362504886/htv_drm/live/dong_thap_1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ar7my9t1_dongthap2.png",Đồng Tháp 2
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/28af20b3b89af67c76aa65226e0a2747/1650362504966/htv_drm/live/dong_thap_2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/v173295f_dong_nai_1.png",Đồng Nai 1 HD
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/5838c31f978e96c1240099829ad6a72a/1650362505052/htv_drm/live/dong_nai_1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zpy96yn8_dong_nai_2.png",Đồng Nai 2
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/96b801916c4a979cd0526e455a458301/1650362505130/htv_drm/live/dong_nai_2/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/29/bttzmz2f_dongnai3.png",Đồng Nai 3
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/9d55bf4f93ded63360d6cb7d0832eede/1650362505192/htv_drm/live/dong_nai_3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/11/15/z4bse9hi_dien_bien.png",Điện Biên
+https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/b401dd2811dcc079ebabc906b9f38df6/1650362505269/htv_drm/live/i_dien_bien/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",Gia Lai
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/8146e26d6b86dd2b0fee5057267d8e88/1650362505346/htv_drm/live/i_gia_lai/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/gimw30y2_ha_nam.png",Hà Nam
+https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/0e8ed80da54296075200f1bcafb0edab/1650362505413/htv_drm/live/ha_nam/manifest.mpd
